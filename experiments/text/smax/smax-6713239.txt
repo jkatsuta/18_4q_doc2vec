@@ -1,0 +1,34 @@
+http://news.livedoor.com/article/detail/6713239/
+2012-07-02T10:37:00+0900
+NTTドコモ、Disney Mobile on docomo F-08DおよびP-05D、GALAXY Note SC-05DのAndroid 4.0 ICSへのOSバージョンアップを8月以降に提供
+Android 4.0へのバージョンアップ対象機種が追加！ 
+
+NTTドコモは2日、現在販売中のAndroidスマートフォン「Disney Mobile on docomo F-08D」（富士通製）および「Disney Mobile on docomo P-05D」（パナソニックモバイルコミュニケーションズ製）、「GALAXY Note SC-05D」（サムスン電子製）の3機種についてより新しいプラットフォーム「Android 4.0（開発コード名：IceCream Sandwich；ICS）」へのOSバージョンアップを2012年8月以降に順次提供予定であることをお知らせしています。
+
+Disney Mobile on docomo F-08DおよびDisney Mobile on docomo P-05DについてはAndroid 4.0へのOSバージョンアップを提供するかどうか検討中としていましたが、あらためて提供予定であることが案内されました。
+
+NTTドコモではすでに今年3月にスマートフォンでは「REGZA Phone T-01D」、「AQUOS PHONE SH-01D」、「LUMIX Phone P-02D」、「PRADA phone by LG L-02D」、「MEDIAS ES N-05D」、「Xperia acro HD SO-03D」、「GALAXY S II SC-02C」、「GALAXY S II LTE SC-03D」、「Optimus LTE L-01D」、「ARROWS X LTE F-05D」、「MEDIAS LTE N-04D」、「Xperia NX SO-02D」、「P-04D」、「AQUOS PHONE SH-06D/SH-06D NERV」、タブレットでは「GALAXY Tab 10.1 LTE SC-01D」、「ARROWS Tab LTE F-01D」、「GALAXY Tab 7.0 Plus SC-02D」、「MEDIAS TAB N-06D」の合計18機種について2012年7月以降に順次Android 4.0へのOSバージョンアップを提供することを案内していました。
+
+これに今回新しく3機種が追加されたとのことです。
+
+
+
+■AndroidTM4.0バージョンアップ予定の追加製品（2012年7月2日（月曜）現在）
+
+【docomo with series】
+・Disney Mobile on docomo F-08D　
+・Disney Mobile on docomo P-05D
+
+【docomo NEXT series】
+・GALAXY Note SC-05D 　
+
+【バージョンアップ開始時期】
+・2012年8月以降順次（予定）
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・ドコモからのお知らせ : 【3機種追加のお知らせ】「docomo with series」「docomo NEXT series」の AndroidTM4.0へのバージョンアップについて | お知らせ | NTTドコモ
+・NTTドコモ、スマートフォンやタブレット18機種にAndroid 4.0 ICSへのバージョンアップを2012年7月以降順次提供 - S-MAX - ライブドアブログ

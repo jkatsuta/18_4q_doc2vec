@@ -1,0 +1,85 @@
+http://news.livedoor.com/article/detail/6385394/
+2012-03-20T12:00:00+0900
+待ってましたのGPUが発売！新型Radeon HD搭載カードが続々登場中
+バリバリな3D性能を必要とするケースって、FPSやTPSといったフレーム単位で勝負が分かれるようなことでもないかぎり、そうそう必要ない。そうした特殊な状況は除外したとしても、大規模MMORPGを高解像度でなおかつ各種効果をガンガンに効かしてプレイするとなると、それなりの3D描画性能は必要だ。
+
+パーツ市場を見まわしてみると2万円台半ばのグラフィックスカードでは、いまいち性能的に物足りない。かといってその上を狙うとなると一気に5万円を超えてしまう。というアンバランスな状況があった。5万円超のカードは性能は良くても高すぎる。性能的にハイエンドのちょっと下、ミドルレンジよりは上くらいのカードが欲しいというニーズに合う製品がなかったわけだ。
+
+そんなニーズにぴったりなGPUが今月頭に発表された。それがAMDのRadeon HD 7870とRadeon HD 7850だ。Radeon HD 7870は4万円半ばをカバーしRadeon HD 7850が3万円台半ばをカバーする。これでグラフィックスカード市場で2万円台半ばから3万円台半ば、4万円台半ば、5万円以上と選択できる製品ラインが完成した。
+
+3月5日の発表では、製品がいつ登場するのかといったことが不明であったが、3月19日以降に各社よりこの2つのGPUを搭載したグラフィックスカードが発売になる。
+
+Radeon HD 7870とRadeon HD 7850は、この上にRadeon HD 7950を置き、下がRadeon HD 7770になる。製造プロセスは28nmプロセスでトランジスタ数は共に28億、ストリーミングプロセッサーの数とテクスチャユニットの数、コアクロックの動作周波数が異なる。
+
+Radeon HD 7870ではストリーミングプロセッサーが1280、テクスチャユニットが80、コアクロックが1GHzジャストになっている。Radeon HD 7850ではストリーミングプロセッサーが1024、テクスチャユニットが64、コアクロックが860MHzとなる。
+
+■MSIは独自の冷却構造搭載でオーバークロック可能な2製品
+
+MSIが発売するのは「R7870 Twin Frozr III OC」「AMD Radeon HD 7850」の2製品だ（写真1、写真2）。製品名の最後の「OC」は文字通り「Over Clock」を意味しており、RADEON HD 7870を搭載する「R7870 Twin Frozr III OC」は1GHzオーバーのコアクロック1,050MHz、RADEON HD 7850を搭載する「R7850 Twin Frozr III OC」はコアクロック900MHzに設定されて出荷される。
+
+
+ 
+写真1■コアクロック1GHzオーバー設定で出荷される「R7870 Twin Frozr III OC」 
+
+
+
+ 
+写真1■コアクロック900MHz設定で出荷される「R7850 Twin Frozr III OC」 
+
+
+製品名：R7870 Twin Frozr III OC
+型番：R7870 Twin Frozr III OC
+発売時期：3月22日
+予想市場価格：4万3,000円前後
+
+製品名：R7850 Twin Frozr III OC
+型番：R7850 Twin Frozr III OC
+発売時期：3月22日
+予想市場価格：3万3,000円前後
+
+■Sapphire Technologyはノーマル版からOC版までずらりと4モデル
+
+Sapphire Technologyはノーマルクロック版2製品とオーバークロック版の2製品、計4製品を発売する。クロックアップが行われないスタンダードモデルが「Sapphire HD 7870 GHz Edition 2GB GDDR5（型番：SAHD787-2GD5R001/11199-00-20G）」と「Sapphire HD 7850 2GB GDDR5（型番：SAHD785-2GD5R001/11200-00-20G）」の2モデルだ。
+
+そしてオーバークロック版は1GHzから1050MHzにクロックアップした「Sapphire HD7870 GHz Edition OC 2GB GDDR5（型番：SAHD787-2GD5OCR001/11199-03-20G）」と860MHzから920MHzにクロックアップした「Sapphire HD 7850 OC 2GB GDDR5（型番：SAHD785-2GD5OCR001/11200-01-20G）」の2モデルとなる（写真3、写真4）。いずれのモデルもオリジナルのデュアルファンクーラーを装備して冷却性能を高めている。
+
+
+ 
+写真3■1GHzから1050MHzにクロックアップした「Sapphire HD7870 GHz Edition OC 2GB GDDR」 
+
+
+
+ 
+写真4■860MHzから920MHzにクロックアップした「Sapphire HD 7850 OC 2GB GDDR5」 
+
+
+
+製品名：HD7870 GHZ EDITION 2G GDDR5 PCI-E HDMI / DVI-I / DUAL MINI DP
+型番： SAHD787-2GD5R001/11199-00-20G
+発売時期：3月中旬〜下旬
+予想市場価格：4万円台前半
+
+製品名：HD7850 2G GDDR5 PCI-E HDMI / DVI-I / DUAL MINI DP
+型番：SAHD785-2GD5R001/11200-00-20G
+発売時期：3月中旬〜下旬
+予想市場価格：3万円台前半
+
+製品名：HD7870 GHZ EDITION 2G GDDR5 PCI-E HDMI / DVI-I / DUAL MINI DP OC VERSION
+型番： SAHD787-2GD5OCR001/11199-03-20G
+発売時期：3月中旬〜下旬
+予想市場価格：4万円台前半
+
+製品名：HD7850 2G GDDR5 PCI-E HDMI / DVI-I / DUAL MINI DP OC VERSION
+型番： SAHD785-2GD5OCR001/11200-01-20G
+発売時期：3月中旬〜下旬
+予想市場価格：3万円台前半
+
+■グラフィックボード情報
+■アスク
+
+
+
+
+
+SAPPHIRE Radeon ビデオカード HD7870 GHZ EDITION 2G GDDR5 PCI-E 日本正規代理店品 SAHD787-2GD5R001
+クチコミを見る

@@ -1,0 +1,56 @@
+http://news.livedoor.com/article/detail/6546043/
+2012-05-10T16:55:00+0900
+Kyocera、Android 4.0 ICS搭載スマートフォン2機種を発表！防水対応「Hydro」とスライドキーボード搭載「Rise」
+ゼロから始めるスマートフォン 
+
+Kyoceraは8日（現地時間）、ニューオリンズ（アメリカ）にて8日から10日まで行われている無線技術関連イベント「CTIA Wireless 2012」において2つの新しいAndroidスマートフォン「Hydro」と「Rise」を発表しています。
+
+基本仕様はほぼ共通で、Android4.0、3.5インチHVGA（480×320）IPS液晶、1GHzシングルコアCPU（MSM8655）、512MB RAM、2GBストレージ、320万画素カメラ、1,500mAhバッテリーなどを搭載します。
+
+2機種の違いは防水機能と物理キーボードの有無で、「Hydro」は防水対応のフルタッチ式のモデル、「Rize」は横スライド式キーボードを搭載したモデルとなっています。
+
+■ 「Hydro」の主なスペック
+サイズ：115.0×62.0×12.8mm
+重量：120g
+ディスプレイ：3.5インチ　HVGA（480×320）　IPS液晶
+OS：Android4.0 ICS
+CPU：1.0GHzシングルコア（Qualcomm Snapdragon MSM8655）
+RAM：512MB
+ROM：2GB
+外部メモリー：microSD/microSDHC
+無線LAN：IEEE802.11 b/g/n
+Bluetooth：2.1+EDR
+カメラ：320万画素（AF、LEDフラッシュ）　フロントカメラ非搭載
+バッテリー容量：1,500mAh
+外部端子：3.5mmオーディオジャック、microUSB
+その他：防水対応
+
+
+
+■ 「Rise」の主なスペック
+サイズ：113.0×60.5×14.3mm
+重量：157g
+ディスプレイ：3.5インチ　HVGA（480×320）　IPS液晶
+OS：Android4.0 ICS
+CPU：1.0GHzシングルコア（Qualcomm Snapdragon MSM8655）
+RAM：512MB
+ROM：2GB
+外部メモリー：microSD/microSDHC
+無線LAN：IEEE802.11 b/g/n
+Bluetooth：2.1+EDR
+カメラ：320万画素（AF、LEDフラッシュ）　フロントカメラ非搭載
+バッテリー容量：1,500mAh
+外部端子：3.5mmオーディオジャック、microUSB
+その他：横スライド式キーボード搭載
+
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■京セラ、Android4.0を搭載したローエンドスマートフォン2機種を発表、防水の「Hydro」とスライドキーボード搭載の「Rise」 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Kyocera Hydro C5170
+・Kyocera Rise C5155

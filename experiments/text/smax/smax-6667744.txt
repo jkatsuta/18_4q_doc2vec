@@ -1,0 +1,95 @@
+http://news.livedoor.com/article/detail/6667744/
+2012-06-18T09:55:00+0900
+事前予約開始！NTTドコモのXi対応ハイスペックスマホ「GALAXY SIII SC-06D」の実力をベンチマークで試す【レポート】
+GALAXY SIII SC-06DをQuadrantでベンチマーク測定！ 
+
+NTTドコモから今月28日（木）に発売予定で、昨日17日（日）から事前予約が開始されたAndroidスマートフォン「GALAXY SIII SC-06D」（サムスン電子製）。
+
+なんといっても人気の“GALAXY Sシリーズ”の最新モデルで、従来のGALAXYスマートフォンと同様に同世代では最高峰のスペックで、次世代高速データ通信規格LTEに対応したサービス「Xi（クロッシィ）」対応や、1.5GHz駆動の次世代高速デュアルコアCPU「Snapdragon S4」を内蔵したQualcomm製チップセット「MSM8960」および4.8インチHD（720×1280ドット）有機ELディスプレイなどを搭載しています。
+
+また、2世代目の「GALAXY SII SC-02C」ではサムスン電子製スマートフォンとしてはじめてワンセグに対応し、続く、2011年秋冬モデル「GALAXY SII LTE SC-03D」でXiに対応、さらに、「GALAXY NEXUS SC-04D」でAndroid 4.0を採用と着実にステップアップしてきた中で、それらを統括すべく、ワンセグやXi、Android 4.0に加え、さらにおサイフケータイ（Felica）にも対応したモデルです。
+
+今回は、そのGALAXY SIII SC-06Dでベンチマークアプリ「Quadrant Standard Edition」を利用して、その実力を試すととともに、各社の2012年夏モデルにおけるAndroid搭載スマートフォンの搭載チップセットやCPUクロックまとめを紹介していきたいと思います。
+
+
+今回、GALAXY SIII SC-06Dで測定したQuadrant Standard Edtionによるベンチマーク結果は以下の通りです。
+
+   
+
+ベンチマークの測定結果は、トータルで5029、5019、5006となり、平均で5018となりました。
+
+GALAXY SIII SC-06Dはチップセットとして最新の28nmプロセスで製造された1.5GHzデュアルコアCPU「Dual Krait」やGPU「Adreno 225」を搭載した「Snapdragon S4」によるQUALCOMM製「MSM8960」を採用しています。
+
+同じチップセットを搭載しているモデルとしては、NTTドコモ向け「AQUOS PHONE ZETA SH-09D」や「Xperia GX SO-04D」、「AQUOS PHONE sv SH-10D」、「REGZA Phone T-02D」、「ELUGA POWER P-07D」、「MEDIAS X N-07D」、「Optimus it L-05D」、「Xperia SX SO-05D」と多数を占めています。
+
+また、対応通信方式の違うチップセットとして、LTEに対応しないGSM／W-CDMA対応「MSM8260A」やCDMA 1X 2000対応「MSM8660A」を搭載したモデルはいくつか夏モデルにもあり、すでに紹介したau向け「HTC J ISW13HT」もMSM8660Aを搭載していました。
+
+ただし、同じチップセットを搭載していながらも、搭載メモリーのうち作業量（RAM）が2GBとなっていて、この点で今夏モデルのうちではひとつスペックが飛び抜けていると言えるかと思います。
+
+今夏モデルにはクアッドコア（4コア）CPUを搭載した「ARROWS X F-10D」などもラインナップされていますが、搭載するNVIDIA製「Tegra3 AP33」と比較するとベンチマークでも「Snapdragon S4」は決して引けを取らない数値が出ています。
+
+一方で、GALAXY SIIIの海外モデルはサムスン電子が独自に32nmで製造するARM Cortex-A9ベースの1,4GHz駆動のクアッドコアCPU搭載「Exynos 4412」を採用しており、海外版との違いも気になるところです。すでに当ブログメディア「S-MAX（エスマックス）」では海外モデル（型番：GT-I9300）のベンチマークも行なっており、Quadrantではトータルで5218となっていました。
+
+しかしながら、細かい項目ごとの数値を見てみると、ドコモ板SC-06DではCPUの結果が7,500前後であるのに対し、グローバル版GT-I9300ではCPUの結果が1万2,500前後と1.5倍以上となっています。逆に、グローバル版はRAMが1GBであり、ベンチマークのMemの結果がドコモ板のほうが優れているということになっています。
+
+Xi（LTE）に対応するためであったためとはいえ、CPUについては少し残念なところもありますが、RAMが2GBと大容量なのは作業量の多い最近のスマートフォンでは嬉しい点でもあり、一長一短かなといったところです。
+
+実際の操作感も国内向けの今夏モデルの中ではやはり快適性も高く、ハイスペックスマートフォンといえば“GALAXY Sシリーズ”だというのは今回のGALAXY SIII SC-06Dでも変わらないといった印象です。
+
+以下に、2012年夏モデルにおける各社のAndroid搭載スマートフォンのチップセットとCPUクロック、コア数をまとめてみました。実際は、画面解像度やOSバージョン（今回はほぼ横並びのAndroid 4.0ですが）、ホームアプリの違いなどによって操作の快適性は異なりますが、少しは、動作の快適性の目安になればと思います。
+
+NTTドコモ 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+ARROWS X F-10D NVIDIA Tegra3 AP33 1.5GHz 4 ー 
+GALAXY S III SC-06D QUALCOMM MSM8960 1.5GHz 2 5018 
+Optimus Vu L-06D QUALCOMM APQ8060 1.5GHz 2 ー 
+L-06D JOJO QUALCOMM APQ8060 1.5GHz 2 ー 
+AQUOS PHONE ZETA SH-09D QUALCOMM MSM8960 1.5GHz 2 ー 
+Xperia GX SO-04D QUALCOMM MSM8960 1.5GHz 2 ー 
+AQUOS PHONE sv SH-10D QUALCOMM MSM8960 1.5GHz 2 ー 
+REGZA Phone T-02D QUALCOMM MSM8960 1.5GHz 2 ー 
+ELUGA POWER P-07D QUALCOMM MSM8960 1.5GHz 2 ー 
+AQUOS PHONE st SH-07D QUALCOMM MSM8255 1GHz 1 2134 
+MEDIAS X N-07D QUALCOMM MSM8960 1.5GHz 2 ー 
+Optimus it L-05D QUALCOMM MSM8960 1.5GHz 2 ー 
+Xperia SX SO-05D QUALCOMM MSM8960 1.5GHz 2 ー 
+ELUGA V P-06D TI OMAP4460 1.5GHz 2 ー 
+F-09D ANTEPRIMA QUALCOMM MSM8255 1.4GHz 1 ー 
+ARROWS Me F-11D QUALCOMM MSM8255 1GHz 1 ー 
+らくらくスマートフォン F-12D QUALCOMM MSM8255 1.4GHz 1 ー 
+
+au by KDDI 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+HTC J ISW13HT QUALCOMM MSM8660A 1.5GHz 2 4372 
+AQUOS PHONE SERIE　ISW16SH QUALCOMM MSM8660A 1.5GHz 2 ー 
+ARROWS Z ISW13F NVIDIA Tegra 3 AP33 1.5GHz 4 ー 
+URBANO PROGRESSO QUALCOMM MSM8655 1.4GHz 1 ー 
+AQUOS PHONE SL IS15SH QUALCOMM MSM8655 1.4GHz 1 ー 
+AQUOS PHONE CL IS17SH QUALCOMM MSM8655 1.4GHz 1 ー 
+
+ソフトバンクモバイル 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+PANTONE 6 107SH MSM8255T 1.4GHz 1 — 
+AQUOS PHONE Xx 106SH QUALCOMM MSM8260A 1.5GHz 2 — 
+ARROWS A 101F NVIDIA Tegra3 AP33 1.5GHz 4 — 
+AQUOS PHONE 102SHII TI OMAP4430 1GHz 2 — 
+
+WILLCOM 
+製品名 チップセット クロック数 コア数 Quadrantスコア DIGNO DUAL WX04K RENESAS R-Mobile MP5225 1.2GHz 2 ー 
+
+EMOBILE イー・アクセス 
+製品名 チップセット クロック数 コア数 Quadrantスコア GS03 TI OMAP4460 1.5GHz 2 ー GT01 Huawei K3V2 1.5GHz 4 ー 
+
+
+なお、本記事に使用した端末は、開発機のため製品版と異なる場合がありますのでご了承ください。
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Samsung、テクノロジーを集結した最新スマートフォン「GALAXY S III」を発表！クアッドコアやAndroid 4.0 ICS - S-MAX
+・最速入手！クアッドコアCPU搭載の海外版「GALAXY SIII」の外観やベンチマーク、カメラ機能をチェックした【レビュー】 - S-MAX
+・docomo NEXT series GALAXY S III SC-06D | 製品 | NTTドコモ
+・GALAXY S III (S3), designed for humans, inspired by nature
+・GALAXY S IIIクアッド版vsデュアル版 業界最速ベンチ公開（週アスPLUS）

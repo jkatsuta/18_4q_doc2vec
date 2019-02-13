@@ -1,0 +1,39 @@
+http://news.livedoor.com/article/detail/6869457/
+2012-08-20T10:55:00+0900
+PlayStation Mobile向けコンテンツは今秋より配信開始！PlayStation CertifiedにASUSとWikiPadも参入
+ゼロから始めるスマートフォン 
+
+ソニー・コンピュータエンタテインメント（SCE）は16日、同社の提供するモバイル向けオープンプラットフォーム「PlayStation Mobile（旧PlayStation Suite）」において専用コンテンツを今秋から配信開始すると発表しました。
+
+コンテンツはPlayStation Storeで配信されます。対象国は日本およびアメリカ、カナダ、イギリス、フランス、ドイツ、イタリア、スペイン、オーストラリアの9か国。サービス開始時には約30のコンテンツが用意されます。
+
+また、SCEは、PlayStation Certifiedライセンスプログラムに、新たにASUSとWikiPadが加わることが決定したと発表しました。今後これらメーカーの発売する端末でPlayStation Mobileのコンテンツが利用できるようになります。今年6月にはHTCも加わっており、これで加入したメーカーは、ソニー自身を除き3社となりました。
+
+
+
+PlayStation Mobileの本格展開にあわせ、SDK正式版の提供を含む開発サポートプログラム「PlayStation Mobile Developer Program」が、日本を含む11か国・地域で開始されます。
+
+開発したコンテンツをPlayStaion Storeを通して配信することが可能になり、エンドユーザーはPlayStation CertifiedデバイスおよびPlayStation Vitaでコンテンツを楽しむことができます。
+
+すでに国内46社、欧州/北米39社の計85のソフトウェアメーカーが、PlayStation Mobile向けの専用コンテンツの開発に参入表明しています。
+
+なお、現時点でのPlayStation Certifiedデバイスは以下のとおりです。HTC製デバイス、および「Xperia GX SO-04D」および「Xperia SX SO-05D」においては、正式版のPlayStation Mobile SDKを使用して作成されたコンテンツが2012年今秋から利用可能となります。
+
+HTC
+HTC One X、HTC One S、HTC One V
+
+ソニーモバイル
+Xperia arc、Xperia acro、Xperia PLAY、Xperia acro HD、Xperia S（日本モデル名：Xperia NX）、Xperia ion、Xperia acro S、Xperia GX、Xperia SX
+
+ソニー
+“Sony Tablet” Sシリーズ、“Sony Tablet” Pシリーズ
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■PlayStation Mobile向けコンテンツは今秋より配信開始、PlayStation CertifiedにASUSとWikiPadも参入 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・PlayStationRMobile「プレイステーション モバイル」を本格的に展開 専用コンテンツを今秋よりPlayStationRStoreで配信 PlayStationRMobile SDK正式版を順次提供

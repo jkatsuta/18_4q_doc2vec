@@ -1,0 +1,24 @@
+http://news.livedoor.com/article/detail/6832228/
+2012-08-07T15:00:00+0900
+より低消費電力なCPUにも対応！　ZOTACのmini-ITXマザーがXeon E3シリーズをサポート
+アスクより、同社が取り扱っているZOTAC製のmini-ITXマザーボードでIntelのZ77 Expressチップセットを採用する「Z77ITX-A-E」、またH77 Expressチップセットを採用する「H77ITX-A-E」の2製品において、Ivy BridgeおよびSandy BridgeのCPUであるXeon E3シリーズを動作対象のCPUとすることを発表した。Sandy Bridge版は消費電力がかなり低いのが特徴で、省スペースな上に低消費電力なPCを組みたい人に向いている。
+
+今回動作確認が取られたのは、IvyBridgeでは3.3GHzの「Intel Xeon E3-1230V2」と、20W TDPのSandyBridgeコア「Intel Xeon E3-1220L」の2モデルだ。ただ、両方とも内蔵グラフィックスが省かれているため別途グラフィックスボードが必要になる点は要注意だ。現在は未確認だが、もしも今後、高クロック版Xeon E3シリーズ例えばXeon E3-1290v2を搭載することでTurboBoost時に4GHz超えの4.1GHzが実現できるようになる。省スペースなのにハイエンドに匹敵する性能なんて実現できたら、たまらなくクールだろう。
+
+◆製品情報
+メーカー：ZOTAC
+製品名：ZOTAC Z77ITX-A-E
+型番：Z77ITX-A-E
+発売時期：販売中
+予想市場価格：2万円前後
+
+◆製品情報
+メーカー：ZOTAC
+製品名：ZOTAC H77ITX-A-E
+型番：H77ITX-A-E
+発売時期：販売中
+予想市場価格：1万6千円前後
+
+■ZOTAC Z77ITX-A-E
+■ZOTAC H77ITX-A-E
+■アスク

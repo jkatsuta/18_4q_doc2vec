@@ -1,0 +1,37 @@
+http://news.livedoor.com/article/detail/6911073/
+2012-09-01T15:55:00+0900
+Microsoft、クラウドストレージサービス「SkyDrive」のAndroid向けアプリを公開【Androidアプリ】
+Androidアプリの「SkyDrive」がキタ！
+Microsoftは8月28日、同社が提供するクラウド型のデータ共有サービス「SkyDrive（スカイドライブ）」のAndroid向けアプリをGoogle Play Storeで配信を開始した。アプリは無料、Windows Live IDでログインすればすぐに利用できる。
+
+
+
+SkyDriveは、Microsoftが提供するクラウドストレージサービスで、DropboxやGoogleの「Googleドライブ」、Appleの「iCloud」といったサービスに近い。
+
+Android端末を利用しているとGoogleアカウントにログインした状態であれば「Google＋」のインスタントアップロードやDropboxでのアップロードもシームレスで非常に利用しやすくなっている。
+
+SkyDriveのアプリは、そうしたアプリにも近い内容となっており、アプリを起動させてWindows Live IDで一度だけログイン作業をしておけば端末内のファイルをアプリ経由でアップロートでき、閲覧、共有も簡単にできる。
+
+ビジネス用ファイルもしくはプライベート用ファイルをDropBoxや他社クラウドストレージサービスとは分けて使いたい場合やWindows Liveのサービスを頻繁に利用する環境の方にはオススメのサービスとアプリだ。
+
+
+記事執筆：2106bpm(つとむびーぴーえむ)
+
+アプリ名：SkyDrive
+価格：無料
+カテゴリ：仕事効率化
+開発者：Microsoft Corporation
+バージョン：1.0
+Google Play Store：http://play.google.com/store/apps/details?id=com.microsoft.skydrive
+
+
+
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・S-MAX - Facebookページ
+・非常に残念！ドコモ版「GALAXY SIII SC-06D」にはDropboxの50GB特典が提供されない - S-MAX - ライブドアブログ
+・Androidアプリ特集 - S-MAX - ライブドアブログ
+・SkyDrive for Android phones now available(The Windows Blog)
+・Microsoft

@@ -1,0 +1,49 @@
+http://news.livedoor.com/article/detail/6880915/
+2012-08-23T11:55:00+0900
+Sony Mobile、最新Androidスマートフォン「Xperia SL」を発表！1.7GHzデュアルコアCPU搭載
+ゼロから始めるスマートフォン 
+
+ソニーモバイルコミュニケーションズは、Xperiaスマートフォンの新製品「Xperia SL（型番：LT26ii）」を発表しています。発売時期は9月で、少なくとも台湾では発売されます。
+
+Xperia SLは、2012年モデルの第1弾として発売された「Xperia S（型番：LT26i）」のマイナーチェンジモデルとなり、CPU周波数が1.5GHzから1.7GHzに変更されています。
+
+また、Xperia Sでは当初Android 2.3（開発コード名：Gingerbread）が採用され発売されましたが、Xperia SLではAndroid 4.0（開発コード名：IceCream Sandwich；ICS ）が初期搭載されます。
+
+
+
+スペック以外にカラーバリエーションにも変更があり、既存のホワイト、ブラックの他、シルバーとピンクが新たに追加されました。
+
+このほかは同一で、4.3インチHD（720×1280ドット）液晶ディスプレイ、1200万画素カメラ、1GB RAM、32GB ROM、1,750mAhバッテリー等を搭載します。
+
+
+
+
+■スペック
+サイズ：約128.0×64.0×10.6mm
+重量：約144g
+ディスプレイ：4.3インチ　HD（720×1280ドット）　TFT液晶　Reality Display
+OS：Android 4.0 IceCream Sandwich
+CPU：Qualcomm MSM8260 1.7GHzデュアルコア
+RAM：1GB
+ROM：32GB
+外部メモリー：非対応
+カメラ：1200万画素　裏面照射型CMOS「Exmor R for Mobile」　1080pフルHD動画撮影
+フロントカメラ：130万画素　720pHD動画撮影
+無線LAN：IEEE802.11b／g／n
+Bluetooth：2.1+HS
+ネットワーク：GSM GPRS／EDGE 850、900、1800、1900、UMTS HSPA 850、900、1900、2100
+センサー：A-GPS、重力センサー、電子コンパス、接近センサー、照度センサー
+外部端子：microUSB、3.5mmオーディオジャック、microHDMI
+バッテリー容量：1,750mAh
+カラー：ブラック、ホワイト、シルバー、ピンク
+その他：NFC対応、バッテリー換装不可
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■ソニー、1.7GHzデュアルコアCPU搭載スマートフォン「Xperia SL」を発表 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Xperia(TM) SL - Sony Smartphones (Global UK English)

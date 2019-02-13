@@ -1,0 +1,13 @@
+http://news.livedoor.com/article/detail/6416069/
+2012-03-29T18:00:00+0900
+iPhone＆iPadでブラウザゲーム！整って来たHTML5環境
+iPhoneやiPadといったiOSはアドビのFlashに対応していないためFlashを多用しているサイトではきちんと表示できない問題があった。そのためWebブラウザで動作するFlashゲームをiOSで動作できるように変換したり、わざわざiPhoneやiPad専用のページを作成して端末情報をチェックして専用サイトへ切り替えたりといった“回りくどい”対応が必要だった。
+
+これを解消するには、iPhoneやiPadが対応しているHTML5でWebページを構築すればいい。しかし、iPadは三代目、iPhoneも6代目になろうとしているにも関わらずHTML5普及の状況はいまだ不透明だ。しかし、MozzilaスタッフやWebサイトの開発者向けのブログ「hacks.mozilla.org」で紹介している「BrowserQuest」というサイトは、HTML5とJavaScriptで構築されており、HTNL5の成熟具合を図ることができるようになっている。
+
+このサイトはブラウザで遊べる二次元RPGゲームのサイトなのだが、多くのユーザーが同時にアクセスしてプレイできるようになっている。HTML5に対応したブラウザであればPCだろうがモバイルデバイスであろうがプレイできる。例えばiPhoneやiPadのSafariでアクセスしてもプレイできる。今後、こうしたサイトがどんどん増えて、端末ごとの制限などがなくなることを大いに期待したい。
+
+※Internet Explorer9ではプレイできないことに注意
+
+■BrowserQuest
+■hacks.mozilla.org

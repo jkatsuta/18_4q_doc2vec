@@ -1,0 +1,30 @@
+http://news.livedoor.com/article/detail/6657851/
+2012-06-14T15:00:00+0900
+コンパクトケース対応のGTX 670！　ツインクーラーで全長の短いGeForce GTX 670搭載グラボ
+アスクは、NVIDIAの「GeForce GTX 670」を搭載するZOTAC製グラフィックスボード「ZOTAC GeForce GTX 670 TWINCOOLER」を、6月20日に発売する。この製品は、その名にある通り2つのの8センチファン（ツイン構成）のオリジナルGPUクーラーを搭載するモデルで、NVIDIAのリファレンスデザインのカードに比べ、静音性と冷却性能を両立しているのがポイントだ。
+
+
+ 
+こんな感じでコンパクトケースにも楽々収まるショート基板がポイント 
+
+
+さらにリファレンスデザインより約6センチも短い177.8mmのショート基板設計になっている。これがかなり大きなポイントで、Keplerアーキテクチャの高いパフォーマンスを小型PCで実現できる。しかもオーバークロック仕様になっており、コア・ベースクロックが954MHz、GPU Boost時のブーストクロックが1033MHzとなる。メモリクロックは6208MHzだ。
+
+ディスプレイ出力はDVI×2、HDMI、DisplayPortを装備。4画面出力をサポートし、このグラボ1枚でマルチディスプレイ3D表示技術「3D Vision Surround」もサポートする。
+
+◆製品情報
+メーカー名：ZOTAC
+製品名：ZOTAC GeForce GTX 670 2GB TWINCOOLER
+型番：ZTGTX670-2GD5TCR001/ZT-60305-10P
+発売時期：6月20日より
+予想市場価格：4万3千円前後
+
+■ZOTAC GeForce GTX 670 2GB TWINCOOLER
+■アスク
+
+
+
+
+
+ZOTAC NVIDIA GeForce GTX670 搭載グラフィックカード GTX670 2GB DDR5 日本正規代理店品 (VD4633) ZTGTX670-2GD5R001
+クチコミを見る

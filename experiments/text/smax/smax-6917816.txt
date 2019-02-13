@@ -1,0 +1,81 @@
+http://news.livedoor.com/article/detail/6917816/
+2012-09-04T10:55:00+0900
+Sony Mobile、4.6インチディスプレイを搭載したスマートフォン「Xperia T」および「Xperia TX」を発表
+ゼロから始めるスマートフォン 
+
+ソニーモバイルコミュニケーションズは8月29日（現地時間）、ドイツ・ベルリンで行われていたイベント「IFA2012」にあわせてプレスカンファレンスを開催し、同社のスマートフォン「Xperiaシリーズ」の新しいモデル「Xperia T」および「Xperia TX」を発表しています。
+
+Xperia TおよびXperia TXは、それぞれ開発コードネーム「Mint（モデル名：LT30）」および「Hayabusa（モデル名：LT29）」で知られていた機種です。約4.6インチHD（720×1280ドット）液晶を搭載した大型のAndroidスマートフォンとなります。市場によりXperia TまたはXperia TXが販売されます。
+
+なお、Xperia TXは日本のNTTドコモから発売されている「Xperia GX SO-04D」のグローバルモデルとして位置づけられています。
+
+OSはAndroid 4.0.4（開発コード名：IceCream Sandwich；ICS）が初期搭載されます。発売後にはAndroid 4.1（開発コード名：JellyBean）へのアップグレードが予定されています。
+
+SoCはQualcommのSnapdragon MSM8260-Aで、CPUは1.5GHzデュアルコア。内部メモリーはRAMが1GBでROMが16GB。外部メモリーとして最大32GBのmicroSDHCをサポートします。
+
+カメラはSony Exmor R for Mobile 1,300万画素裏面照射型CMOSセンサーを採用しています。1080pフルHD動画撮影が可能です。また前面には130万画素カメラも備えます。
+
+通信は2G/3Gに対応。対応周波数はUMTS HSPA＋ 850 (Band V)、900 (Band VIII)、1700 (Band IV)、1900 (Band II)、2100 (Band I)、GSM EDGE 850、900、1800、1900。LTE通信には対応しません。
+
+バッテリーサイズはXperia Tが1,850mAhで、Xperia TXが1,750mAh。端末サイズおよび質量はXperia Tが129.4×67.3×9.35mmおよび139gで、Xperia TXが131.0×68.6×8.6mmおよび127g 。カラーはXperia Tがブラック、シルバー、ホワイト、Xperia TXがブラック、ピンク、ホワイトのそれぞれ3色がラインアップされます。
+
+
+
+■Xperia T（Mint:LT30）スペック・画像
+端末サイズ：129.4×67.3×9.35 mm
+重さ：139g
+ディスプレイ：4.6インチ　HD（1280×720）  Reality Display with Mobile BRAVIA Engine
+OS：Android4.0.4 ICS（発売後にAndroid4.1 Jelly Beanへアップグレード予定）
+CPU：1.5GHzデュアルコア（Qualcomm Snapdragon MSM8260-A）
+RAM：1GB
+ROM：16GB
+外部メモリ：microSD/microSDHC（最大32GB）
+カメラ：1,300万画素裏面照射型CMOS（Exmor R for Mobile）、1080pフルHD動画撮影
+フロントカメラ：130万画素
+無線LAN：○
+Bluetooth：○
+NFC：○
+通信：UMTS HSPA+、GSM EDGE
+対応周波数：UMTS HSPA+ 850 (Band V), 900 (Band VIII), 1700 (Band IV), 1900 (Band II), 2100 (Band I)、GSM EDGE 850, 900, 1800, 1900
+防水・防塵：×
+バッテリー容量：1,850mAh
+その他：DLNA、GPS/aGPS、3.5mmオーディオジャック、microUSB、MHL
+
+
+
+
+
+
+■Xperia TX（Hayabusa:LT29）スペック・画像
+端末サイズ：131.0×68.6×8.6mm
+重さ：127g
+ディスプレイ：4.6インチ　HD（1280×720）  Reality Display with Mobile BRAVIA Engine
+OS：Android4.0.4 ICS（発売後にAndroid4.1 Jelly Beanへアップグレード予定）
+CPU：1.5GHzデュアルコア（Qualcomm Snapdragon MSM8260）
+RAM：1GB
+ROM：16GB
+外部メモリ：microSD/microSDHC（最大32GB）
+カメラ：1,300万画素裏面照射型CMOS（Exmor R for Mobile）、1080pフルHD動画撮影
+フロントカメラ：130万画素
+無線LAN：○
+Bluetooth：○
+NFC：○
+通信：UMTS HSPA+、GSM GPRS/EDGE
+対応周波数：UMTS HSPA+ 850 (Band V), 900 (Band VIII), 1700 (Band IV), 1900 (Band II), 2100 (Band I)、GSM GPRS/EDGE 850, 900, 1800, 1900
+防水・防塵：×
+バッテリー容量：1,750mAh
+その他：DLNA、GPS/aGPS、3.5mmオーディオジャック、microUSB、MHL
+
+
+
+
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■ソニー、4.6インチディスプレイを搭載したスマートフォン「Xperia T/TX」を発表 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・New Xperia smartphone series with Sony’s best HD experiences deliver next step in connected entertainment - Corporate - press releases - Sony Xperia

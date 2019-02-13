@@ -1,0 +1,72 @@
+http://news.livedoor.com/article/detail/6704748/
+2012-06-29T15:55:00+0900
+WindowsやMacをAndroid端末でコントロール「Splashtop Remote Desktop」【Androidアプリ】
+リモートデスクトップでスマートフォンを活用しよう！ 
+
+TV録画機能の付いたPCはおまかせキーワードなどで簡単に番組予約ができて便利なんですが、たまに出先で「あ〜あの番組今日だったのか〜！予約録画してなかった」と後悔することがあります。
+そんなときに、便利なのがリモートデスクトップアプリです。
+
+今回は、Androidスマートフォン・タブレットそれぞれ専用版が用意されているリモートデスクトップアプリ「Splashtop Remote Desktop」を紹介します。
+
+Splashtop Remote Desktopはどんなアプリ
+
+Windows 7、Vista、XP、Mac OS 10.6を搭載したPCをAndroid端末でコントロールするアプリです。対応したPCにサーバーソフトとなるSplashtop Streamer（http://www.splashtop.com/ja/remote）をインストールして使用します。
+
+同じネットワーク上のPCとAndroid端末と接続が完了すると、タッチ操作でパソコンをコントロールできます。例えば、離れた場所からファイルをDropboxにコピーしてスマートフォンに共有したり、PCのメールの確認をしたりできます。
+
+そのほか、PCで動画を再生するとストリーミングに最適化された映像と音声をAndroid端末で楽しむことができます。
+さらに、3GやLTEなどの無線ネットワークからもPCに接続出来ますので、外出先からの遠隔操作も可能です。
+
+同じネットワーク上にある接続可能なPC一覧画面。接続には設定したパスワードの入力が必要となる。
+
+
+
+接続完了後、操作ガイドが表示される。設定でガイドの非表示も可能だ。
+
+
+
+スマートフォンからの文字入力も可能となっている
+
+
+
+番組予約もスマートフォンで。外出先からでもHDDの空き容量をチェックしてファイルの削除ができる。
+
+Splashtop Remote Desktopはどうなの？
+
+画面はPCそのものですが、使い慣れたマウスとキーボード操作ではないため、最初は違和感を感じるかも知れませんがすぐになれると思います。
+使い方としては、PCでの情報確認やオフィスアプリの使用などの他に、TV機能搭載PCの番組予約をしたり、Dropboxなどのファイル共有を上手く利用すればスマートフォンでは使えない画像編集ソフトやDTMソフト、動画編集ソフトなどでファイルの加工なども可能となります。
+
+ちょっと変わった使い方としては、PCの電源を切り忘れたかどうかをSplashtopで確認することもでき、外部からシャットダウン操作が可能です。
+
+アイディア次第でパーソナルにもビジネスにも使えるリモートデスクトップアプリSplashtop Remote Desktopを使ってみて下さい。
+
+
+記事執筆：mi2_303
+
+
+アプリ名：Splashtop Remote Desktop
+価格：¥405
+カテゴリ：ビジネス
+開発者：Splashtop
+バージョン：1.6.6.1
+ANDROID 要件：2.2以上
+Google Play Store：http://play.google.com/store/apps/details?id=com.splashtop.remote
+
+
+
+
+
+アプリ名：Splashtop Remote Desktop HD
+価格：¥730
+カテゴリ：ビジネス
+開発者：Splashtop
+バージョン：1.9.9.6
+ANDROID 要件：3.1以上
+Google Play Store：http://play.google.com/store/apps/details?id=com.splashtop.remote.pad
+
+
+
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter

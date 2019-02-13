@@ -1,0 +1,50 @@
+http://news.livedoor.com/article/detail/6790744/
+2012-07-25T18:55:00+0900
+キング・テック、SimejiプリインストールのAndroid 4.0タブレット「IMPRESSION」を1万3,980円で販売！キャンペーンで1,000円値引きも
+キング・テックは25日、日本市場で独占販売するLeader International製の7インチサイズのAndroid 4.0（開発コード名：IceCream Sandwich；ICS ）を搭載したタブレット端末「IMPRESSION KT-i7A 4.0」にAndroid向け日本語入力アプリケーション「Simeji」をプリインストールしたモデルを2012年7月31日から正式に販売を開始することを発表しています。
+
+販売はサードウェーブが運営する全国21店舗のパソコンショップおよびウェブ通販の「ドスパラ」にて行われます。
+
+価格は1万3980円ですが、ドスパラでは販売を記念したキャンペーンを実施し、2012年7月31日（火）〜8月31日（金）までの間に値下げし、1万2980円で販売するとしています。
+
+
+
+IMPESSION KT-i7A 4.0は、Android 4.0を搭載した7インチタブレット端末です。ディスプレイは7インチWSVGA（1024×600ドット）IPS液晶、30万画素CMOSインカメラ、CPUは1GHz駆動のCortex A8ベース「Allwinner A10」、内蔵ストレージは4GB、バッテリー容量は3000mAhといった基本スペック。
+
+また、microSDカードスロットや無線LAN（Wi-Fi）、Bluetooth、GPSなどに対応し、3Gには対応ていません。サイズは大きさが132×173×12mm、質量は330g。
+
+なお、キング・テックでは9.7インチサイズのAndroidタブレットも用意しており、法人向けに販売を行うとしています。
+
+■主な仕様
+
+型番 KT-i7A 
+メーカ Leader 
+ブランド Impression GR20 
+パネルサイズ ７inch  1024x600 IPS  
+バッテリ 3.7V 3000mAH 
+CPU Cortex A8　1GHz(Allwinner A10) 
+RAM 512MB DDR3 
+ROM Nand 4GB　(OSバックアップを領域含む) 
+タッチパネル 5ポイント 静電式タッチパネル 
+GPU MALI400MP OpenGL ES 2.0 GPU  
+Wi-Fi 802.11 b/g/n 
+CMOS フロント 30万画素  
+TFカード MicroSD support Max 32GB 
+USBポート USB2.0 OTG（USBMicro) x1 
+イヤホンジャック 3.5 三段式イヤホンジャック  
+HDMI Micro HDMI 
+ACアダプタ 5V, 2A,DC（2.5mm） 
+OS Android 4.0 
+重量 330 g 
+サイズ 132mm(H) X 173mm(W) X 12mm(L) 
+
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Android 4.0搭載の7インチタブレット PC「IMPRESSION」。バイドゥの Android端末向け日本語入力アプリケーション「Simeji」プリインストールモデルを全国のドスパラ店舗・ドスパラ通販にて販売開始！ [PDF] | キング・テック
+・株式会社キング・テック：製品情報＞Tablet＞KT-i7A
+・IMPRESSION KT-i7A4.0 ｜タブレット端末｜メーカーPC｜メーカーPC／周辺機器通販のドスパラ
+・:: Welcome to Impression ::

@@ -1,0 +1,54 @@
+http://news.livedoor.com/article/detail/6692634/
+2012-06-25T20:25:00+0900
+KDDI、au向けモバイルWiMAX対応全部入りスマホ「AQUOS PHONE SERIE ISW16SH」を6月28日に発売開始
+AQUOS PHONE SERIE ISW16SHを6月28日に発売！ 
+
+KDDIおよび沖縄セルラーは25日、この夏に発売する予定の新モデル「2012年夏モデル」のうち、モバイルWiMAXや4.6インチHD液晶、Qualcomm製デュアルコアCPU「MSM8660A」、おサイフケータイ（FelicaおよびNFC）、ワンセグ、赤外線、防水・防塵などに対応したAndroid 4.0（開発コード名：IceCream Sandwich；ICS）を採用したau向けスマートフォン「AQUOS PHONE SERIE ISW16SH」（シャープ製）を2012年6月28日（木）に全国一斉発売開始すると発表しています。
+
+同時に、au向けケータイ「K011」も6月28日（木）に全国一斉発売開始されるとのことです。
+
+
+
+AQUOS PHONE SERIE ISW16SHは世界で初めてとなるNFCとFeliCaをダブルで搭載し、さらに赤外線通信やワンセグ、おサイフケータイ、Eメール (〜@ezweb.ne.jp)、防水といった日本定番の機能にも対応したスマートフォンです。また、シャープ初のモバイルWiMAX搭載機でもあります。
+
+
+基本スペック 
+商品名 AQUOS PHONE SERIE ISW16SH 
+プラットフォーム Android4.0 
+メーカー シャープ株式会社 
+ディスプレー 約4.6インチ 高透過CGSilicon液晶 
+重量 約136g 
+カメラ メインカメラ: 約1211万画素/ CMOS
+サブカメラ: 約31万画素/CMOS 
+電池容量 1800mAh 
+サイズ 約66 （W） ×126 （H） ×11.2 （D） mm 
+メモリー （ROM） 16GB 
+連続通話/待受時間 約510分/約390時間 
+カラー ホワイト 
+外部メモリー microSDXC（最大64GBまで） 
+
+対応サービス・機能 
+Eメール （〜@ezweb.ne.jp）
+Wi-Fi （IEEE 802.11 a/b/g/n）
+WiMAX
+SMS （Cメール）
+テザリング
+NFC
+ワンセグ
+Bluetooth （ver.3.0）
+緊急速報メール
+おサイフケータイ
+WIN HIGH SPEED
+スマートパス
+赤外線通信
+防水
+防塵
+グローバルパスポート （注3） 
+
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・〈お知らせ〉「AQUOS PHONE SERIE ISW16SH」および「K011」を発売 | 2012年 | KDDI株式会社

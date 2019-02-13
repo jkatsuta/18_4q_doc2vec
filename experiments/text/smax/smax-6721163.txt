@@ -1,0 +1,36 @@
+http://news.livedoor.com/article/detail/6721163/
+2012-07-03T18:25:00+0900
+NTTドコモ、GALAXYシリーズのAndroid 4.0へのOSバージョンアップにおけるFlash Playerの扱いに対する注意事項を案内
+NTTドコモは2日、同社が販売するAndroidを搭載したスマートフォン「GALAXY SII SC-02C」や「GALAXY SII LTE SC-03D」、「GALAXY Note SC-05D」、タブレット「GALAXY Tab 10.1 LTE SC-01D」や「GALAXY Tab 7.0 Plus SC-02D」といった「GALAXYシリーズ」の5機種について予定しているAndroid 4.0（開発コード名：IceCream Sandwich；ICS）へのOSバージョンアップに際して搭載しているFlash Playerの取り扱いに対する注意事項をお知らせしています。
+
+上記5機種においてAndroid 4.0へOSバージョンアップを行うときに、最新のFlash Playerにアップデートせずに実施すると、Flash Playerが削除される場合があるため、注意が必要だということです。
+
+
+
+Android 4.0へのOSバージョンアップ後も引き続き、Flash Playerを利用するためには、Android 4.0へバージョンアップする前にアプリ配信マーケット「Google Playストア」から最新バージョンのFlash Playerにアップデートしてから実施するようにという注意事項が案内されています。
+
+また、Android 4.0へバージョンアップ後にFlashを利用したWebページを閲覧するためには、Google PlayストアからAndroid 4.0向けのFlash Playerに再度アップデートする必要があるということです。
+
+Flash Playerが最新バージョンであることを確認するには、以下の手順で行います。
+
+1）「Playストア」アプリを起動後、メニューから「マイアプリ」を選択
+2）「マイアプリ」のアプリ一覧から“Adobe Flash Player 11”を選択
+3）「アプリ」画面に「開く」「アンインストール」が表示されている場合、お使いのFlash Playerは最新のバージョンです。
+「アプリ」画面に「更新」が表示されている場合、お使いのFlash Playerは最新のバージョンではありません。「更新」を押下すると、Flash Playerが最新バージョンにアップデートされます。
+
+
+
+また、Android 4.0へOSバージョンアップを行った場合に、以下の場合でFlash Playerが削除されるということです。
+
+・Flash Playerをアンインストールした場合
+・端末を初期化した場合
+・端末を故障修理に出した場合
+
+なお、Android向けFlash Playerについては、開発・提供しているAdobeが開発中止を発表しており、2012年8月15日以降は新規にAndroid搭載デバイスでFlash Playerアプリをダウンロード・インストールできないようになるということですので、今後もFlashを利用したい場合には最新の注意が必要になりそうです。
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・ドコモからのお知らせ : Android（TM） 4.0へバージョンアップする際のFlash Playerについてのご注意事項 | お知らせ | NTTドコモ

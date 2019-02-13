@@ -1,0 +1,23 @@
+http://news.livedoor.com/article/detail/6770304/
+2012-07-19T08:55:00+0900
+Micrsoft、Windows 8を10月26日に発売開始！独自ブランドタブレット「Surface for Windows RT」も同日発売
+Surfaceも10月26日に発売予定！ 
+
+Microsoftは18日（現地時間）、次世代プラットフォーム「Windows 8」の発売日を2012年10月26日（金）と正式に発表しています。これによって、Windows 8を搭載したパソコンやWindows 8の単体パッケージを購入できるようになります。
+
+また、Windows 8やWindows RTと同時に発表された独自ブランドのタブレットデバイス「Surface for Windows RT」も同日から発売開始される見込み。
+
+
+
+Windows 8は従来のx86版に加え、ARM版「Windows RT」を含めると4つのエディションがラインナップされています。各エディションの価格はまだ発表されていませんが、Windows XP SP3以降のユーザーは、2013年1月31日（木）まで39.99ドルで「Windows 8 Pro」にオンラインアップグレードできるとアナウンスされています。
+
+一方で、SurfaceはWindows 8およびWindows RTを搭載したモデルがそれぞれあり、16：9の比率による10.6インチクリアタイプディスプレイなどを搭載したタブレットです。また、外装はマグネシウム蒸着によって金属の質感による高級な仕上がりで、キーボード一体型ケースが付属するとのことです。
+
+このうちWindows 8と同時に発売予定とされていたSurface for Windows RTが10月26日に発売される見込みです。
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Windows 8 will be available on…

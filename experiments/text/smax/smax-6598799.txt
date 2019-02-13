@@ -1,0 +1,28 @@
+http://news.livedoor.com/article/detail/6598799/
+2012-05-27T09:55:00+0900
+ソニーモバイル、XperiaスマートフォンのAndroid 4.0アップグレードについて進捗を公開！Xperia PLAYへの提供は断念
+ゼロから始めるスマートフォン 
+
+ソニーモバイルいコミュニケーションズは25日（現地時間）、同社が運営する公式ブログ上で現在販売中のXperiaスマートフォンにおけるAndroid 4.0（開発コード名：IceCream Sandwich）へのOSバージョンアップに対する進行状況を報告しています。
+
+まず、2012年モデルとなる「Xperia NXTシリーズ」のアップグレードは計画通り進行しており、Xperia Sは2012年6月末から提供を開始するとしています。また、Xperia PとXperia Uは少し遅れて、今年の第3四半期に開始される可能性であるとのことです。
+
+続いて、2011年モデルのXperiaスマートフォンについては、Xperia arc SやXperia neo V、Xperia rayに対してはすでに先月から提供を開始しており、残るXperia arc、Xperia neo、Xperia mini、Xperia mini pro、Xperia pro、Xperia active、Live with Walkmanについては、来週から開始するとしています。
+
+この際に提供されるOSバージョンはAndroid 4.0.4を予定しているとのことです。Xperia arc S、Xperia neo V、Xperia rayに対しては現在Android 4.0.3が提供されていますが、こちらにも準備が整い次第、同じAndroid 4.0.4を配信する予定としています。
+
+なお、Xperia PLAYがリストから外されていることに気がついた方もいると思いますが、ソニーモバイルでは今回、Xperia PLAYへのAndroid 4.0アップグレードを断念したと発表しています。理由について、特にゲームにおいて一貫した安定性が保証できないからだとしています。
+
+
+
+ちなみに毎度のことながら、これらの発表はグローバルモデルに対してのことであり、キャリアモデルでは提供時期や実施有無について異なる場合があります。
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■ソニー、XperiaスマートフォンのAndroid4.0アップグレードについて進捗を報告、Xperia PLAYへの提供は断念 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Update on Ice Cream Sandwich rollout for Xperia™ smartphones — Sony Xperia Product Blog

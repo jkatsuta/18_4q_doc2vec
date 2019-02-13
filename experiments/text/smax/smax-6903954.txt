@@ -1,0 +1,52 @@
+http://news.livedoor.com/article/detail/6903954/
+2012-08-30T14:55:00+0900
+Sony Mobile、端末下部にイルミネーションを備えた低価格帯モデル「Xperia J」を発表
+ゼロから始めるスマートフォン 
+
+ソニーモバイルコミュニケーションズは29日（現地時間）、ドイツ・ベルリンで行われているイベント「IFA2012」にあわせてプレスカンファレンスを開催し、新しい「Xperia」シリーズのスマートフォン「Xperia J」を発表しています。
+
+開発コードネーム「JLo（モデル名：ST26）」で知られていたこの機種は、4.0インチフルWVGA（480×854ドット）液晶を搭載した小型〜中型に類するAndroidスマートフォンです。
+
+
+
+
+カラーはブラック、ゴールド、ホワイト、ピンクの4色で、端末下部にさまざまな通知を知らせるイルミネーションが備わっています。サイズは124.3×61.2×9.2mm、重さは124g。
+
+基本スペックはAndroid4.0 ICS、1.0GHzシングルコアCPU（MSM7227A）、512MB RAM、4GB ROM、背面500万画素/前面30万画素カメラ、1,750mAhバッテリーという構成。
+
+通信は2G/3Gに対応しており、LTEには非対応です。このほか、IEEE802.11 b/g/n無線LAN、Bluetooth2.1+EDR、DLNA、GPSなどをサポートします。
+
+
+
+
+
+■主な仕様
+端末サイズ：124.3×61.2×9.2mm
+重さ：124g
+ディスプレイ：4.0インチ　FWVGA（854×480）  液晶
+OS：Android4.0 ICS
+CPU：1.0GHzシングルコア（Qualcomm Snapdragon MSM7227A）
+RAM：512MB
+ROM：4GB
+外部メモリ：microSD/microSDHC（最大32GB）
+カメラ：500万画素
+フロントカメラ：30万画素
+無線LAN：IEEE802.11 b/g/n
+Bluetooth：2.1+EDR
+NFC：×
+通信：UMTS HSPA、GSM GPRS/EDGE
+対応周波数（ST26i）：UMTS HSPA 900 (Band VIII), 2100 (Band I)、GSM GPRS/EDGE 850, 900, 1800, 1900
+対応周波数（ST26a）：UMTS HSPA 850 (Band V), 1900 (Band II), 2100 (Band I)GSM GPRS/EDGE 850, 900, 1800, 1900
+防水・防塵：×
+バッテリー容量：1,750mAh
+その他：DLNA、GPS/aGPS、3.5mmオーディオジャック、microUSB
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・

@@ -1,0 +1,40 @@
+http://news.livedoor.com/article/detail/6913983/
+2012-09-03T09:55:00+0900
+ZTE、Intel製「Atom」搭載のAndroidスマートフォン「ZTE Grand X IN」を発表！欧州で9月に発売
+Atom搭載スマホ「ZTE Grand X IN」が発表！ 
+
+ZTEは8月31日（現地時間）、ドイツ・ベルリンで行われているイベント「IFA2012」にあわせて同社初となるIntel製「Atom」プロセッサーを搭載したAndroidスマートフォン「ZTE Grand X IN」を発表しています。欧州にて2012年9月に発売予定とのことです。
+
+ZTE Grand X INは、CPUやGPUなどを統合したチップセットにIntel製「Atom Z2460」を搭載したAndroidスマートフォンです。Z2460は製造プロセス32nmで、HT（ハイパースレッディング）対応の1.6GHz駆動のシングルコアCPUや400MHz駆動のGPU「PowerVR SGX540」、HSPA＋対応の通信チップ「XMM 6260」などを搭載した統合チップセットとなります。
+
+プラットフォームはAndroid 4.0.4（開発コード名：IceCream Sandwich；ICS）を採用しています。スペックとしては、ディスプレイに4.3インチqHD（540×960ドット）TFT液晶、メモリーにRAM（作業用）が1GB、ROM（保存用）が4GBもしくは16GB、外部メモリーにmicroSD／microSDHCカードスロット（最大32GB）、1080pフルHD動画撮影に対応した800万画素アウトカメラ、30万画素インカメラ、バッテリー容量1,650mAhなどとなっています。
+
+その他、GPSやNFC、IEEE802.11b／g／n準拠の無線LAN（Wi-Fi）、Bluetooth 2.1、加速度センサー、ジャイロセンサー、電子コンパス、近接センサー、照度センサーなどに対応します。ネットワークは、W-CDMA／HSDPA（900／2100MHz）およびGSM／EDGE（900／1800／1900MHz）に対応。サイズは大きさが127×65×9.9mmで、質量が140.8g。
+
+■主な仕様
+
+大きさ 127×65×9.9mm 
+質量 140.8g 
+チップセット Intel Atom Processor Z2460 
+ネットワーク HSPA＋ 21Mbps support with Intel XMM 6260 Platform
+EDGE 900／1800／1900
+HSDPA 900／2100
+下り最大21Mbps、上り最大5.76Mbps
+ 
+プラットフォーム Android 4.0 Ice Cream Sandwich 
+本体メモリー RAM 1GB、ROM 16GBもしくは4GB 
+外部メモリー microSD／microSDHCカード（最大32GB） 
+ディスプレイ 4.3インチqHD（540×960ドット）TFT（16万色表示）Capacitive 
+バッテリー 1650mAh Li-Ion電池 
+カメラ 8メガピクセルカメラ AFおよびFlash対応
+ 0.3メガピクセルカメラフロントカメラ 
+センサー Accelerator、Gyro、Compass、Proximity、Light 
+その他 GPS、Wi-Fi（802.11 b／g／n準拠）、WiFi Direct、Bluetooth 2.1＋A2DP、Dolby、FM Radio、NFC、FOTA、HD Voice、Dual Mic、DLNA、1080p Rec.、1080p Play 
+
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・ZTE to Deliver its First Smartphone with Intel Inside Running Android Ice Cream Sandwich - ZTE Corporation

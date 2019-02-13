@@ -1,0 +1,38 @@
+http://news.livedoor.com/article/detail/6058238/
+2011-11-24T17:00:00+0900
+ブラックマジックデザイン、Avid Media Composer 6のサポートを発表【ビデオSALON】
+ブラックマジックデサインは最新のソフトウェア・アップデート「Desktop Video 9.0」を発表した。Windows 7およびMacOS Xに対応し、同社ウェブサイトより無償でダウンロード可能。既存のDeckLink、Multibridge、Intensity、 UltraStudioモデルに対応する。このメジャーアップデートはAvid SymphonyおよびAvid NewsCutterを含むAvid Media Composer 6ファミリーのキャプチャー・再生をサポート。Avidユーザーはブラックマジックデザインの最新Thunderbolt、USB3.0、PCI Expressのビデオキャプチャー・再生デバイスをAvidソフトウェアと組み合わせて使用できるようになり、非圧縮10 bit YUVおよびRGB、Avid DNｘHD、パナソニックDVCPRO HD、ソニーXDCAMなどのあらゆるフォーマットでの作業が可能になる。
+
+　また、Media Composer 6に含まれる最新の3D編集サポートで、ブラックマジックデザインのUltraStudio 3DやDeckLink HD Extreme 3Dが能力を発揮し、よりスムーズで効率的な3D編集を実現する。
+
+　ブラックマジックデザインCEOであるグラント・ペティはこう語る。
+　「私たちは、何年もこの時を待っていました。Avid Media Composer 6と弊社キャプチャー・再生デバイスの統合、それにDaVinci ResolveとのAAFのラウンドトリップは、まさに クリエイティブなユーザーの皆様、フィルム／テレビ業界にとって、すべてを変えうる決定的瞬間と言えるでしょう」
+
+　またAvid のセグメント・マーケティングマネージャーの AngusMackay氏は次のように語る。
+　「Blackmagic ハードウェア、もしくは Avid ネイティブの 統合されてスピードアップした DXシステム、Media Composer／Symphony ／NewsCutter のユーザーの皆様は以前よりも多くの選択肢があります。Blackmagic の DNxHD ならびにAAF サポートは、より簡単なプロジェクトの転送とパイプラインの構築、ワークフローのスムーズ化、そして生産性の向上を、当社およびBlackmagic Design のお客様に提供できます。ハードウェアにかける費用を抑えることで、簡単にAvid 編集システムを既存のワークフローに加えられるのです。 今回のシステムの開放性ならびに生産性の向上、Blackmagic Design とのコラボレーションによって、ユーザーの皆様に満足していただけることを、喜ばしく思っています」
+
+
+Desktop Video 9.0 の主な特徴
+• Avid Media Composer 6／Avid Symphony／Avid NewsCutter認定
+• Avid Media Composer 6での非圧縮およびDNxHD キャプチャー・再生
+• Avid Media Composer 6でのリアルタイムエフェクト
+• Avid Media Composer 6で右目、左目の画像をセパレートファイルでキャプチャーできる、進化したデュアルストリーム 3D ワークフロー
+
+
+
+■ビデオSALON 最新記事
+・パナソニックAG-AC160、1080/60p記録にも対応
+・キヤノンが映画制作用のレンズ、カメラなどCINEMA EOS SYSTEMを発表
+・セミナーレポート 「EOS MOVIEセミナー〜EOS MOVIEで広がる映像の世界」
+・ダブルスロットで2枚同時記録可能なHDカメラJVC GY-HM150
+
+
+
+■ビデオSALON最新号    
+
+■関連記事
+・【11月号記事連動】ソニーNEX-VG20でCEATECを取材する【ビデオSALON】
+・ネットの世界は好景気？　オンラインゲームで１０万円のアイテムが２０００個売れた【話題】
+・ビデオサロン11月号「街のビデオ屋目線で評価するTestRoom」【ビデオSALON】
+・気になってゆっくり休めない？　ホリデー中に仕事メールをチェックする人は７０％【話題】
+・ボディソニック座イス—ナップ・ファンソニック マンボウソファ【売れ筋チェック】

@@ -1,0 +1,20 @@
+http://news.livedoor.com/article/detail/6709649/
+2012-06-30T12:55:00+0900
+Adobe、Android 4.1 JellyBeanに「Flash Player」を提供しないことを発表
+Adobe Systemsは28日（現地時間）、Googleが開発者イベント「Google I/O 2012」で発表した次世代モバイルプラットフォーム「Android 4.1（開発コード名：JellyBean）」に「Flash Player」を提供しないことを発表しています。
+
+Adobeでは2011年11月にモバイル向けFlash Playerの開発中止を発表していましたが、あらためて新しいAndroid 4.1 JellyBeanには対応しないことを表明しています。
+これまでAdobeではAndroid 2.0／2.1 EclairからAndroid向けにFlash Playerを提供してきており、Android 4.0 IceCream Sandwich；ICSまでを搭載するデバイス向けには提供してきました。
+
+また、今後もこれまで提供してきたAndroid 4.0など向けのFlash Playerについてはセキュリティ関連やバグ修正のアップデートを行う予定としています。
+
+さらに、2012年8月15日以降については、これまで提供していたAndroid 4.0など向けのFlash Playerについてもインストールしていない端末では、新たにアプリ配信マーケット「Google Playストア」からダウンロードおよびインストールできなくなるということです。
+
+すでにFlash Playerがインストールされている端末でもAndroid 4.1にOSバージョンアップした場合にはFlash Playerの動作を保証しないとのこと。そのため、AdobeではAndroid 4.1にバージョンアップする場合は、事前にFlash Playerを削除するように推奨しています。
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・An Update on Flash Player and Android ≪ Adobe AIR and Adobe Flash Player Team Blog

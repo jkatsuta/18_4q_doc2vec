@@ -1,0 +1,54 @@
+http://news.livedoor.com/article/detail/6792558/
+2012-07-26T10:00:00+0900
+UbuntuでOffice互換ソフトを使う OpenOfficeをめぐるあれこれ【デジ通】
+Ubuntuには、Officeアプリケーションとして「LibreOffice」（リブレ・オフィス）が搭載されている。
+
+無料で多機能、しかもクロスプラットフォームという特徴を持っている。ということで今回は、LibreOfficeを紹介する。
+
+
+■「LibreOffice前史」ーOpenOffice
+LibreOfficeはオープンソースで開発されているソフト群だが、同じくオープンソースのOpenOfficeを起源とするものだ。
+
+OpenOfficeは、ドイツの企業が開発していたMicrosoft Office互換のソフト「StarOffice」をSun Microsystemsが買収して公開したもの。その後、OracleがSunを買収したことから、OpenOffice開発チームの一部が分かれて開発を始めたのが、LibreOfficeである。別途、OpenOfficeも開発が続いている（派生ソフトとして、Mac専用の「NeoOffice」もある）。
+
+ということで、LibreOfficeとOpenOfficeは一種の「兄弟プロジェクト」といえる。両者の間に共通性が多いが、違いもある。基本的に、LibreOfficeの方がやや機能が豊富だ。ほとんどのLinuxディストリビューションはOpenOfficeではなくLibreOfficeを支持しているため、UbuntuにもLibreOfficeが採用されている。
+
+■高い互換性
+LibreOfficeは、以下のソフトで構成されている。各ソフトの名称は、OpenOfficeでも同じだ。
+
+・Calc（表計算）
+・Writer（ワープロ）
+・Impress（プレゼンテーション）
+・Draw（ドロー）
+・Base（データベース）
+・Math（数式エディタ）
+
+冒頭の画像はCalcのもので、Office2003までのExcelと非常に似た外観であることが分かる。最新バージョンは3.5.5で、MS Officeとの互換性向上、自動アップデート通知機能などの改善が施されている。
+
+Excelで言うと、3Dグラフやマクロなど、MS Office特有の機能を使っていない限り、再現性はそこそこのレベルだ。一般的な棒・折れ線・円グラフの範囲なら、互換性は高い。
+
+■クロスプラットフォームとポータブル性
+LibreOfficeはLinuxだけでなく、Windows/Mac向けにも提供されている。LibreOfficeはMS Office形式でのファイル保存も可能なため、代替が効く。
+
+また、Windows版のみだが、「LibreOffice Portable」という形式での配布が行われている。これは、USBメモリにインストールするためのエディションで、機能はインストール版のLibreOfficeと変わらない。Windowsユーザーからすれば、レジストリを使わず、しかも持ち歩けるという便利さがある。MS Officeのユーザーであっても、この利便性は見逃せない点だろう。
+
+LibreOfficeには、今後も機能追加が期待できる。「MS Officeでなければならない」という事情がない限り、無料のLibreOfficeを使うのも選択肢に入れてよいだろう。
+
+
+■Libre Office
+■LibreOffice Portable
+
+大島克彦＠katsuosh［digi2（デジ通）］
+
+digi2は「デジタル通」の略です。現在のデジタル機器は使いこなしが難しくなっています。
+皆さんがデジタル機器の「通」に近づくための情報を、皆さんよりすこし通な執筆陣が提供します。
+
+
+■ITライフハックTwitter
+
+■デジ通の記事をもっと見る
+・このまま3G通信を生かせないとどうなる？ PS Vitaの3G版の行く末
+・PS Vita 3G版ユーザーで何割のユーザーが3G通信を解約したか考えてみる
+・マイクロソフトの独自タブレット「Surface」の販売体制はどうなる？
+・マイクロソフトのタブレットPC　Surfaceは売れるのか？
+・次世代PC最前線！Retina対応アプリの登場で変わるMacの世界

@@ -1,0 +1,36 @@
+http://news.livedoor.com/article/detail/6684305/
+2012-06-22T15:55:00+0900
+“JellyBean”のOSバージョンはAndroid 4.1！Galaxy Nexusに最初に提供される予定
+ゼロから始めるスマートフォン 
+
+oogleは、米国における販売マーケット「Googla Play」で同社ブランドのスマートフォン「Galaxy Nexus」本体のネット販売をしていますが、その購入手続き中にAndroid 4.1の開発コードネームが“JellyBean（ジェリービーン）”であることを示唆する文言が見つかり、話題となっています。
+
+購入するアイテム（つまり、Galaxy Nexus）の説明として、本機種がAndroid 4.1 JellyBeanが提供される最初の端末となり、間もなく提供されると記載されています。
+
+
+
+また、以下の画像も公開されていたようです。一見何の変哲もないGalaxy Nexusに見えますが、Android 4.0（開発コード名：IceCream Sandwich；ICS）を象徴する虹色の壁紙ではなく、複数色のスポットライトをあてたような壁紙が適用されています。
+
+また、画面上部に表示されている検索窓もAndroid 4.0 ICSのものとはデザインが若干異なっており、どうやらこれがAndroid 4.1 JellyBeanのホーム画面になるようです。
+
+
+
+一昨日前にはGoogleの提供する「Google I/O専用アプリ」の中に下の画像が出現し、Android 4.1のものではないかと話題にのぼっていました。検索窓のデザインが今回の画像と一致しているように見えます。
+
+
+
+Androidの次期バージョンの開発コードネームがJellyBeanであるということは以前から出回っていた噂ですが、とりあえずこの点は正解のようです。そしてJellyBeanのOSバージョンはAndroid 4.1あるいはAndroid 5.0になるのではないかと予想されてきましたが、今回の件でAndroid 4.1となることがほぼ確定しました。
+
+振り返ればAndroid 2.3（開発コード名：Gingerbread）以前は2.0および2.1 Eclairから2.2 Froyoと来ていたわけで、4.0 Ice Cream Sandwichから4.1 JellyBeanとなっても別段不思議ではありません。恐らく4.1以降は何かUIがまるごと変更されるなどの大変化がない限り、ドット以下の値が変化していく流れになるのではないかと予想します。
+
+なお、Android 4.1 JellyBeanは、Googleが開発しているとされる自社ブランドタブレット「Nexus 7（仮称）」にも採用されると噂されています。
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■”JellyBean”のバージョンはAndroid4.1！Galaxy Nexusに最初に提供される | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Galaxy Nexus HSPA+ - Google Play

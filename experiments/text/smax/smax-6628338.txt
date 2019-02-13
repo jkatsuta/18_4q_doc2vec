@@ -1,0 +1,70 @@
+http://news.livedoor.com/article/detail/6628338/
+2012-06-05T16:55:00+0900
+2012年夏モデルCPUを比較！au初Android 4.0搭載スマホ「HTC J ISW13HT」の実力をベンチマークで試す【レポート】
+HTC J ISW13HTをQuadrantでベンチマーク測定！ 
+
+KDDIから先月25日に発売開始されたau向けAndroidスマートフォン「HTC J ISW13HT」（HTC製）。HTCとしてはじめて日本向けに独自に開発したオリジナルモデルで、初のおサイフケータイ（Felica）やワンセグ、赤外線という“三種の神器”に対応したモデルで、Android 4.0（開発コード名：IceCream Sandwich）搭載スマートフォンとしてなかなか魅力的な機種にまとまっています。
+
+今回は、そのHTC J ISW13HTでベンチマークアプリ「Quadrant Standard Edition」を利用して、その実力を試すととともに、各社の2012年夏モデルにおけるAndroid搭載スマートフォンの搭載チップセットやCPUクロックまとめを紹介していきたいと思います。なお、今回からQuadrant Standard Editionの正式にマルチコア対応となったVer.2以降を利用していきます。
+
+
+HTC J ISW13HTはチップセットとして最新の28nmプロセスで製造された1.5GHzデュアルコアCPU「Dual Krait」やGPU「Adreno 225」を搭載したQUALCOMM製「MSM8660A」を採用しています。
+
+同じチップセットを搭載しているモデルとしては、au向け「AQUOS PHONE SERIE ISW16SH」があります。また、通信方式が異なる「MSM8960」や「MSM8260A」を搭載したモデルは今夏モデルでは多数あります。
+
+ようやくAndroid 4.0になり、マルチコアを存分に活かせる環境が整ってきた感じもします。今回、HTC J ISW13HTで測定したQuadrant Standard Edtionによるベンチマーク結果は以下の通りです。
+
+  
+
+ベンチマークの測定結果は、トータルで4424、4345、4347となり、平均で4372となりました。比較対象があまりありませんが、2011年冬春モデルのうちのAndroid 4.0搭載機では「GALAXY NEXUS SC-04D」が2000前後、「AQUOS PHONE 104SH」が3000前後でしたし、Android 2.3搭載機の最高値も「MEDIAS ES N-05D」の4021でしたので、かなり良い結果なのではないかと思われます。実際に操作した印象もなかなかのサクヌル感で快適に利用できる印象でした。
+
+以下に、2012年夏モデルにおける各社のAndroid搭載スマートフォンのチップセットとCPUクロック、コア数をまとめてみました。実際は、画面解像度やOSバージョン（今回はほぼ横並びのAndroid 4.0ですが）、ホームアプリの違いなどによって操作の快適性は異なりますが、少しは、動作の快適性の目安になればと思います。
+
+NTTドコモ 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+ARROWS X F-10D NVIDIA Tegra3 AP33 1.5GHz 4 ー 
+GALAXY S III SC-06D QUALCOMM MSM8960 1.5GHz 2 ー 
+Optimus Vu L-06D QUALCOMM APQ8060 1.5GHz 2 ー 
+L-06D JOJO QUALCOMM APQ8060 1.5GHz 2 ー 
+AQUOS PHONE ZETA SH-09D QUALCOMM MSM8960 1.5GHz 2 ー 
+Xperia GX SO-04D QUALCOMM MSM8960 1.5GHz 2 ー 
+AQUOS PHONE sv SH-10D QUALCOMM MSM8960 1.5GHz 2 ー 
+REGZA Phone T-02D QUALCOMM MSM8960 1.5GHz 2 ー 
+ELUGA POWER P-07D QUALCOMM MSM8960 1.5GHz 2 ー 
+AQUOS PHONE st SH-07D QUALCOMM MSM8255 1GHz 1 ー 
+MEDIAS X N-07D QUALCOMM MSM8960 1.5GHz 2 ー 
+Optimus it L-05D QUALCOMM MSM8960 1.5GHz 2 ー 
+Xperia SX SO-05D QUALCOMM MSM8960 1.5GHz 2 ー 
+ELUGA V P-06D TI OMAP4460 1.5GHz 2 ー 
+F-09D ANTEPRIMA QUALCOMM MSM8255 1.4GHz 1 ー 
+ARROWS Me F-11D QUALCOMM MSM8255 1GHz 1 ー 
+らくらくスマートフォン F-12D QUALCOMM MSM8255 1.4GHz 1 ー 
+
+au by KDDI 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+HTC J ISW13HT QUALCOMM MSM8660A 1.5GHz 2 ー 
+AQUOS PHONE SERIE　ISW16SH QUALCOMM MSM8660A 1.5GHz 2 ー 
+ARROWS Z ISW13F NVIDIA Tegra 3 AP33 1.5GHz 4 ー 
+URBANO PROGRESSO QUALCOMM MSM8655 1.4GHz 1 ー 
+AQUOS PHONE SL IS15SH QUALCOMM MSM8655 1.4GHz 1 ー 
+AQUOS PHONE CL IS17SH QUALCOMM MSM8655 1.4GHz 1 ー 
+
+ソフトバンクモバイル 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+PANTONE 6 107SH MSM8255T 1.4GHz 1 — 
+AQUOS PHONE Xx 106SH QUALCOMM MSM8260A 1.5GHz 2 — 
+ARROWS A 101F NVIDIA Tegra3 AP33 1.5GHz 4 — 
+AQUOS PHONE 102SHII TI OMAP4430 1GHz 2 — 
+
+WILLCOM 
+製品名 チップセット クロック数 コア数 Quadrantスコア DIGNO DUAL WX04K RENESAS R-Mobile MP5225 1.2GHz 2 ー 
+
+EMOBILE イー・アクセス 
+製品名 チップセット クロック数 コア数 Quadrantスコア GS03 TI OMAP4460 1.5GHz 2 ー 
+
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter

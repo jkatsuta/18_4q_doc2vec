@@ -1,0 +1,23 @@
+http://news.livedoor.com/article/detail/6584106/
+2012-05-22T19:01:00+0900
+【お願い】「Ameba　AppMarket」でPeachyアプリをダウンロードされた皆様へ
+いつもPeachyをご愛読いただき、誠にありがとうございます。Peachy編集部です。
+
+2012年6月29日をもって、株式会社サイバーエージェントが運営する「Ameba　AppMarket（Ameba アプリマーケット）」が終了することになりました。Ameba　AppMarketでのアプリのサポート期間も終了しますので、今後のアップデートが行われなくなります。
+（関連リンク）Ameba　AppMarketサービス終了のお知らせ
+
+Ameba　AppMarket上のPeachyアプリは、Google play上のPeachyアプリと外見は同じですが、スマートフォンからは別のアプリとして認識されています。そのため、今後Google playでPeachyアプリがアップデートされても、Ameba　AppMarketからダウンロードされたPeachyアプリは別物ですので、アップデートすることができません。
+
+大変お手数ですが、Ameba　AppMarketからPeachyアプリをダウンロードされた方は、いったんPeachyアプリを削除の上、改めてGoogle playからPeachyアプリをダウンロードしていただけますようお願いいたします。
+※Ameba　AppMarketのPeachyアプリを削除し、Google playからダウンロードしなおした場合、それまでの記事や「お気に入り」は引き継がれません
+
+■Google play　Android用「Peachy」アプリのダウンロードはこちら
+https://play.google.com/store/apps/details?id=com.livedoor.android.girls
+
+なお、Peachyアプリの削除・再インストールは、「Ameba　AppMarket」を使用されていた方のみにお願いしております。
+Google playからダウンロードされた方、またiPhone・iPad・iPod touchの方には影響がありませんので、現在のPeachyアプリをそのままお使いください。
+
+■関連サイト
+・Ameba　AppMarket
+・アメーバスタッフブログ「Ameba　AppMarketサービス終了のお知らせ」
+・Google play Peachyアプリ

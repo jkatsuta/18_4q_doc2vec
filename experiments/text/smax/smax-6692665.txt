@@ -1,0 +1,25 @@
+http://news.livedoor.com/article/detail/6692665/
+2012-06-25T20:10:00+0900
+Google、コンテンツ配信サービス「Google Play」にてアプリ開発者がコメントに返信できる機能を追加
+ゼロから始めるスマートフォン 
+
+Googleは21日（現地時間）、コンテンツ配信サービス「Google Play」にて、アプリのユーザーレビューに対してアプリ開発者がコメントできる機能を追加したと発表しています。
+
+現時点では「Top Developer」と呼ばれる一部の開発者のみを対象に提供されていますが、将来的には対象を拡大する計画です。
+
+この機能が追加されたことにより、これまでは出来なかった「開発者からユーザーへの返信」が可能となりました。使い方の分からないユーザーへの助言や、ユーザーの求める機能を追加した報告などを行うことができます。
+
+また、評価を不当に下げる悪質なコメントに反論する手段としても活用できます。
+
+またGoogleは同日に、開発者向けのサイト「Android Developer（ http://developer.android.com ）」のデザインを一新しています。項目が「デザイン」「開発」「配信」の3つに整理され、構成がシンプルになりました。
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■Google、Google Playにてアプリ開発者がコメントに返信できる機能を追加 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Android Developers Blog: Helping you build beautiful, powerful, successful apps
+・Android Developers Blog: Replying to User Reviews on Google Play

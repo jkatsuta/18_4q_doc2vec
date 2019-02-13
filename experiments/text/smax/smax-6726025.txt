@@ -1,0 +1,44 @@
+http://news.livedoor.com/article/detail/6726025/
+2012-07-05T06:55:00+0900
+Samsung、前面QWERTYキーボード搭載Android 4.0スマートフォン「GALAXY Chat」を発表
+GALAXY Chatを発表！ 
+
+Samsung Electronics（サムスン電子）は4日（現地時間）、同社のスマートフォン「GALAXYシリーズ」における新機種「GALAXY Chat（型番：GT-B5330）」を発表しています。前面QWERTYキーボードを搭載し、Android 4.0（開発コード名：IceCream Sandwich；ICS）を採用したモデルです。
+
+2012年7月にスペインで発売開始し、その後、欧州や南米、中東、東南アジアの各国で発売される予定です。
+
+
+GALAXY Chatは前面のディスプレイの下にいわゆる“Berry（ベリー）”のような小粒なキートップで、キー配列もパソコンと同じQWERTY配列のフルキーボードを搭載したモデルです。プラットフォームにAndroid 4.0を採用。
+
+また、スペックとしては、ディスプレイに3インチで280×320ドットのTFT液晶、メインカメラに200万画素CMOS、チップセットに「BCM21654」、内蔵メモリーに保存用（ROM）として4GBを搭載しています。
+
+スペック的にはエントリークラスに属していますが、フルキーボードを搭載していることからメールやチャットといった文字入力が伴う機能が便利に利用でき、最近のGALAXYシリーズに搭載されているチャットアプリ「ChatOn」も利用可能です。
+
+通常モデルのほか、高速データ通信規格LTEに対応したモデルも存在するとのこと。サイズは大きさが118.9×59.3×11.7mm、質量が112g。
+
+
+
+■GALAXY Chatの主な仕様
+製品名：GALAXY Chat
+型番：GT-B5330
+大きさ：118.9×59.3×11.7mm
+質量：112g
+OS：Android 4.0（開発コード名：IceCream Sandwich；ICS）
+ディスプレー：3.0インチ 280×320ドット TFT液晶
+チップセット：BCM21654
+内蔵メモリー：RAM 不明、ROM 4GB
+外部メモリー：microSD／microSDHC（最大32GBまで）
+メインカメラ：200万画素CMOS、フラッシュ付き
+フロントカメラ：非搭載
+無線LAN：Wi-Fi（IEEE802.11b／g／n準拠）
+Bluetooth：v3.0
+外部端子類：3.5mmイヤホンマイク、microUSB
+バッテリー容量：1200mAh
+アプリなど：GMS（Google Mobile Services）、Game Hub、ChatOn、QuickOffice、AllShare Play、S Planner
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Share smarter with Samsung GALAXY Chat | SAMSUNG TOMORROW Global

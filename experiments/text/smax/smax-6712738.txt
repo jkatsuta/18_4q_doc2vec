@@ -1,0 +1,73 @@
+http://news.livedoor.com/article/detail/6712738/
+2012-07-02T07:55:00+0900
+Google、iOS向けWebブラウザー「Chrome」とクラウドストレージ「Google Drive」の専用アプリを提供開始！Android向け「Chrome」も正式版に
+iPhoneやiPadで「Chrome」や「Google Drive」が利用可能に！ 
+
+Googleは6月28日（現地時間）、アメリカ・サンフランシスコで開催していた開発者向けイベント「Google I/O 2012」にてApple製スマートフォン「iPhone」やタブレット「iPad」などで利用できるiOS向けのWebブラウザー「Chrome for iPhone and iPad」およびクラウドストレージ（オンラインストレージ）サービス「Google Drive for iPhone and iPad」を利用できるアプリを提供開始したことを発表しています。
+
+すでにアプリ配信マーケット「App Store」にてダウンロード・インストールができるようになっています。
+
+また、6月27日（現地時間）にもこれまでベータ版として提供されていたAndroid向けWebブラウザー「Chrome for Android」が正式版として提供開始されています。こちらもアプリ配信マーケット「Google Playストア」にてダウンロード・インストールが可能となっています。
+■Chrome for iPhone and iPad
+Chromeは、WindowsやMac OS、Linuxなどで利用できるWebブラウザーです。ハードウェアアクセラレーションを利用した高速なレンダリングに対応するほか、各プラットフォームで閲覧履歴やパスワード、ブックマークなどの情報を同期できたり、履歴を残さずに閲覧できるシークレットモードがあるといったことが特長となっています。
+
+iOS向けなどのモバイル版では、複数ページを表示した場合の切り替え方法が複数用意されており、iPhoneとiPod touchでは切り替えボタンで行い、iPadではスワイプでページを切り替えることができます。
+
+
+
+
+
+■Google Drive for iPhone and iPad
+Google Driveは今年4月に発表された無料で5GBまで、有料で最大50GBまで利用できるクラウドストレージサービスです。複数の端末（WindowsやMac OSを搭載したパソコンやAndroid搭載のスマートフォン・タブレットなど）でデータを共有でき、対応アプリが導入されていれば、Google Driveに保存されているファイルを直接編集することも可能です。
+
+これまでもiOS搭載デバイスでWebブラウザー（モバイルSafari）を利用して、Google Driveを利用することはできましたが、今回、専用アプリがリリースしたことで、Android搭載デバイスとほぼ同様の機能を利用できるようになっています。
+
+
+
+■Chrome for Android
+これまでベータ版として提供してきたAndroid向けWebブラウザー「Chrome for Android」を正式版として公開しています。バージョン番号は18.0.1025123。対応OSはAndroid 4.0（開発コード名：IceCream Sandiwich；ICS ）以降。
+
+正式版では、安定性とパフォーマンスについての重要な修正を行ったほか、タブレット向けのユーザーインターフェイスなどに修正を行ったとのことです。
+
+
+
+記事執筆：memn0ck
+アプリ名：Chrome
+価格：無料
+カテゴリ：ユーティリティ
+開発者：Google, Inc.
+バージョン：19.0.1084.60
+サイズ：12.8 MB
+条件：iPhone、iPod touch および iPad 互換iOS 4.3 以降が必要
+iTunes Store：http://itunes.apple.com/jp/app/id535886823?mt=8
+
+
+
+アプリ名：Google Drive
+価格：無料
+カテゴリ：ユーティリティ
+開発者：Google, Inc.
+バージョン：1.0.1
+サイズ：6.1 MB
+条件：iPhone、iPod touch および iPad 互換iOS 4.3 以降が必要
+iTunes Store：http://itunes.apple.com/jp/app/id507874739?mt=8
+
+
+
+アプリ名：Chrome
+価格：無料
+カテゴリ：アプリ ＞ 通信
+開発者：Google Inc.
+バージョン：18.0.1025123
+ANDROID 要件：4.0 以上
+Google Play Store：http://play.google.com/store/apps/details?id=com.android.chrome
+
+
+
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Chrome Releases: Introducing Chrome for iPhone and iPad!
+・Official Google Enterprise Blog: Get things done anytime, anywhere: Announcing offline document editing and Google Drive for iOS
+・Chrome Releases: Chrome for Android out of Beta!

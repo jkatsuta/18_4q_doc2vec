@@ -1,0 +1,83 @@
+http://news.livedoor.com/article/detail/6635980/
+2012-06-07T17:05:00+0900
+本日発売開始！NTTドコモのコンパクトミュージックスマホ「AQUOS PHONE st SH-07D」の実力をベンチマークで試す【レポート】
+AQUOS PHONE st SH-07Dをベンチマーク！ 
+
+NTTドコモから本日7日（木）に発売開始された音楽再生機能をフューチャーした3.4インチサイズのコンパクトなAndroid 4.0（開発コード名：IceCream Sandwich；ICS ）搭載防水スマートフォン「AQUOS PHONE st SH-07D」（シャープ製）。
+
+シングルコアCPU搭載ながらシャープ独自のダイレクトトラッキング技術とAndroid 4.0搭載などによってなかなか快適な操作性を実現しています。
+
+今回は、そのAQUOS PHONE st SH-07Dでベンチマークアプリを利用して、その実力を試すととともに、各社の2012年夏モデルにおけるAndroid搭載スマートフォンの搭載チップセットやCPUクロックまとめを紹介していきたいと思います。
+
+AQUOS PHONE st SH-07Dのデザインとしては、昨年au向けに発売されたAndroidスマートフォン「IS05」と、2009年に発売されたau向け携帯電話「Sportio water beat」の両方の遺伝子を引き継いたような外観となっています。
+
+そのため、コンパクトかつ防水対応で、音楽機能を重視したという従来の「AQUOS PHONEブランド」のスマートフォンよりも「Sportio」に近い商品コンセプトになっています。
+
+今回は試作モデルを利用してベンチマークを計測してみました。ベンチマークアプリは「Quadrant Standard Edtion」および「AnTuTu 安兎兎ベンチマーク」を利用しています。ついでにAndroid 4.0搭載の標準Webブラウザも動作させたところもムービーで紹介したいと思います。
+
+
+これはQuadrant Benchmarkを利用したベンチマークです。高性能なスマートフォンではないので、動作自体も昨年モデルと同等のものでしょう。
+
+こちらはAnTuTuを利用しています。ベンチマーク計測終了まで時間がかかってしまいました。
+
+最後は標準Webブラウザを起動してみました。Android 4.0では、Android 3.xといったタブレット向けモデルに搭載されているクイックコントロール機能が利用できるようになっています。
+
+このクイックコントロール機能によって小さい画面をめいいっぱい利用することができる上、更新や戻る・進む、ブックマークなど基本的な操作がごく簡単に利用できるようになっています。
+
+AQUOS PHONE st SH-07Dは決して高性能とは言いませんが、コンパクトでかわいいサイズのアクティブスマートフォンで、スポーツをする人はもちろん、最近の大型スマートフォンにちょっと飽きていたという人にもオススメなモデルに仕上がっていると思います。
+
+以下に、2012年夏モデルにおける各社のAndroid搭載スマートフォンのチップセットとCPUクロック、コア数をまとめてみました。実際は、画面解像度やOSバージョン（今回はほぼ横並びのAndroid 4.0ですが）、ホームアプリの違いなどによって操作の快適性は異なりますが、少しは、動作の快適性の目安になればと思います。
+
+NTTドコモ 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+ARROWS X F-10D NVIDIA Tegra3 AP33 1.5GHz 4 ー 
+GALAXY S III SC-06D QUALCOMM MSM8960 1.5GHz 2 ー 
+Optimus Vu L-06D QUALCOMM APQ8060 1.5GHz 2 ー 
+L-06D JOJO QUALCOMM APQ8060 1.5GHz 2 ー 
+AQUOS PHONE ZETA SH-09D QUALCOMM MSM8960 1.5GHz 2 ー 
+Xperia GX SO-04D QUALCOMM MSM8960 1.5GHz 2 ー 
+AQUOS PHONE sv SH-10D QUALCOMM MSM8960 1.5GHz 2 ー 
+REGZA Phone T-02D QUALCOMM MSM8960 1.5GHz 2 ー 
+ELUGA POWER P-07D QUALCOMM MSM8960 1.5GHz 2 ー 
+AQUOS PHONE st SH-07D QUALCOMM MSM8255 1GHz 1 2134 
+MEDIAS X N-07D QUALCOMM MSM8960 1.5GHz 2 ー 
+Optimus it L-05D QUALCOMM MSM8960 1.5GHz 2 ー 
+Xperia SX SO-05D QUALCOMM MSM8960 1.5GHz 2 ー 
+ELUGA V P-06D TI OMAP4460 1.5GHz 2 ー 
+F-09D ANTEPRIMA QUALCOMM MSM8255 1.4GHz 1 ー 
+ARROWS Me F-11D QUALCOMM MSM8255 1GHz 1 ー 
+らくらくスマートフォン F-12D QUALCOMM MSM8255 1.4GHz 1 ー 
+
+au by KDDI 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+HTC J ISW13HT QUALCOMM MSM8660A 1.5GHz 2 4372 
+AQUOS PHONE SERIE　ISW16SH QUALCOMM MSM8660A 1.5GHz 2 ー 
+ARROWS Z ISW13F NVIDIA Tegra 3 AP33 1.5GHz 4 ー 
+URBANO PROGRESSO QUALCOMM MSM8655 1.4GHz 1 ー 
+AQUOS PHONE SL IS15SH QUALCOMM MSM8655 1.4GHz 1 ー 
+AQUOS PHONE CL IS17SH QUALCOMM MSM8655 1.4GHz 1 ー 
+
+ソフトバンクモバイル 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+PANTONE 6 107SH MSM8255T 1.4GHz 1 — 
+AQUOS PHONE Xx 106SH QUALCOMM MSM8260A 1.5GHz 2 — 
+ARROWS A 101F NVIDIA Tegra3 AP33 1.5GHz 4 — 
+AQUOS PHONE 102SHII TI OMAP4430 1GHz 2 — 
+
+WILLCOM 
+製品名 チップセット クロック数 コア数 Quadrantスコア DIGNO DUAL WX04K RENESAS R-Mobile MP5225 1.2GHz 2 ー 
+
+EMOBILE イー・アクセス 
+製品名 チップセット クロック数 コア数 Quadrantスコア GS03 TI OMAP4460 1.5GHz 2 ー GT01 Huawei K3V2 1.5GHz 4 ー 
+
+
+記事執筆：S-MAX編集部
+
+■MOBILEDATABANK
+■MOBILEDATABANK : 【docomo】AQUOS PHONE st SH-07Dのベンチマークを計測してみた
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・2012夏モデルの主な特長 : AQUOS PHONE st SH-07D | 製品 | NTTドコモ
+・docomo with series AQUOS PHONE st SH-07Dトップ｜NTT DOCOMO ラインアップ ：SH DASH

@@ -1,0 +1,54 @@
+http://news.livedoor.com/article/detail/6451189/
+2012-04-09T17:00:00+0900
+3D BIOSにDual UEFI！ギガバイトのIntel 7シリーズ搭載マザー
+GIGABYTEからIntel 7シリーズを搭載したマザーボードが一挙に11枚もリリースされた。ハイエンドマシンから手頃な価格の廉価PC向けまで幅広くラインアップされている。マザーボードの種類は11枚だがパッケージングとして同社のハイスピード無線LAN＆Bluetooth対応PCI Expressカード「GIGABYTE Bluetooth 4.0/デュアルバンド300Mbps Wi-Fi PCIeカード」とのセット品も用意されるため全13モデルになる。
+
+最上位となるのがIntel Z77 Express搭載モデルの「G1.Sniper 3」で、フル装備とも言える仕様だ。PCI Express ×16スロット2基に×8スロット2基で最大4-wayでのマルチGPU構成が可能だ。LGA1155搭載でカリッカリなPCを自作したい人向けと言えるだろう。
+
+■Intel Z77 Express搭載ATXマザー（市場予想価格）
+・G1. Sniper 3（3万3千円前後）
+・GA-Z77X-UD5H WiFi（2万9千円前後）
+・GA-Z77X-UD5H（2万5千円前後）
+・GA-Z77X-UD3H WiFi（2万2千円前後）
+・GA-Z77X-UD3H（1万9千円前後）
+・GA-Z77X-D3H（1万7千円前後）
+・GA-Z77-D3H（1万4千円前後）
+
+G1. Sniper 3とGA-Z77X-UD5H WiFiは「GIGABYTE Bluetooth 4.0/デュアルバンド300Mbps Wi-Fi PCIeカード」とのセットとなり、GA-Z77X-UD3H WiFiに関しては「GIGABYTE Bluetooth 4.0/デュアルバンド150Mbps Wi-Fi PCIeカード」とのセットになる。
+
+
+ 
+300Mbpsの無線LANと最新のBluetooth 4.0に対応した「GIGABYTE Bluetooth 4.0/デュアルバンド300Mbps Wi-Fi PCIeカード」 
+
+
+■Intel Z77 Express搭載MicroATXマザー（市場予想価格）
+・G1.Sniper M3（2万円前後）
+・GA-Z77MX-D3H（1万5千円前後）
+・GA-Z77M-D3H（1万2千円前後）
+
+■Intel H77 Express搭載ATXマザー（市場予想価格）
+・GA-H77-D3H（1万1千円前後）
+
+■Intel H77 Express搭載MicroATXマザー（市場予想価格）
+・GA-H77M-D3H（1万円前後）
+
+■Intel B75 Express搭載MicroATXマザー（市場予想価格）
+・GA-B75M-D3H（7千円前後）
+
+※市場予想価格は一部独自調べのため変動する可能性があります。
+
+■製品情報
+■ギガバイト
+
+
+
+
+■ギガバイトの記事をもっと見る
+・GIGABYTEマーケティング部門副部長が語る！アキバで見たシニア世代に感動
+・CPUもGPUも祭だワッショイ！GIGABYTE板祭でマザボ＆グラボのレビューアーを大募集
+・次世代22nmプロセッサー対応「Z77X-UD5H」マザーボードの魅力をさぐる
+・聞こえてきたIVY Bridgeの足音！GIGABYTEがCeBIT 2012でIVY Bridge対応マザーを展示
+・Windows 8時代でも使える小型PCに最適！次世代22nmプロセッサー対応可能な高コストパフォーマンスMini-ITXマザー「GA-H61N-USB3」
+
+GIGABYTE intel Z77 LGA1155 E-ATX LucidLogix Virtu MVP対応 G1-SNIPER 3
+クチコミを見る

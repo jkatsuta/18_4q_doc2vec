@@ -1,0 +1,45 @@
+http://news.livedoor.com/article/detail/6647956/
+2012-06-11T20:55:00+0900
+KDDI、auスマートフォン向け音楽アプリ「LISMO Player」の最新版を順次提供開始！ノイズの問題を改善
+ゼロから始めるスマートフォン 
+
+KDDIは11日、auスマートフォン向けの音楽アプリ「LISMO Player」の最新版を順次提供すると発表しました。
+
+本日すでに提供が開始された「IS03（Android 2.2）」および「AQUOS PHONE IS12SH」、「INFOBAR A01」、「G’zOne IS11CA」、「REGZA Phone IS11T」の5機種に対応したアプリ。
+
+au Marketからバージョンアップできます（詳しい手順はこちら）。また、2日後の6月13日には、「IS05（Android 2.3）」と「AQUOS PHONE IS11SH」向けのアプリが提供されます。
+
+さらに下記の機種については6月末以降、順次提供される予定です。
+
+・REGZA Phone IS04（Android 2.2）
+・Xperia acro IS11S
+・HTC EVO 3D ISW12HT（Android 2.3）
+・Motorola Photon ISW11M
+・AQUOS PHONE IS13SH
+・DIGNO ISW11K
+・ARROWS Z ISW11F
+・MEDIAS BR IS11N
+・ARROWS ES IS12F
+・Optimus X IS11LG
+・Galaxy SII WiMAX ISW11SC
+・AQUOS PHONE IS14SH
+・Xperia acro HD IS12S
+・Motorola RAZR IS12M（Android2.3）
+
+※記載のないLISMO対応スマートフォンについては、今回対象となった不具合はありません。
+
+最新版のバージョンはVer2.00.01。バージョンアップすることで下記の問題が改善されます。
+
+HE-AACフォーマットの楽曲（auケータイから引き継いだ着うたフル、ビデオクリップ、LISMO Portから転送された楽曲など）でノイズが発生する場合がある。
+
+なお、IS03のみ、音質設定で非対応の項目（バス、サラウンド、サラウンドバス）が表示されている問題もあわせて解消されます。
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■KDDI、auスマートフォン向け音楽アプリ「LISMO Player」の最新版を順次提供開始、ノイズの問題を改善 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・LISMO Player (Ver 2.00.01) バージョンアップのお知らせ | サポート情報 | au

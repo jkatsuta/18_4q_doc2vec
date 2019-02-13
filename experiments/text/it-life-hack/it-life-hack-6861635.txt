@@ -1,0 +1,63 @@
+http://news.livedoor.com/article/detail/6861635/
+2012-08-16T22:01:00+0900
+Kepler最新モデル登場！　深夜販売も行われたNVIDIAの最新GPU「GeForce GTX 660 Ti」
+本日8月16日、22時をもって情報開示が解禁されたのがNVIDIAの新型GPU「GeForce GTX 660 Ti」だ。1344ユニットのCUDAコア、192ビットのメモリインターフェイスを搭載、アーキテクチャは当然Keplerである。自動オーバークロック機能の「GPU Boost」により、GPUのポテンシャルを常に発揮し続ける設計で、パフォーマンス、電力効率ともに大変優れる製品になっている。ドスパラなどは、この発表に合わせて深夜販売を行った。
+
+今後のGPUのメインストリームとなっていくと思われ市場での価格はノーマル版で3万円台の前半、クロックアップ版が3万円台の半ばくらいに設定される。この発表に合わせてZOTACやMSI、Gainwardといったメーカーから、GeForce GTX 660 Ti搭載製品が投入された。各メーカーの製品名と価格を紹介しよう。
+
+■ZOTAC（アスク取り扱い）
+
+
+ 
+ZOTAC GeForce GTX 660 Ti 2GB 
+
+
+製品名：ZOTAC GeForce GTX 660 Ti 2GB
+型番：ZTGTX660Ti-2GD5R0/ZT-60802-10P
+発売時期：8月16日
+予想市場価格：33,000円前後
+
+
+ 
+ZOTAC GeForce GTX 660 Ti AMP Edition 
+
+
+製品名：ZOTAC GeForce GTX 660 Ti AMP Edition
+型番：ZTGTX660Ti-2GD5AMPR0/ZT-60804-10P
+発売時期 8月16日
+予想市場価格： 38,000円前後
+
+■MSI（アスク取り扱い）
+
+
+ 
+MSI N660GTX-Ti Twin Frozr IV PE OC 
+
+
+製品名：MSI N660GTX-Ti Twin Frozr IV PE OC
+型番：N660GTX-Ti Twin Frozr IV PE OC
+発売時期：8月16日
+予想市場価格：33,000円前後
+
+■Gainward（エムヴィケー扱い）
+
+
+ 
+GW GTX660TI 2GBD5 PHANTOM 
+
+
+製品名：GW GTX660TI 2GBD5 PHANTOM
+発売時期：今週中
+予想市場価格：32,980円前後
+
+
+ 
+GW GTX660TI 2GBD5 
+
+
+製品名：GW GTX660TI 2GBD5
+発売時期：今週中
+予想市場価格：30,980円前後
+
+■アスク
+■エムヴィケー

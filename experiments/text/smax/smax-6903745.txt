@@ -1,0 +1,69 @@
+http://news.livedoor.com/article/detail/6903745/
+2012-08-30T13:55:00+0900
+もう手に入れたかッ！？ジョジョスマホ「L-06D JOJO」の実力をベンチマークでチェック【レポート】
+本日発売L-06D JOJOをベンチマーク！ 
+
+NTTドコモから本日30日（木）に発売開始した「L-06D JOJO」（LGエレクトロニクス製）。公式オンラインストア「ドコモオンラインショップ」における本日分750台も早々に売り切れました。特に新規契約のほうは1分も立たずに完売で、まさに瞬殺ッ！でしたね。
+
+さて、このL-06D JOJOはベースモデルとなる「Optimus Vu L-06D」ともにチップセットに1.5GHz駆動の次世代高速デュアルコアCPU「Snapdragon S3」を内蔵したQualcomm製チップセット「APQ8060」を採用しています。
+
+今回は、そのL-06D JOJOでベンチマークアプリ「Quadrant Standard Edition」を利用して、その実力を試すととともに、各社の2012年夏モデルにおけるAndroid搭載スマートフォンの搭載チップセットやCPUクロックまとめを紹介していきたいと思います。
+
+
+Quadrant Standard EditionでL-06D JOJOのシステムを確認すると、のCPUは1512MHz（1.5GHz）、GPUはAdreno 220となっておりリフレッシュレートは60Hzとなっていることがわかります。
+
+
+
+ベンチマークは1回目が3582、2回目が3447、3回目が3426、3回の平均値は3485となりました。同CPUを搭載する5インチ大画面スマートフォン「GALAXY Note SC-05D」は、画面解像度が高い分の負荷が掛かったのか、さらに低い2900〜3200台となっています。
+
+下記の表中の機種との数値の違いは、1世代前のSnapdragonであることが一番の要因でしょう。とはいえ、あくまでベンチマークテストによる数値であり、Webやメール・音楽そして動画再生など普段使いであれば遅いと感じることはありません。
+
+NTTドコモ 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+ARROWS X F-10D NVIDIA Tegra3 AP33 1.5GHz 4 ー 
+GALAXY SIII SC-06D QUALCOMM MSM8960 1.5GHz 2 5018 
+Optimus Vu L-06D QUALCOMM APQ8060 1.5GHz 2 ー 
+L-06D JOJO QUALCOMM APQ8060 1.5GHz 2 3485 
+AQUOS PHONE ZETA SH-09D QUALCOMM MSM8960 1.5GHz 2 ー 
+Xperia GX SO-04D QUALCOMM MSM8960 1.5GHz 2 4040 
+AQUOS PHONE sv SH-10D QUALCOMM MSM8960 1.5GHz 2 ー 
+REGZA Phone T-02D QUALCOMM MSM8960 1.5GHz 2 ー 
+ELUGA POWER P-07D QUALCOMM MSM8960 1.5GHz 2 ー 
+AQUOS PHONE st SH-07D QUALCOMM MSM8255 1GHz 1 2134 
+MEDIAS X N-07D QUALCOMM MSM8960 1.5GHz 2 ー 
+Optimus it L-05D QUALCOMM MSM8960 1.5GHz 2 5344 
+Xperia SX SO-05D QUALCOMM MSM8960 1.5GHz 2 4147 
+ELUGA V P-06D TI OMAP4460 1.5GHz 2 ー 
+F-09D ANTEPRIMA QUALCOMM MSM8255 1.4GHz 1 ー 
+ARROWS Me F-11D QUALCOMM MSM8255 1GHz 1 ー 
+らくらくスマートフォン F-12D QUALCOMM MSM8255 1.4GHz 1 ー 
+
+au by KDDI 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+HTC J ISW13HT QUALCOMM MSM8660A 1.5GHz 2 4372 
+AQUOS PHONE SERIE　ISW16SH QUALCOMM MSM8660A 1.5GHz 2 ー 
+ARROWS Z ISW13F NVIDIA Tegra 3 AP33 1.5GHz 4 ー 
+URBANO PROGRESSO QUALCOMM MSM8655 1.4GHz 1 ー 
+AQUOS PHONE SL IS15SH QUALCOMM MSM8655 1.4GHz 1 ー 
+AQUOS PHONE CL IS17SH QUALCOMM MSM8655 1.4GHz 1 ー 
+
+ソフトバンクモバイル 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+PANTONE 6 107SH MSM8255T 1.4GHz 1 — 
+AQUOS PHONE Xx 106SH QUALCOMM MSM8260A 1.5GHz 2 — 
+ARROWS A 101F NVIDIA Tegra3 AP33 1.5GHz 4 — 
+AQUOS PHONE 102SHII TI OMAP4430 1GHz 2 — 
+
+WILLCOM 
+製品名 チップセット クロック数 コア数 Quadrantスコア DIGNO DUAL WX04K RENESAS R-Mobile MP5225 1.2GHz 2 ー 
+
+EMOBILE イー・アクセス 
+製品名 チップセット クロック数 コア数 Quadrantスコア GS03 TI OMAP4460 1.5GHz 2 ー GT01 Huawei K3V2 1.5GHz 4 ー 
+
+
+記事執筆：mi2_303
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・S-MAX - Facebookページ

@@ -1,0 +1,42 @@
+http://news.livedoor.com/article/detail/6621574/
+2012-06-03T15:55:00+0900
+Samsung、LTE対応Android 4.0 ICS搭載スマートフォン「GALAXY R Style」を正式発表！韓国で発売
+ゼロから始めるスマートフォン 
+
+Samsung Electronics（サムスン電子）は5月31日、同社のスマートフォン「GALAXYシリーズ」の新製品「GALAXY R Style」を発表しています。韓国で発売される予定です。
+
+GALAXY R Style（型番：SHV-E170S/K/L）は日本国内でも人気の最上位モデル“GALAXY Sシリーズ”のひとつ下位にあたる“GALAXY Rシリーズ”のスマートフォンです。
+
+フラグシップモデルである「GALAXY SIII」とは、端末サイズ、スペックともに一回り控えめな構成となっていますが、Qualcomm製の最新チップ「Snapdragon S4」の搭載やLTEに対応するなど、十分にハイスペックな構成となっています。
+
+ディスプレイは4.3インチQHD（960×540）で、サムスンお得意のSuper AMOLEDが採用されています。搭載OSはAndroid4.0。CPUは1.5GHzデュアルコア。メモリーはRAMが1GB、ROMが16GB。カメラは背面500万画素、前面200万画素となっています。その他、2000mAhの大容量バッテリー、NFC、Bluetooth4.0、地上波DMBなどをサポートします。
+
+端末サイズは128×64.5×9.79mm。カラーはホワイト1色。価格は70万ウォン台（約46,000〜53,000円程度）とされています。
+
+
+
+■ 主なスペック
+サイズ：128×64.5×9.79mm
+重さ：-g
+ディスプレイ：4.3インチ　QHD（960×540）　Super AMOLED
+OS：Android4.0 Ice Cream Sandwich
+CPU：1.5GHzデュアルコア（Qualcomm Snapdragon S4 MSM8960）
+RAM：1GB
+ROM：16GB
+外部メモリー：microSD/microSDHC/microSDXC（最大64GB）
+カメラ：背面500万画素、前面130万画素
+無線LAN：IEEE802.11 a/b/g/n
+Bluetooth：4.0
+NFC：対応
+バッテリー容量：2,000mAh
+その他：地上波DMB
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■サムスン、LTE対応＆Snapdragon S4搭載のスマートフォン「Galaxy R Style」を正式発表、韓国で発売 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・삼성전자, LTE 스마트폰 &apos;갤럭시R 스타일&apos; 출시 SAMSUNG

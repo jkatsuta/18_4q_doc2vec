@@ -1,0 +1,58 @@
+http://news.livedoor.com/article/detail/6902669/
+2012-08-30T09:55:00+0900
+Sony Mobile、防水・防塵対応の4.3インチスマートフォン「Xperia V（Tsubasa）」を正式発表
+ゼロから始めるスマートフォン 
+
+ソニーモバイルコミュニケーションズは29日（現地時間）、ドイツ・ベルリンで行われているイベント「IFA2012」にあわせてプレスカンファレンスを開催し、新しい「Xperia」シリーズのスマートフォン「Xperia V」を発表しています。2012年第4四半期（10〜12月）に発売される予定。
+
+開発コードネーム「Tsubasa（モデル名：LT25）」で知られていたこの機種は、4.3インチHD（720×1280ドット）液晶を搭載した中型のAndroidスマートフォンです。
+
+
+
+端末サイズは129×65×10.7mm、重さは120gで、片手でも操作が容易な丁度よいサイズ感・重さとなっています。背面は“アーク形状”で、持ちやすさも十分に考慮されています。また、IP55およびIP57＋等級の防水・防塵性能を備えるのも大きな特徴のひとつです。カラーはブラック、ピンク、ホワイトの3色展開。
+
+OSにはAndroid 4.0.4（開発コード名：IceCream Sandwich；ICS）が初期搭載され、発売後にはAndroid 4.1（開発コード名：JellyBean）へのアップグレードが予定されています。SoCはQualcomm製「MSM8960」で、CPUは1.5GHzデュアルコア「Snapdragon S4」。メモリーはRAMが1GBで、ROMが8GB。外部メモリーとして32GBまでのmicroSDHCをサポートします。
+
+
+
+
+カメラは背面にHDR撮影や1080pフルHD動画撮影をサポートした1300万画素裏面照射型CMOS（Exmor R for Mobile）を採用。前面にもVGA（約30万画素）カメラを備えます。
+
+通信は、2Gおよび3Gに加え、4G（LTE）に対応します（LTE対応は通信キャリアによって対応状況が異なるということです）。また、無線LANおよびBluetooth、DLNA、aGPS、GLONASS、NFCなどもサポートします。
+
+今秋から正式に開始されるPlayStation Mobileのコンテンツを利用できる「PlayStation Certified端末」となっています。
+
+正式には発表されていませんが、日本のNTTドコモとKDDI auからも、これをベースとした機種が冬モデルとして発売されると噂されています。
+
+
+
+■主な仕様
+端末サイズ：129×65×10.7mm
+重さ：120g
+ディスプレイ：4.3インチHD（720×1280ドット）Reality Display with Mobile BRAVIA Engine2 液晶
+OS：Android4.0.4 ICS（発売後にAndroid4.1 Jelly Beanへアップグレード予定）
+CPU：1.5GHzデュアルコア（Qualcomm Snapdragon S4 MSM8960）
+RAM：1GB
+ROM：8GB
+外部メモリ：microSD／microSDHC（最大32GB）
+カメラ：1,300万画素裏面照射型CMOS（Exmor R for Mobile）、1080pフルHD動画撮影、HDR動画撮影、スウィープパノラマ撮影対応
+フロントカメラ：VGA（約30万画素）
+無線LAN：IEEE802.11 a／b／g／n準拠
+Bluetooth：3.1
+NFC：○
+通信：UMTS HSPA+、GSM EDGE、LTE
+対応周波数：UMTS HSPA+ 850 (Band V), 900 (Band VIII), 2100 (Band I) GSM EDGE 850, 900, 1800, 1900
+LTE Band I, Band III, Band V, Band VII
+防水・防塵：○（IP55／57＋）
+バッテリー容量：1,750mAh
+その他：DLNA、GPS／aGPS、GLONASS、3.5mmオーディオジャック、microUSB
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■ソニー、防水・防塵対応の4.3インチスマートフォン「Xperia V（Tsubasa）」を正式発表 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・New Xperia smartphone series with Sony’s best HD experiences deliver next step in connected entertainment - Corporate - press releases - Sony Xperia

@@ -1,0 +1,26 @@
+http://news.livedoor.com/article/detail/6781727/
+2012-07-23T09:55:00+0900
+HTC、「HTC Desire HD」へのAndroid 4.0 ICSアップデートを断念！パフォーマンス維持できない
+ゼロから始めるスマートフォン 
+
+HTCは、同社公式ブログ「HTC Blog — Inside Views & Breakthroughs from HTC」にて公開している同社製Androidスマートフォンに対するAndroid 4.0（開発コード名：IceCream Sandwich；ICS）へのOSバージョンアップ対象機種リストの中から「HTC Desire HD」を除外しています。
+
+除外に際し、注釈にて「現在のAndroidバージョンおよびHTC Senseバージョンの状態が最も良いユーザー体験を与えられるということが、テストの結果わかった」と示し、Android 4.0へのアップデートを断念したことと、その理由を記しています。
+
+After extensive testing, we’ve determined that the current version of HTC Sense with Android provides customers with the best experience on the HTC Desire HD. When we consider new versions of software, we weigh a number of factors, but ultimately the customer experience on the product is the deciding factor. We apologize for any confusion this change may have caused our customers.
+
+
+
+HTC Desire HDは日本でもソフトバンクモバイルから「HTC Desire HD 001HT」として発売されています。CPUはシングルコアの1.0GHz（Qualcomm Snapdragon MSM8255）ながら、RAMサイズは768MBとなっており、同時期に発売された他メーカーの機種よりもスペック的には若干優れていました。
+
+しかしながら、それでもAndroid 4.0では十分なパフォーマンスが得られず、最終的にアップデートされないという結果となってしまいました。非常に残念なところです。
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■HTC、「HTC Desire HD」へのAndroid4.0 ICSアップデートを断念、パフォーマンス維持できない | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Android 4.0, Ice Cream Sandwich Updates

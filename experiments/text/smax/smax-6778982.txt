@@ -1,0 +1,75 @@
+http://news.livedoor.com/article/detail/6778982/
+2012-07-21T17:55:00+0900
+Xi対応コンパクトな全部入りスマホ「Optimus it L-05D」の実力をベンチマークで試す【レポート】
+Optimus it L-05DをQuadrantでベンチマーク測定！ 
+
+NTTドコモから販売中の4.0インチディスプレイ搭載のコンパクトサイズながら全部入りといってもいい機能が詰め込まれているAndroidスマートフォン「Optimus it L-05D」（LGエレクトロニクス製）。
+
+Android 4.0（開発コード名：IceCream Sandwich；ICS）搭載し、Xiだけではなく、おサイフケータイ（Felica）やワンセグ、赤外線機能、防水に対応しており、ミドルクラスながら機能的にはきっちりと揃っているモデルです。また、チップセットには1.5GHz駆動の次世代高速デュアルコアCPU「Snapdragon S4」を内蔵したQualcomm製チップセット「MSM8960」を採用し、ハイエンドモデルと同じとなっています。
+
+今回は、そのOptimus it L-05Dでベンチマークアプリ「Quadrant Standard Edition」を利用して、その実力を試すととともに、各社の2012年夏モデルにおけるAndroid搭載スマートフォンの搭載チップセットやCPUクロックまとめを紹介していきたいと思います。
+
+今回、Optimus it L-05Dで測定したQuadrant Standard Edtionによるベンチマーク結果は以下の通りです。
+
+  
+
+ベンチマークの測定結果は、トータルで5373、5424、5234となり、平均で5344となりました。
+
+Optimus it L-05Dはチップセットとして最新の28nmプロセスで製造された1.5GHzデュアルコアCPU「Dual Krait」やGPU「Adreno 225」を搭載した「Snapdragon S4」によるQUALCOMM製「MSM8960」を採用しています。
+
+同じチップセットを搭載しているモデルとしては、NTTドコモ向け「AQUOS PHONE ZETA SH-09D」や「Xperia GX SO-04D」、「AQUOS PHONE sv SH-10D」、「REGZA Phone T-02D」、「ELUGA POWER P-07D」、「MEDIAS X N-07D」、「GALAXY SIII SC-06D」、「Xperia SX SO-05D」と多数を占めています。
+
+また、対応通信方式の違うチップセットとして、LTEに対応しないGSM／W-CDMA対応「MSM8260A」やCDMA 1X 2000対応「MSM8660A」を搭載したモデルはいくつか夏モデルにもあり、すでに紹介したau向け「HTC J ISW13HT」もMSM8660Aを搭載していました。
+
+なお、これらの同じチップセットを搭載したモデルの多くは、ディスプレイの解像度がHD（720×1280ドット）ですが、Optimus it L-05DはWVGA（480×800ドット）と低いので動作速度などでも少し有利かなと思われます。ベンチマークの数値的にも非常に高くなっていますね。
+
+以下に、2012年夏モデルにおける各社のAndroid搭載スマートフォンのチップセットとCPUクロック、コア数をまとめてみました。実際は、画面解像度やOSバージョン（今回はほぼ横並びのAndroid 4.0ですが）、ホームアプリの違いなどによって操作の快適性は異なりますが、少しは、動作の快適性の目安になればと思います。
+
+NTTドコモ 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+ARROWS X F-10D NVIDIA Tegra3 AP33 1.5GHz 4 ー 
+GALAXY SIII SC-06D QUALCOMM MSM8960 1.5GHz 2 5018 
+Optimus Vu L-06D QUALCOMM APQ8060 1.5GHz 2 ー 
+L-06D JOJO QUALCOMM APQ8060 1.5GHz 2 ー 
+AQUOS PHONE ZETA SH-09D QUALCOMM MSM8960 1.5GHz 2 ー 
+Xperia GX SO-04D QUALCOMM MSM8960 1.5GHz 2 ー 
+AQUOS PHONE sv SH-10D QUALCOMM MSM8960 1.5GHz 2 ー 
+REGZA Phone T-02D QUALCOMM MSM8960 1.5GHz 2 ー 
+ELUGA POWER P-07D QUALCOMM MSM8960 1.5GHz 2 ー 
+AQUOS PHONE st SH-07D QUALCOMM MSM8255 1GHz 1 2134 
+MEDIAS X N-07D QUALCOMM MSM8960 1.5GHz 2 ー 
+Optimus it L-05D QUALCOMM MSM8960 1.5GHz 2 5344 
+Xperia SX SO-05D QUALCOMM MSM8960 1.5GHz 2 ー 
+ELUGA V P-06D TI OMAP4460 1.5GHz 2 ー 
+F-09D ANTEPRIMA QUALCOMM MSM8255 1.4GHz 1 ー 
+ARROWS Me F-11D QUALCOMM MSM8255 1GHz 1 ー 
+らくらくスマートフォン F-12D QUALCOMM MSM8255 1.4GHz 1 ー 
+
+au by KDDI 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+HTC J ISW13HT QUALCOMM MSM8660A 1.5GHz 2 4372 
+AQUOS PHONE SERIE　ISW16SH QUALCOMM MSM8660A 1.5GHz 2 ー 
+ARROWS Z ISW13F NVIDIA Tegra 3 AP33 1.5GHz 4 ー 
+URBANO PROGRESSO QUALCOMM MSM8655 1.4GHz 1 ー 
+AQUOS PHONE SL IS15SH QUALCOMM MSM8655 1.4GHz 1 ー 
+AQUOS PHONE CL IS17SH QUALCOMM MSM8655 1.4GHz 1 ー 
+
+ソフトバンクモバイル 
+製品名 チップセット クロック数 コア数 Quadrantスコア 
+PANTONE 6 107SH MSM8255T 1.4GHz 1 — 
+AQUOS PHONE Xx 106SH QUALCOMM MSM8260A 1.5GHz 2 — 
+ARROWS A 101F NVIDIA Tegra3 AP33 1.5GHz 4 — 
+AQUOS PHONE 102SHII TI OMAP4430 1GHz 2 — 
+
+WILLCOM 
+製品名 チップセット クロック数 コア数 Quadrantスコア DIGNO DUAL WX04K RENESAS R-Mobile MP5225 1.2GHz 2 ー 
+
+EMOBILE イー・アクセス 
+製品名 チップセット クロック数 コア数 Quadrantスコア GS03 TI OMAP4460 1.5GHz 2 ー GT01 Huawei K3V2 1.5GHz 4 ー 
+
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter

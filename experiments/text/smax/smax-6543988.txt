@@ -1,0 +1,46 @@
+http://news.livedoor.com/article/detail/6543988/
+2012-05-10T07:55:00+0900
+Google、Android向け「Googleマップ」をバージョンアップ！インドアマップ内でも徒歩経路を利用可能に
+屋内でも迷わない！？ 
+
+Googleは9日（現地時間）、Android向けGoogleマップアプリ「マップ」の最新バージョン6.7.0を公開したことをお知らせしています。
+
+6.7.0では、米国および日本でのインドアマップ（屋内地図）における徒歩経路が利用可能になったりしています。更新によって追加される機能は以下の3点です。
+
+1. 付近のGoogleクーポンが表示されるようになりました（米国のみ）。
+2. インドアマップ内でも徒歩経路（ベータ版）を使えるようになりました（日本、米国）。
+3. レストランやお店の内部を360度のパノラマで見られるようになりました。
+
+インドアマップでは一部の建物内における各階のフロアマップが確認できる機能で、各階にあるショップなどを指定して経路案内の行き先や出発地として利用できるようになっています。
+
+例えば、八重洲地下街の地下1階（B1）にある「美味しいさかなけやき」というお店を行き先に指定し、東京駅を出発地に指定すると改札からどのように行くかがわかります。
+
+
+
+
+
+
+
+
+まだ利用できるインドアマップも少ないことから利用頻度はあまり多くないかもしれませんが、インドアマップがある建物ならばかなり迷うことなくたどり着けるようになりそうです。
+
+
+
+
+記事執筆：memn0ck
+アプリ名：モバイルGoogleマップ
+価格：無料
+カテゴリ：旅行＆地域
+開発者：Google Inc.
+バージョン：6.7.0
+ANDROID 要件：端末により異なります上
+Google Play Store：http://play.google.com/store/apps/details?id=com.google.android.apps.maps
+
+
+
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Shop and travel smarter with Google Maps 6.7 for Android - now with Google Offers and indoor walking directions - Official Google Mobile Blog
+・Google Japan Blog: インドア Google マップが徒歩経路検索に対応しました。

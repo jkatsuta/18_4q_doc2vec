@@ -1,0 +1,43 @@
+http://news.livedoor.com/article/detail/6682218/
+2012-06-22T05:55:00+0900
+ZTE、Snapdragon S4搭載のLTEスマートフォン「Grand X LTE（T82）」を発表！日本でも発売か
+ゼロから始めるスマートフォン 
+
+ZTEは19日（現地時間）、現在シンガポールで開催されている展示会「Communic Asia 2012」にてAndroidスマートフォン「Grand X LTE（T82）」を発表しています。
+
+2012年第3四半期にアジア太平洋地域とヨーロッパで発売予定です。
+
+Grand X LTE（T82）は、同社初のシングルチップLTEスマートフォンで、SoCとしてQualcomm製「Snapdragon S4」を採用しています。同チップは製造プロセス28nmの1.5GHzデュアルコアCPUとLTEモデムをシングルチップで実現しており、省スペースと省電力性に優れています。
+
+OSはAndroid4.0 ICS。ディスプレイは4.3インチQHD（560×960）。カメラは800万画素で、1080pフルHD動画撮影をサポートします。720pHD動画撮影をサポートするフロントカメラも搭載します。バッテリー容量は1,900mAh。
+
+端末サイズは65×11.2×131mm、重さは約151gとなっています。
+
+国内の大手メディアの報道によると、日本でも発売される可能性が高いようです。キャリアはソフトバンクとなりそう。
+
+■スペック
+端末サイズ：65×11.2×131mm
+重さ：151g
+ディスプレイ：4.3インチ QHD（960×540）
+OS：Android4.0 Ice Cream Sandwich
+CPU：1.5GHzデュアルコア（Snapdragon MSM8960）
+RAM：不明
+ROM：不明：
+カメラ：背面800万画素（1080pフルHD動画撮影）、前面130万画素
+Wi-Fi：対応
+Bluetooth：対応
+LTE：対応
+対応周波数：GSM GPRS EDGE（850/900/1800/1900MHz）、HSPA UMTS（900,850/2000MHz）
+バッテリー容量：1,900mAh
+
+
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■ZTE、Snapdragon S4搭載のLTEスマートフォン「Grand X LTE（T82）」を発表 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・ZTE Launches Grand X LTE (T82), Company’s First Single-Chip LTE Smartphone - ZTE Corporation

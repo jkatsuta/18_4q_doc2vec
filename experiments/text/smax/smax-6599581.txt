@@ -1,0 +1,52 @@
+http://news.livedoor.com/article/detail/6599581/
+2012-05-27T17:55:00+0900
+HTC、Android 4.0 ICSへのOSバージョンアップ計画の詳細情報を公開！タブレット端末は対象外に
+ゼロから始めるスマートフォン 
+
+HTCは公式サイトにて同社製端末のAndroid 4.0（開発コード名：IceCream Sandwich；ICS）へのOSバージョンアップ計画についての詳細を公開しています。
+
+このうち国内向けに販売されているのは、HTC Desire HDの2012年7〜8月およびHTC EVO 3Dの2012年6〜7月とされています。
+
+ただし、両機種ともにグローバルモデルでの話で、国内向けの「HTC Desire HD 001HD」および「HTC EVO 3D ISW12HT」については別途各通信事業者から案内があると思われます。
+
+今回公開された対象機種および実施スケジュールは以下の通りです。今年3月に公開されたリストに、新たに「HTC Velocity 4G」が加えられています。
+
+
+
+DROID Incredible 2 by HTC　・・・　未決定（8月末までには完了）
+HTC Amaze 4G　・・・　5〜6月
+HTC Desire S　・・・　6〜7月
+HTC Desire HD　・・・　7〜8月
+HTC EVO 3D　・・・　6〜7月
+HTC EVO 4G+　・・・　5〜6月
+HTC EVO Design 4G　・・・　 6〜7月
+HTC Incredible S　・・・　6〜7月
+HTC Sensation　・・・　3〜6月
+HTC Sensation 4G　・・・　3〜6月
+HTC Sensation XE　・・・　3〜6月
+HTC Sensation XL　・・・　4〜6月
+HTC Rezound　・・・　6〜7月
+HTC Rhyme　・・・　6〜7月
+HTC Thunderbolt　・・・　7〜8月
+HTC Velocity 4G　・・・　3〜6月
+HTC Vivid　・・・　3〜6月
+
+HTCは、大半の機種で6月〜7月にアップグレードが実施され、8月には全て完了させることを見込んでいるとのことです。
+
+しかしながら、アップデートは同時にすべてのデバイスに配信されるわけではなく、各国キャリアモデルなどでは最初の更新から最大45日、開始日がずれることがあるそうです。
+
+なお、Android 4.0へのアップグレード時、HTC Senseもバージョンアップし、バージョン3.6となります。バージョン4.0とならない理由は、これを利用するためのハードウェア要件を満たしていない機種もあるからだということです。
+
+アップグレードの対象とならない機種の基準も説明しており、ROMサイズが512MB以下の端末については容量不足のために提供を行わないとしています。
+
+また、HTC Flyer、HTC View 4G、HTC Jetstreamを含むAndroidタブレットにもアップグレードを行わず、Android 3.2（開発コード名：Honeycomb）のままとなります。ただし、　アップグレードは行わないが、継続的なサポートは継続して行うとしています。
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■HTC、Android4.0 ICSアップグレード計画の詳細情報を公開、タブレット端末は対象外に | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Android 4.0 Update Frequently Asked Questions

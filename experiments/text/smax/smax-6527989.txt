@@ -1,0 +1,82 @@
+http://news.livedoor.com/article/detail/6527989/
+2012-05-04T03:25:00+0900
+Samsung、テクノロジーを集結した最新スマートフォン「GALAXY S III」を発表！クアッドコアやAndroid 4.0 ICS
+GALAXY S IIIがついに正式発表！ 
+
+Samsung Electoronics（サムスン電子）は4日（現地時間）、ロンドン（イギリス）にてプレス向けイベント「SAMSUNG MOBILE UNPACKED 2012」を開催し、同社のスマートフォン「GALAXY Sシリーズ」における第3世代モデル「GALAXY S III（グローバルモデル型番：GT-I9300）」を発表しています。日本でも夏に発売予定。
+
+GALAXY S IIIは、最新プラットフォーム「Android 4.0（開発コード名：IceCream Sandwich；ICS）」を採用し、4.8インチHD（720×1280ドット）Super AMOLED（スーパー有機EL）ディスプレイを搭載し、裏面照射型8メガピクセルカメラ、裏面照射型1.9メガピクセルフロントカメラ、チップセットにサムスン独自開発のSamsung Exynos 4412（最大周波数1.4GHzクアッドコアCPU内蔵）を搭載したスマートフォンです。
+
+
+
+現在、発表会が開催されており、GALAXY S IIIの機能が紹介されています。
+
+
+
+
+サイズは、大きさが約136.6×70.6×8.6mm、質量が約133g。ボディーカラーにPebble BlueおよびMarble Whiteの2色が用意。GSMおよびW-CDMAに対応し、地域によって4G（LTE）にも対応するとのことです。
+
+デザインとしては「GALAXY Nexus」に近いやや丸みのあるものとなっている一方で、Android 4.0を搭載していないがらディスプレイの下には中央にクリック感のあるホームキー、その左右に静電式のメニューキーとバックキーというこれまでの「GALAXYシリーズ」と同じようになっています。
+
+音声入力サポート「S Voice」や連携機能「S Beam」などといった独自機能も搭載。
+
+145カ国296キャリア向けに提供され、2012年5月末から欧州で発売開始し、その後にアジアなどで発売していくとのこと。アジアには日本や韓国が挙げられ、LTEモデルが発売される見込み。通信事業者は特に明らかにされていなかったが、LTE対応や従来の販売経緯から恐らくNTTドコモの夏モデルとして登場するのではないかと見られます。
+
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+■ GALAXY S IIIの主なスペック
+
+ネットワーク 2.5G（GSM／GPRS／EDGE）：850／900／1800／1900 MHz
+3G（HSPA＋ 21Mbps）：850／900／1900／2100 MHz
+4G（地域によって対応） 
+Display 4.8インチHD（1280×720ドット）Super AMOLEDディスプレイ 
+OS Android 4.0（Ice Cream Sandwich） 
+カメラ メイン（背面）：8 Mega pixel Auto Focus camera with Flash & Zero Shutter Lag、BIS
+サブ（フロント）：1.9 Mega pixel camera、HD recording @30fps with Zero Shutter Lag、BIS 
+対応動画ファイル形式 コーデック：MPEG4、H.264、H.263、DivX、DivX3.11、VC-1、VP8、WMV7/8、Sorenson Spark
+Recording & Playback：Full HD（1080p）  
+対応音楽ファイル形式 コーデック：MP3、AMR-NB/WB、AAC/AAC＋/eAAC＋、WMA、OGG、FLAC、AC-3、apt-X 
+その他特徴 S Beam、Buddy photo share、Share shot 
+AllShare Play、AllShare Cast 
+Smart stay、Social tag、Group tag、Face zoom、Face slide show 
+Direct call、Smart alert、Tap to top、Camera quick access 
+Pop up play 
+S Voice 
+Burst shot & Best photo、Recording snapshot、HDR 
+Google Mobile Services Google Search、Google Maps、Gmail、Google Latitude
+Google Play Store、Google Play Books、Google Play Movies
+Google Plus、YouTube、Google Talk,
+Google Places、Google Navigation、Google Downloads 
+接続機能 WiFi a/b/g/n、WiFi HT40
+GPS/GLONASS
+NFC
+BluetoothR 4.0（LE） 
+センサー Accelerometer、RGB light、Digital compass、Proximity、Gyro、Barometer 
+メモリー 16GBもしくは32GB（64GBも追加予定）、microSD／microSDHC／microSDXCカードスロット（最大64GB） 
+サイズ 136.6×70.6×8.6mm、133g 
+バッテリー 2,100 mAh 
+
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・A GALAXY Unpacked
+・Samsung Introduces the GALAXY S III, the Smartphone Designed for Humans and Inspired by Nature | Samsung Mobile Press

@@ -1,0 +1,85 @@
+http://news.livedoor.com/article/detail/6611523/
+2012-05-31T08:55:00+0900
+ソニーモバイル、防水・防塵に対応したスマートフォン「Xperia go」と「Xperia acro S」を発表
+ゼロから始めるスマートフォン 
+
+ソニーモバイルコミュニケーションズは30日（現地時間）、防水・防塵に対応した新しい「Xperiaシリーズ」のAndroidスマートフォン「Xperia go」と「Xperia acro S」の2機種を発表しています。
+
+両機種とも今年の第3四半期（2012年7〜9月）にグローバルで発売されます。日本市場にて発売されるかどうかは不明です。
+
+Xperia goは3.5インチHVGA（320×480）液晶を搭載したコンパクトなモデル。モデル名はST27iで、昨年発売されたXperia acriveの後継機として知られていた端末です。米国ではXperia advance（ST27a）として発売されます。
+
+防水・防塵性能は最高クラスのIP67に準拠した性能を備えています。濡れた指でのトラッキングや傷に強いミネラルガラスディスプレイが採用されています。
+
+基本スペックは、Android 2.3（Android 4.0へアップグレード予定）、1GHzデュアルコアCPU、512MB RAM、8GBストレージ、背面500万画素カメラ、1305mAhバッテリー。カラーはブラック、ホワイト、イエローの3色。サイズは111×60.3×9.8mm、重さは110gとなっています。
+
+もう1機種のXperia acro Sは、日本で発売されたXperia acro HDのグローバルモデルと呼べるような機種で、同じく防水（IPX5およびIPX7準拠）と防塵（IP5X準拠）の性能を備えています。
+
+基本スペックは、4.3インチHD（1280×720）、1.5GHzデュアルコアCPU、1GB RAM、16GBストレージ、背面1,210万画素/前面130万画素カメラ、1,910mAhバッテリーという内容。日本独自機能が省かれ、NFCに対応しています。
+
+カラーはブラック、ホワイト、ピンクの3色。サイズは126×66×11.9mm、重さは147gとなっています。
+
+■ Xperia goの主なスペック
+サイズ：111×60.3×9.8mm
+重さ：110g
+ディスプレイ：3.5インチHVGA（320×480）　リアリティーディスプレイ
+OS：Android 2.3 Gingerbread（Android 4.0 IceCream Sandwich；ICSへアップグレード予定）
+CPU：1GHzデュアルコア（ST-Ericsson U8500）
+RAM：512GB
+ROM：8GB
+外部メモリー：microSD/microSDHC（最大32GB）
+カメラ：500万画素
+無線LAN：IEEE802.11 b/g/n
+Bluetooth：3.0
+ネットワーク（ST27i）：UMTS HSPA 900 (Band VIII), 2100 (Band I)
+GSM GPRS/EDGE 850, 900, 1800, 1900
+ネットワーク（ST27a）：UMTS HSPA 850 (Band V), 1900 (Band II), 2100 (Band I)
+GSM GPRS/EDGE 850, 900, 1800, 1900
+防水・防塵：IP67
+外部端子：microUSB、3.5mmオーディオジャック
+バッテリー：1305mAh
+カラー：ブラック、ホワイト、イエロー
+その他：ミネラルガラスディスプレイ、気圧センサー
+
+
+
+
+
+
+
+
+■ Xperia acro Sの主なスペック
+サイズ：126×66×11.9mm
+重さ：147g
+ディスプレイ：4.3インチ　HD（1280×720）　リアリティーディスプレイ
+OS：Android 4.0 IceCream Sandwich；ICS
+CPU：1.5GHzデュアルコア（Qualcomm Snapdragon S3 MSM8260）
+RAM：1GB
+ROM：16GB
+外部メモリー：microSD/microSDHC（最大32GB）
+カメラ：1,210万画素裏面照射型CMOS、前面130万画素
+無線LAN：IEEE802.11 b/g/n
+Bluetooth：2.1+EDR
+ネットワーク：HSPA+ 850 (Band V), 900 (Band VIII), 1900 (Band II) and 2100 (Band I)
+GSM 850/900/1800/1900
+防水・防塵：IPX5,7/IP5X
+外部端子：microUSB、microHDMI、3.5mmオーディオジャック
+バッテリー：1910mAh
+カラー：ブラック、ホワイト、ピンク
+その他：NFC、PlayStation Certified
+
+
+
+
+
+
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■ソニー、防水・防塵に対応したスマートフォン「Xperia go」と「Xperia acro S」を発表 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・

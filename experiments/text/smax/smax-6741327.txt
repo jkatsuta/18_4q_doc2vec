@@ -1,0 +1,28 @@
+http://news.livedoor.com/article/detail/6741327/
+2012-07-10T08:55:00+0900
+ソフトバンク、Android 4.0で使用したmicroSDカードをAndroid 2.xで使用すると著作権保護機能付きコンテンツが消去されるケースがあると案内
+AQUOS PHONE Xx 106SHのmicroSDカードスロット！ 
+
+ソフトバンクモバイルは6日、ソフトバンクスマートフォンのうちでAndroid 4.0（開発コード名：IceCream Sandwich；ICS）を搭載したモデルで外部メモリー（microSDカード）を使用した後で、他のAndroid 2.2（開発コード名：Froyo）やAndroid 2.3（開発コード名：Gingerbread）などのAndroid 2.x搭載モデルで使用すると購入した著作権保護機能（DRM）付きコンテンツが消去される場合があるとお知らせしています。
+
+この事象の発生を回避するために、一度、Android 4.0で使用した外部メモリーをAndroid 2.2やAndroid 2.3のモデルで使用しないように案内しています。
+
+
+
+
+現在、ソフトバンクモバイルでAndroid 4.0を搭載し、外部メモリーを搭載しているモデルは「AQUOS PHONE Xx 106SH」（microSDカードスロット搭載）の1機種。今夏では他に「PANTONE 107SH」および「ARROWS A 101F」が発売を予定しており、既存機種や「AQUOS PHONE 102SHII」などが発売後にAndroid 4.0にOSバージョンアップを予定しています。
+
+対象となるお客さま
+Android 4.0搭載のSoftBank スマートフォンをご使用後、Android 2.2/2.3搭載のSoftBank スマートフォンをご使用されるお客さま
+
+事象内容
+Android 4.0の仕様の影響により、SoftBank スマートフォンで購入した著作権保護機能付きコンテンツ（音楽・動画・ブックなど）が消去される場合がある。
+
+ソフトバンクではユーザーにお手数をかけるとして深くお詫びを申し上げるとして謝罪し、今後もより良い商品やサービスの提供に努めていくとしています。
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Android(TM) 4.0搭載のSoftBank スマートフォンをご利用されるお客さまへのお願い | ソフトバンクモバイル

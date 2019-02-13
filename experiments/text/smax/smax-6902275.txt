@@ -1,0 +1,52 @@
+http://news.livedoor.com/article/detail/6902275/
+2012-08-30T07:25:00+0900
+Sony Mobile、新しい9.4インチAndroidタブレット「Xperia Tablet S」を発表！クアッドコアCPU「Tegra3」搭載などパワーアップ
+ゼロから始めるスマートフォン 
+
+ソニーモバイルコミュニケーションズは29日（現地時間）、ドイツ・ベルリンで開催されているイベント「IFA2012」にあわせてプレスカンファレンスを開催し、9.4インチディスプレイを搭載したAndroidタブレット「Xperia Tablet S」を発表しています。米国での2012年9月7日（金）に発売。16GB、32GB、64GBの3モデルがあり、価格は16GBモデルが399ドル、32GBモデルが499ドル、64GBモデルが599ドルとなっています。
+
+Xperia Tablet Sは、ソニーが昨年発表・発売したAndroidタブレット「Sony Tablet S」の後継機に当たります。ディスプレイサイズおよび解像度は変わらずの9.4インチWXGA（1280×800ドット）ですが、視野角が広いOptiContrastパネルのほか、指紋がつきにくくスムーズなタッチ操作を実現するlow-frictionコーティングが適用されています。
+
+
+
+ボディーの形状は前作Sony Tabletでも採用されていた「編重心デザイン」を引き続き採用しています。雑誌を折りたたんだような独特な形状と、中心からズレた重心設計により、片手でも重さを感じさせない作りになっています。また、アルミニウム素材の防沫仕様のボディーとなっており、厚さも42％薄い8.8mmとなっています。
+
+基本スペックは、Android 4.0（開発コード名：IceCream Sandwich；ICS）を採用し、発売後にAndroid 4.1（開発コード名：JellyBean）へアップグレード予定、NVIDIA製1.4GHzクアッドコアCPU「Tegra3」、1GB RAM、16〜64GB ROM、背面800万画素カメラ、前面100万画素カメラ、6,000mAhバッテリーという内容。動画再生12時間、Wi-FiでのWEBブラウジング10時間の長時間駆動を実現しています。
+
+
+
+
+レザーカバー、チャージングクレードル、ドッキングスタンド、キーボード付きケース、スピーカードック、純正Bluetoothキーボードなど、多数のアクセサリーも用意されます。
+
+日本での発売はまだアナウンスされていませんが、近いうちに発表されるものと思われます。
+
+
+
+
+
+
+■主な仕様
+端末サイズ：241.2×174.3mm×8.9mm – 11.9mm
+重さ：570g
+ディスプレイ：9.4インチ　WXGA（1280×800）　液晶
+OS：Android4.0 Ice Cream Sandwich（発売後にAndroid4.1 JBへアップグレード予定）
+CPU：1.4GHzクアッドコアCPU（Nvidia Tagra3　※クアッドコア動作時は最大1.3GHz）
+RAM：1GB
+ROM：16GB/32GB/64GB
+外部メモリー：SDカード
+カメラ：背面800万画素、前面100万画素
+無線LAN：IEEE802.11 a/b/g/n
+Bluetooth：3.0
+バッテリー容量：6000mAh
+その他：DLNA、MHL、PlayStation Certified
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■ソニー、Sony Tablet S後継の9.4インチAndroidタブレット「Xperia Tablet S」を発表 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・New Xperia smartphone series with Sony’s best HD experiences deliver next step in connected entertainment
+_blankhttp://livedoor.blogimg.jp/smaxjp/imgs/0/5/05794c41-s.jpg

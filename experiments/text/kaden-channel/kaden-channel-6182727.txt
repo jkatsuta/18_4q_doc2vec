@@ -1,0 +1,45 @@
+http://news.livedoor.com/article/detail/6182727/
+2012-01-11T19:00:00+0900
+ウィンドウズ版のDaVinci Resolve8.2 のパブリックベータ版がダウンロード可能に【ビデオSALON】
+ブラックマジックデザインはこのほど、 ウィンドウズ版DaVinci Resolve8.2 のパブリックベータ版がダウンロード可能となったことを発表した。ウィンドウズ版DaVinci Resolveのパブリックベータ版はフル機能搭載のDaVinci Resolve 8.2および無償版の DaVinci Resolve Lite の両方で入手可能。 ウィンドウズ版DaVinci Resolve8.2 ライセンスは Mac OS X 版も含まれており、既存のMac OS X 版を使っている人は自動的にWindows版のライセンスを入手でき、ダウンロードしてすぐに使用できる。
+
+ウィンドウズ版DaVinci Resolve ベータ版によりユーザーは、幅広い機種のハードウェアでカラーコレクションシステムを構築し、GPUを数多くのオプションから選択することが可能となる。
+
+ウィンドウズ版DaVinci Resolveは、最大4GPUまで対応している。
+
+例えば、オフィスではパワフルなマルチGPUのWindowsデスクトップPCを使用し、ドングルを
+抜いて撮影現場へ移動し、Mac OS X MacBook Proコンピューターにドングルを接続して使用することも可能。
+ソフトウェアを追加購入しなくても、いつでもOS間を移動し、グレーディングできることになる。
+
+現行のDaVinci Resolveユーザーの特典として、Mac OS X版DaVinci Resolveを既に購入していれば、同一のドングルをウィンドウズ版DaVinci Resolveでも使用できる。
+
+これで、DaVinci Resolveは3つのモデルを取り揃えることになる。
+無償版であるDaVinci Resolve LiteはWindowsおよびMac OS X版のダウンロードが可能。US$995のDavinci ReolveソフトウェアはMac OS X、Windowsで使用できるようになる。
+
+ちなみにコントロールサーフェス付きの完全版Resolveは、Mac OS X、Windows、そしてLinuxで使用できるようになる。ユーザーは3種類のOSから選択してカラーコレクションシステムを構築できる。
+
+DaVinci Resolve Lite
+Windows版
+ダウンロードはこちらから
+
+DaVinci Resolve Software
+Windows版
+ダウンロードはこちらから
+
+
+■ビデオSALON 最新記事
+・パナソニックGH2の最新ファームウェアが公開。24Mbpsモード、AF精度が向上
+・DaVinci Resolve Lite 8.1 でノードが無制限に！
+・ソニーNXCAMのファームアップ情報
+・ソニープロフェッショナルセミナーを11月30日に開催
+
+
+
+■ビデオSALON最新号    
+
+■関連記事
+・Test Report ソニーα77　作例動画【ビデオSALON】
+・Test Report タスカム US-125M［USBオーディオインターフェイス］【ビデオSALON】
+・のどが痛くて歌えない！　主題歌が間に合わないＡＫＢさしこはプロ失格か【話題】
+・編集特集・ナレーションテスト【ビデオSALON】
+・電子黒板機能付きやワイヤレス、新世代液晶プロジェクター今度は日立から新商品【売れ筋チェック】

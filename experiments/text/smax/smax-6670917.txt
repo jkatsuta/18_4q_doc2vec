@@ -1,0 +1,71 @@
+http://news.livedoor.com/article/detail/6670917/
+2012-06-19T06:55:00+0900
+ソニーモバイル、新作Xperiaスマートフォン「Xperia tipo」「Xperia tipo dual」を発表！3.2インチディスプレイ搭載の小型モデル
+ゼロから始めるスマートフォン 
+
+ソニーモバイルコミュニケーションズは13日、3.2インチディスプレイを搭載した小型のAndroidスマートフォン「Xperia tipo」と「Xperia tipo dual」を発表しています。
+
+同時に発表された「Xperia miro」と合わせて3機種の新らしい“Xperiaシリーズ”となります。両機種ともに今年の第3四半期（2012年7〜9月）にグローバル市場で発売されます。
+
+Xperia tipoはコードネーム“Tapioka（型番：ST21i、ST21a）”で知られてきた端末で、3.2インチHVGA（320×480）ディスプレイを搭載した小型のモデルです。外寸は103×57×13mmと非常に小さく、重さもわずか99.4gです。
+
+OSはAndroid 4.0（開発コード名：IceCream Sandwich；ICS）を採用します。CPUはQualcommの800MHzシングルコア「MSM7225AA」、RAMは512MB、内蔵ストレージは2.9GB。外部メモリーとして最大32GBまでのmicroSDHCをサポートします。背面に320万画素カメラを搭載します。小型なボディーにもかかわらず1,500mAhのバッテリーを搭載します。
+
+カラーはClassic Black、Classic White、Deep Red、Navy Blueの4色となっています。
+
+同時に発表されたXperia tipo dual（ST21i2、ST21a2）は、Xperia tipoがデュアルSIMに対応したモデルです。それ以外は同一の仕様となっています。カラーはSerene black、Classic silverの2色。
+
+■Xperia tipo （ST21i／ST21a：Tapioka）の主なスペック
+サイズ：103×57×13mm
+重量：99.4g
+ディスプレイ：3.2インチHVGA（320×480）液晶
+OS：Android4.0 ICS
+CPU：800MHzシングルコア（Qualcomm Snapdragon MSM7225AA）
+RAM：512MB
+ROM：2.9GB
+外部メモリー：microSD/microSDHC（最大32GB）
+カメラ：320万画素（フラッシュ無し、VGAビデオレコーディングサポート）
+無線LAN：IEEE802.11 b/g/n
+Bluetooth：2.1+EDR
+対応周波数（ST21i）：UMTS HSPA 900 (Band VIII), 2100 (Band I)、GSM GPRS/EDGE 850, 900, 1800, 1900
+対応周波数（ST21a）：UMTS HSPA 850 (Band V), 1900 (Band II), 2100 (Band I)、GSM GPRS/EDGE 850, 900, 1800, 1900
+バッテリー：1,500mAh
+カラー：Classic Black、Classic White、Deep Red、Navy Blue
+
+
+
+
+
+
+
+■Xperia tipo dual（ST21i2／ST21a2：Tapioka_ds）の主なスペック
+サイズ：103×57×13mm
+重量：99.4g
+ディスプレイ：3.2インチHVGA（320×480）液晶
+OS：Android4.0 ICS
+CPU：800MHzシングルコア（Qualcomm Snapdragon MSM7225AA）
+RAM：512MB
+ROM：2.9GB
+外部メモリー：microSD/microSDHC（最大32GB）
+カメラ：320万画素（フラッシュ無し、VGAビデオレコーディングサポート）
+無線LAN：IEEE802.11 b/g/n
+Bluetooth：2.1+EDR
+対応周波数（ST21i）：UMTS HSPA 900 (Band VIII), 2100 (Band I)、GSM GPRS/EDGE 850, 900, 1800, 1900
+対応周波数（ST21a）：UMTS HSPA 850 (Band V), 1900 (Band II), 2100 (Band I)、GSM GPRS/EDGE 850, 900, 1800, 1900
+バッテリー：1,500mAh
+カラー：Classic Black、Classic White、Deep Red、Navy Blue
+
+
+
+
+
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■ソニー、新作Xperiaスマートフォン「Xperia tipo」「Xperia tipo dual」を発表、3.2インチディスプレイ搭載の小型モデル | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Xperia tipo | Android smartphone - Sony Smartphones (Global UK English)

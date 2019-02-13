@@ -1,0 +1,46 @@
+http://news.livedoor.com/article/detail/6750480/
+2012-07-12T13:25:00+0900
+Motorola、薄型かつ強靭なボディーを特徴とする新型Androidスマートフォン「Atrix HD」を発表！LTE対応モデルも登場
+ゼロから始めるスマートフォン 
+
+Motorola Mobilityは10日（現地時間）、同社のAndroidスマートフォン“Atrix”シリーズの新型モデル「Motorola Atrix HD」を発表しています。
+
+米国ではAT＆Tから2012年7月15日（日）に発売されます。また、カナダではBellから「Atrix HD LTE」として今夏発売予定とのことです。
+
+
+
+
+Atrix HDは、筐体の薄さと高い強度を特徴としたAndroidスマートフォンです。厚さは8.4mmと大変薄く作られていますが、「KEVLAR（ケブラー）」という同じ重さの鋼鉄の約5倍の強度を持つとされる素材が使われており、強度が保たれています。また外装だけでなく端末内部にもナノコーティングが施されており、防滴仕様となっています。
+
+ディスプレイは4.5インチHD（1280×720）液晶。よりシャープで鮮明で、高視野角とされる「HD ColorBoost」ディスプレイが採用されています。また、1080pフルHD動画撮影をサポートした800万画素カメラや、720pHD動画撮影をサポートした130万画素フロントカメラを搭載しています。
+
+その他の主要スペックは、Android 4.0（開発コード名：IceCream Sandwich；ICS）、Snapdragon S4 1.5GHzデュアルコアCPU、1GB RAM、8GBストレージなど。LTE、Bluetooth4.0、HDMIに対応します。サイズは69.9×133.5×8.4mm、重さは約140g。
+
+
+
+■スペック
+サイズ：133.5×69.9×8.4mm
+重さ：140g
+ディスプレイ：4.5インチ　HD（1280×720）　液晶　HD ColorBoost
+OS：Android4.0 Ice Cream Sandwich
+CPU：1.5GHzデュアルコア（Qualcomm Snapdragon S4 – MSM8960）
+RAM：1GB
+ROM：8GB
+外部メモリー：microSD/microSDHC（最大32GB）
+カメラ：背面800万画素、前面130万画素
+無線LAN：IEEE802.11 a/b/g/n
+Bluetooth：4.0
+ネットワーク：LTE、HSPA/UMTS、GPRS/EDGE
+対応周波数：HSPA/UMTS850/1700/1900/2100MHz、GPRS/EDGE850/900/1800/1900MHz、LTE700/1700MHz
+外部端子：3.5mmオーディオジャック、microUSB、microHDMI
+バッテリー容量：1,780mAh
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■モトローラ、薄型かつ強靭なボディーを特徴とする新型Androidスマートフォン「Atrix HD」を正式発表 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Motorola ATRIX™ HD for AT&T is Slimmer, Stronger and Smarter Than Ever Before - Press Releases - Motorola Mobility, Inc.

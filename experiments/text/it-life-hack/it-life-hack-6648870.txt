@@ -1,0 +1,31 @@
+http://news.livedoor.com/article/detail/6648870/
+2012-06-12T09:00:00+0900
+新型MBP登場で盛り上がったWWDC！ iPhone 5も7インチiPad miniもなし！
+「iPhone5やiPad miniは姿を見せるか？アップルのWWDCを日本語で解説」を見た人には、いまさら解説する必要もないが昨日行われたWWDCの基調講演では、期待していたiPhone 5や7インチiPad miniといった発表はなかった。ただし、新しいMacBook AirとMacBook Proの登場がアナウンスされた。最大の目玉がMacBook Proで、17インチモデルが廃され15.4インチのRetinaディスプレイを搭載するモデルが追加されることになった。PCとしては世界初の網膜ディスプレイ搭載ノートということになる。
+
+
+
+15.4インチのRetinaディスプレイ液晶は、解像度が2880×1800ドットと13インチMacBook Airの1440×900ドット表示の倍サイズへと進化している。そしてMacBook Air/Pro共にプラットフォームがIvy Bridegeへと進化しプロセッサーに第三世代のIntel Core iシリーズが搭載される。
+
+メモリーもMacBook Airでは8Gバイト、MacBook Proでは最大16Gバイトまで増設可能だ。HDDではなくSSD搭載がメインとなりMacBook Proでは最大で768Mバイトという大容量SSDが搭載可能になっている。
+
+MacBook ProはCPU内蔵のIntel HD Graphics 4000に加えてNVIDIAのGeForce GT 650Mまで搭載する。しかもGPU切り替え技術であるNVIDIAのOptimusテクノロジーにも対応している模様でGPU性能が必要になればシームレスに切り替えることが可能になっているようだ。
+
+他にも、OS X Mountain Lionは、約2か月後に20ドルを切る19.99ドルで提供されることになっている。Mountain Lionはスタンバイ中でもメールチェックといったネットワーク通信を行うツールでデータの自動更新が行える新しいスタンバイ技術「Power NAP」といった機能が搭載される。またSafariも最新版になるという。他には以下が主なトピックスだ
+
+・Siriがバージョンアップし機能強化に加えてiPad対応
+
+・MAP用アプリがGoogle MAPからApple独自へと変更
+
+・強化されたiCloud
+
+・iOS 6登場は今秋
+
+こうしたこと以外にも細かな発表はあったが、やはりiPhone 5やiPad miniといった新モデルの投入がアナウンスされなかったのが残念だ。今後も出ないというわけではなく、おそらくこれらはiOS 6が登場する秋くらいになると見ていいだろう。
+
+やはり今回の目玉はMacBook Pro Retinaディスプレイモデルだ。この話題豊かな新型MacBook Air、MacBook Pro共、本日より販売が開始される。ただしハイスペック仕様を選択したい場合は、店頭販売モデルではなくCTOモデルになる点に注意。朝6時半の時点でアップルストア銀座にすでに並んでいる人がいる模様だ。
+
+■MacBook Pro Retinaディスプレイモデル
+■MacBook Air
+
+■Apple

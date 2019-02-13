@@ -1,0 +1,32 @@
+http://news.livedoor.com/article/detail/6713575/
+2012-07-02T11:55:00+0900
+Google、Web解析サービス「Google Analytics」のAndroid向けアプリを提供開始！リアルタイムにも対応
+Google AnalyticsのAndroid向け公式アプリが登場！ 
+
+Googleは29日（現地時間）、同社のWeb解析サービス「Google Analytics」のAndroid向けアプリ「Google アナリティクス」をアプリ配信マーケット「Google Playストア」にて配信開始したことをお知らせしています。
+ 
+
+Google AnalyticsはWebページのHTMLソースに独自のタグを書くことで、Webサイトのアクセス解析ができるサービスです。これまではパソコンやAndroidなどでWeb上のサービスを閲覧することで利用していましたが、今回新しくAndroid向けのアプリとして提供開始されています。
+
+Android向けアプリで利用できる機能は「マイレポート」「自動アラート」「カスタムアラート」「リアルタイム」の4つ。マイレポートではユーザーやセッション情報、ページトラッキングなどのデータを閲覧できます。また、リアルタイムでは今現在のアクティブユーザー数や参照ページ、参照元などを確認することが可能となっています。
+
+これまでGoogleからGoogle Analyticsアプリは提供されていませんでしたので、サードパーティーから提供されたアプリを利用するなどの方法がありましたが、Googleからの公式アプリが提供されたことで安心して利用できるようになりました。
+
+なお、注意点として端末に紐づけされているGoogleアカウントのデータのみ参照できる仕組みなので、閲覧したいGoogle AnalyticsのGoogleアカウントをAndroid端末のアカウント登録でそのアカウントを登録しなければなりません。
+
+記事執筆：memn0ck
+アプリ名：Google アナリティクス
+価格：無料
+カテゴリ：アプリ ＞ 仕事効率化
+開発者：Google Inc.
+バージョン：1.1.4
+Android 要件:2.1以上
+Google Play Store：http://play.google.com/store/apps/details?id=com.google.android.apps.giant
+
+
+
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Data At Your Fingertips: Announcing The Google Analytics App For Android - Analytics Blog

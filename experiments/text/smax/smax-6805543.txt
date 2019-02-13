@@ -1,0 +1,50 @@
+http://news.livedoor.com/article/detail/6805543/
+2012-07-30T16:45:00+0900
+Motorola、スライド式フルキーボード搭載のAndroid 4.0スマートフォン「Motorola PHOTON Q 4G LTE」を発表！米Sprintから発売
+ゼロから始めるスマートフォン 
+
+Motorola Mobility（モトローラ・モビリティ）は26日（現地時間）、QWERTY配列のスライド式物理キーボードを搭載したAndroidスマートフォン「Motorola PHOTON Q 4G LTE」をアメリカの携帯電話事業者「Sprint」向けに提供すると発表しています。価格や発売日などの情報は数週間以内に改めて発表するとしています。
+
+Motorola PHOTON Q 4G LTEは、横スライドさせるとQWERTY配列のフルキーボードが現れるのが特徴で、数字キーが独立して設けられた5行配列の物理キーにより、PCライクな素早い文字入力が可能です。また、それとは対照的に「ホーム」や「戻る」などの操作キーは画面上に表示されるソフトキーとなっており、フレキシブルな表示が可能となっています。
+
+
+
+
+
+通信面ではSprintのLTEサービスに対応しており、これによる高速通信が可能です。CPUはQualcomm Snapdragon S4 MSM8960 1.5GHzデュアルコアで、RAMは1GBと、本体の高速動作も期待できます。搭載OSはAndroid4.0.4 Ice Cream Sandwich。
+
+ディスプレイサイズは4.3インチで、画面解像度はqHD（540×960ドット）。TFT液晶が採用されています。背面にはフラッシュ、オートフォーカス付きの800万画素カメラを搭載。前面にも720pHD動画撮影をサポートしたフロントカメラを備えます。
+
+ 
+
+その他、内蔵ストレージは8GB。最大32GBまでのmicroSDカードに対応。外部インターフェースは、microHDMI、microUSB、3.5mmオーディオジャック。通信機能は、無線LAN（IEEE802.11b／g／n準拠）、Bluetooth4.0 LE＋EDR準拠。バッテリー容量は1785mAhで、7.5時間の連続通話、220時間のスタンバイが可能です。
+
+端末サイズは66×126.4×13.7mm。重さは170gとなっています。
+
+
+
+■スペック
+端末サイズ：66×126.4×13.7mm
+重さ：170g
+ディスプレイ：4.3インチ　QHD（960×540）　TFT液晶
+OS：Android4.0.4 Ice Cream Sandwich
+CPU：1.5GHzデュアルコア（Qualcomm Snapdragon S4 MSM8960）
+RAM：1GB
+ROM：8GB
+外部メモリー：microSD/microSDHC（最大32GB）
+カメラ：800万画素（フラッシュ、AF、1080pフルHD動画撮影）、前面カメラ搭載（720pHD動画撮影）
+無線LAN：IEEE802.11 b/g/n
+Bluetooth：4.0 LE+EDR
+対応周波数：WCDMA（1900/850/2100）、CDMA（1900/800/800）、GSM（850/1900/1800/900）LTE（1900）
+外部端子：microUSB、microHDMI、3.5mmオーディオジャック
+バッテリー容量：1,785mAh
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■米モトローラ、スライド式物理キーボードを搭載したAndroid4.0スマートフォン「Motorola PHOTON Q 4G LTE」を発表 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・First Sprint 4G LTE-enabled Device with Full QWERTY and International Capabilities, Motorola PHOTON™ Q 4G LTE, Coming Soon - Press Releases - Motorola Mobility, Inc.

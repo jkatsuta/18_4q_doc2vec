@@ -1,0 +1,60 @@
+http://news.livedoor.com/article/detail/6902483/
+2012-08-30T08:55:00+0900
+Samsung、5.5インチディスプレイ搭載「GALAXY Note II」を発表！クアッドコアCPUやAndroid 4.1 JB、Sペンの進化など
+GALAXY Note IIが発表！ 
+
+Samsung Electronics（サムスン電子）は29日（現地時間）、ドイツ・ベルリンで行われているイベント「IFA2012」にあわせて「Samsung Mobile Unpacked 2012」と題したプレスカンファレンスを開催し、新しい“Note”カテゴリーのスマートフォン「GALAXY Note II」を発表しています。欧州およびアジア、中東の主要国において2012年10月から発売される予定。
+
+GALAXY Note IIは、昨年9月に発表された「GALAXY Note」の後継機種で、GALAXY Noteよりもわずかに大きくなった5.5インチディスプレイを搭載し、クアッドコアCPUや2GBメモリー（RAM）、最大64GBストレージ（ROM）、Android 4.1（開発コード名：JellyBean）を採用するなどと最新技術が採用されています。また、Noteモデルの特徴であるSペンによる入力も進化しているということです。
+
+GALAXY Noteは国内でもNTTドコモから「GALAXY Note SC-05D」として今年4月に発売されましたし、また国内でも発売されるといいですね！
+
+
+
+GALAXY Note IIでは基本スペックがGALAXY Noteから大幅に向上しており、まず、プラットフォームが現行最新のAndroid 4.1 JBを発売時から採用します。また、CPUが1.6GHz駆動のクアッドコアになり、メモリー（RAM）が2GB、内部ストレージ（ROM）が最大64GBになります。さらに、外部ストレージとして最大64GBのmicroSDXCをサポートします。バッテリー容量もGALAXY Noteの2,500mAhから大容量化し、3,100mAhとなっています。
+
+カメラも画素数は変わりませんが、「GALAXY SIII SC-06D」でも好評な裏面照射型800万画素CMOSカメラを採用し、暗所での撮影も美しく撮れるようになっています。また、インカメラも裏面照射型190万画素CMOSカメラを搭載します。
+
+ 
+ 
+ 
+
+ワコムの技術を利用した電磁誘導式による専用スタイラス「S-Pen（Sペン）」ももちろん搭載されています。これによって高度で繊細な手書き入力が可能になっています。従来よりも筆圧感度が上がっており、1024段階の筆圧を拾うことができるようになったとのことです。また、Sペンは形状が長く、太くなっており、より持ちやすいように工夫されています。
+
+さらに、新らしくホバー感知機能が加わっており、これまでSペンは直接画面に触れることで感知されていましたが、新しいSペンは若干浮いた状態も感知できるようになっているとのこと。ホバー感知機能による「Air View」という新機能が追加され、EメールやSプランナー、ギャラリー、動画などを見る時に、内容を開かないでもSペンを浮かせるだけでプレビューできるようになっています。
+
+他にも、GALAXY Note IIでは、画面の動画キャプチャ（画面の動きを動画で保存する機能）にも対応しているということです。
+
+3G（HSPA＋対応）および4G（LTE）、無線LAN（Wi-Fi）、Bluetooth 4.0、NFCに対応。Wi-FiはIEEE802.11a／b／g／n準拠で2.4GHzだけでなく5GHz帯にも対応しています。サイズは80.5×151.1×9.4mmで、質量は約180g。カラーはマーブルホワイトとチタニウムグレーの2色が用意されます。
+
+
+
+
+■主な仕様
+端末サイズ：80.5×151.1×9.4mm
+重さ：180g
+ディスプレイ：5.5インチHD（720×1280ドット）HD Super AMOLED
+OS：Android 4.1.1 JellyBean
+CPU：1.6GHzクアッドコア（Samsung Exynos 4412）
+RAM：2GB
+ROM：16／32／64GB
+外部メモリー：microSD／microSDHC／microSDXC（最大64GB）
+カメラ：背面800万画素裏面照射型CMOS、前面190万画素裏面照射型CMOS
+無線LAN：IEEE802.11a／b／g／n準拠、2.4GHzおよび5GHz帯対応
+Bluetooth：4.0
+モバイルネットワーク：3G（HSPA＋）、4G（LTE）
+センサー：加速度センサー、RGBライト、デジタルコンパス、近接、ジャイロコンパス、バロメーター
+バッテリー容量：3,100mAh
+その他：Wi-Fi Direct、MHL、NFC、A-GPS、GLONASS
+カラー：マーブルホワイト、チタニウムグレー
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・S-MAX - Facebookページ
+・Be Creative, Be Expressive with the GALAXY Note II | Samsung Mobile Press
+・GALAXY Note II | Samsung Mobile Press
+・Samsung GALAXY Note II
+・Samsung Mobile Unpacked 2012 | Samsung Mobile

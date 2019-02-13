@@ -1,0 +1,33 @@
+http://news.livedoor.com/article/detail/6526580/
+2012-05-03T11:55:00+0900
+RIM、次世代プラットフォーム「BlackBerry 10」を正式発表！フルタッチの開発者向けデバイスも公開
+BlackBerry 10で復活なるか！？ 
+
+Research In Motion（RIM）は1日（現地時間）、オーランド（アメリカ）において開発者向けイベント「BlackBerry World 2012」を開催し、次世代プラットフォームとなる「BlackBerry 10」を正式発表しています。
+
+すでに開発者向けWebサイトからSDKが公開されており、無料でダウンロードして利用できます。
+
+また、このBlackBerry 10を搭載したフルタッチタイプのスマートフォン「BlackBerry 10 Dev Alpha」も公開され、このイベントにおける「BlackBerry 10 Jam」というカンファレンスに参加した人に配布されるとのことです。
+
+
+
+新しく発表された次世代プラットフォームのBlackBerry 10は、RIM初のタブレットデバイス「BlackBerry PlayBook」に搭載されているタブレット向けプラットフォーム「BlackBerry Tablet OS」と同様にPOSIX準拠のUNIX系リアルタイムOSである「QNX」をベースにしており、hpが開発していたスマートフォンやタブレット向けプラットフォーム「webOS」に似たカード型のユーザーインターフェイス（UI）を採用しています。
+
+カンファレンスでは、今年1月に新しくCEOに就任したソーステン・ハインズ氏が開発者向けデバイスであるBlackBerry 10 Dev Alphaを使って、新しいプラットフォームであるBlackBerry 10の機能を紹介。
+
+
+
+このBlackBerry 10 Dev Alphaは、BlackBerryの象徴でもある小さなキートップが並んだQWERTY配列のフルキーボードを搭載せず、昨今のスマートフォンで主流となっているフルタッチタイプのスマートフォンとなっています。4.2インチWXGA（768×1280ドット）のディスプレイと大画面で、本体メモリーにRAM1GB／ROM16GB、HDMI端子、Bluetooth、Wi-Fi、microSIMカードスロットを搭載しているということです。
+
+なお、BlackBerry 10を搭載した製品は2012年下期にも登場予定だということです。iOSやAndroidの勢いに押され低迷中のBlackBerryが復活できるか注目したい動向ですね。日本向けが出るとするとかなり先になりそうですが、楽しみにしたいところです。
+
+
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・BlackBerry World 2012
+・BlackBerry Developer
+・What is BlackBerry 10 Dev Alpha? ≪BlackBerry Developer Blog

@@ -1,0 +1,43 @@
+http://news.livedoor.com/article/detail/6671148/
+2012-06-19T08:47:00+0900
+Microsoft、Windows 8またはWindows RT搭載10.6インチタブレット「Surface」を発表
+新時代のWindowsタブレット「Surface」が発表！ 
+
+Microsoftは18日（現地時間）、アメリカ・ロサンゼルスで発表イベントを開催し、メジャーアナウンスメントの講演にて同社CEOのスティーブ・バルマー氏が自社ブランドの新しいWindowsタブレット「Microsoft Surface」を手に持って紹介し、発表しています。
+
+Microsoft Surfaceはインテルのx86コア向けの新しい「Windows 8」およびそのARMコア向けの「Windows RT」を搭載したモデルがそれぞれあり、16：9の比率による10.6インチクリアタイプディスプレイなどを搭載。また、外装はマグネシウム蒸着によって金属の質感による高級な仕上がりで、キーボード一体型ケースが付属するとのことです。
+
+
+
+■Surface for Windows RT
+OS：Windows RT
+質量：676 g
+厚み：9.3 mm
+ディスプレイ：10.6” ClearType HD Display
+電池容量：31.5 W-h
+コネクション：microSD, USB 2.0, Micro HD Video, 2x2 MIMO antennae
+機能：Office ‘15’ Apps, Touch Cover, Type Cover
+外装・ケース：VaporMg Case & Stand
+ストレージ容量：32 GB, 64 GB
+
+■Surface for Windows 8 Pro
+OS：Windows 8 Pro
+質量：903 g
+薄さ：13.5 mm
+ディスプレイ：10.6” ClearType Full HD Display
+電池容量：42 W-h
+コネクション：microSDXC, USB 3.0, Mini DisplayPort Video, 2x2 MIMO antennae
+機能：Touch Cover, Type Cover, Pen with Palm Block
+外装・ケース：VaporMg Case & Stand
+ストレージ容量：64 GB, 128 GB
+
+
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Surface by Microsoft
+・Microsoft Announces Surface：New Family of PCs for Windows
+・Live from Microsoft&apos;s &apos;major announcement&apos; event - The Verge

@@ -1,0 +1,347 @@
+'2-default':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+# --- a-series: epochs ---
+
+'2-a1':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 10  # default: 5
+
+'2-a2':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-a3':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 50  # default: 5
+
+'2-a4':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 100  # default: 5
+
+# --- b-series: sample ---
+
+'2-b1':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-2  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-b2':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-b3':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-4  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-b4':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-5  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-b5':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-6  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+# --- c-series: min_count ---
+
+'2-c1':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 1
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-c2':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 2
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-c3':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-c4':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 10
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-c5':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 20
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-c6':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 50
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-c7':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 100
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+# --- d-series: vector_size ---
+
+'2-d1':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 50
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-d2':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 100
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5
+
+'2-d3':
+  # - fix params -
+  'dm': 0  # 0: PV-DBOW
+  'hs': 0  # 0: use negativie sampling
+  'negativie': 5  # negative samplig number
+  'ns_exponent': 0.75  # negative sampling factor
+  'dbow_words': 0  # if 0, skip making word_vec
+  'max_vocab_size': null  # None: vocab size has no limit
+  # - opt params -
+  'vector_size': 200
+  'window': 15
+  'min_count': 5
+  'sample': 1.0e-3  # default: 0.001
+  'alpha': 0.025  # default: 0.025
+  'min_alpha': 1.0e-4  # default: 0.0001
+  'epochs': 30  # default: 5

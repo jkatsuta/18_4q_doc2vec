@@ -1,0 +1,70 @@
+http://news.livedoor.com/article/detail/6862317/
+2012-08-17T09:00:00+0900
+GeForce GTX 660 Ti搭載PC登場！　ドスパラより新型GPU搭載モデル発売開始
+既報の通り、昨日8月16日の22時以降に解禁されたNVIDIAの新型GPU「GeForce GTX 660 Ti」。最新のKeplerアーキテクチャーでCUDAコア数は1344ユニット、192ビット幅のメモリインターフェイスを搭載、グラフィックスにかかる負荷を常にモニターして可能な場合にGPUクロックを引き上げる「NVIDIA GPU Boost」や、フレームレートに応じて自動的に垂直同期のオン/オフを行い、画面のティアリングゆがみ、ちらつきやカクツキを低減する「NVIDIA Adaptive V-Sync」、最大4画面までの同時出力に対応など3Dゲームだけでなく、静止画や動画編集といった用途でも、美しい画面表示を実現する機能が満載されているのが特徴だ。
+
+ドスパラを運営する株式会社サードウェーブデジノスは、GeForce GTX 660 Tiの発売に合わせ、グラフィックスに同GPUを採用したゲーム向けPCを2機種、そしてゲーム以外の用途でも使える高性能モデル2機種を発表した。製品名とスペックは以下の通り
+
+■Galleria XT（発売記念キャンペーンモデル）
+■主なスペック
+CPU：Core i7-3770（3.90GHz）
+グラフィックス：NVIDIA GeForce GTX660Ti
+メモリー：16GB（PC3-12800、4GB×4、デュアルチャネル）※期間限定
+HDD：1TB（SATA 6Gbps接続）
+光学ドライブ：DVDスーパーマルチ
+チップセット：Intel H77 Express
+電源：550W 80PLUS BRONZE 静音電源（DELTA ELECTRONICS製）
+OS：Windows 7 Home Premium 64bit
+基本構成価格：109,980円（税込）
+
+■Galleria XT-SLI（発売記念キャンペーンモデル）
+■主なスペック
+CPU：Core i7-3770K（3.90GHz）
+グラフィックス：NVIDIA GeForce GTX660Ti×2（SLI接続）
+メモリー：16GB（PC3-12800、4GB×4、デュアルチャネル）※期間限定
+HDD：2TB（SATA 6Gbps接続）
+光学ドライブ：BDドライブ
+チップセット：Intel H77 Express
+電源：750W 80PLUS 静音電源（DELTA ELECTRONICS製）
+OS：Windows 7 Professional 64bit
+基本構成価格：169,980円（税込）
+
+
+ 
+Monarch XTシリーズ 
+
+
+■Monarch XTシリーズ
+■主なスペック
+CPU：Core i7-3570K（3.40GHz）
+グラフィックス：NVIDIA GeForce GTX660Ti
+メモリー：8GB（PC3-12800、4GB×2、デュアルチャネル）
+HDD：1TB（SATA 6Gbps接続）
+光学ドライブ：DVDスーパーマルチ
+チップセット：Intel H77 Express
+電源：550W 80PLUS BRONZE 静音電源（DELTA ELECTRONICS製）
+OS：Windows 7 Home Premium 64bit
+基本構成価格：99,980円（税込）
+
+
+ 
+Raytrek-V XTシリーズ 
+
+
+■Raytrek-V XT
+■主なスペック
+CPU：Core i7-3770（3.90GHz）
+グラフィックス：NVIDIA GeForce GTX660Ti
+メモリー：16GB（PC3-12800、4GB×4、デュアルチャネル）※期間限定
+HDD：1TB（SATA 6Gbps接続）
+光学ドライブ：DVDスーパーマルチ
+チップセット：Intel H77 Express
+電源：550W 80PLUS BRONZE 静音電源（DELTA ELECTRONICS製）
+OS：Windows 7 Home Premium 64bit
+基本構成価格：109,980円（税込）
+
+■Galleria XT製品詳細
+■Galleria XT-SLI製品詳細
+■Monarch XT製品詳細
+■Raytrek-V XT製品詳細
+■ドスパラ

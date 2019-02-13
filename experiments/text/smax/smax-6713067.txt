@@ -1,0 +1,35 @@
+http://news.livedoor.com/article/detail/6713067/
+2012-07-02T09:55:00+0900
+スクウェア・エニックス、ファイナルファンタジーⅢをGoogle Playストアにて配信開始！価格は1,400円
+ファイナルファンタジーⅢが配信開始！ 
+
+スクウェア・エニクスは6月28日、同社の不滅の名作ロールプレイングゲーム（RPG）「FINAL FANTASY III（ファイナルファンタジー3）」をアプリ配信マーケット「Google Playストア（旧Androidマーケット）」にて販売開始したことをお知らせしています。価格は1,400円。
+
+Android向けFINAL FANTASY IIIは同社が運営するAndroid向け独自コンテンツ配信マーケット「SQUARE ENIX MARKET」ですでに今年3月から販売が開始されていましたが、今回、Googleが運営するGoogle Playストアからも購入できるようになっています。価格はSQUARE ENIX MARKETでも同じ1,400円となっています。
+
+これによって、これまでSQUARE ENIX MARKETの会員にならないと遊べなかったFINAL FANTASY IIIを多くのAndroid搭載デバイスで利用できるGoogle Playストアから購入できるようになり、より手軽に遊べるようになったかと思います。
+
+スクウェア・エニックスが独自マーケットだけでなく、Google Playストアからの配信も開始した意図（理由）については特に公表されていませんが、もしかしたら、独自マーケットでのダウンロード数が伸び悩んでいたり、Google Playストアから配信することによる違いなどを模索しているのかもしれません。
+
+FINAL FANTASY IIIはファイナルファンタジー（FF）シリーズとしてはじめてミリオンセラーを記録した作品です。その後の同シリーズの特長ともなった、状況に応じて職業を変更できる「ジョブチェンジシステム」や、バハムートやシヴァなどの召喚獣を呼び出す「召喚魔法」などがはじめて取り入れられ、ユーザーからの支持も高い人気ゲームです。
+
+なお、2006年にフル3Dで再構成され、2011年にはグラフィックスを一新し、さらにタッチパネル向けのインターフェースも実装しています。Android向けに配信されたアプリの動作対象は、Android 2.2（開発コード名：Gingerbread）以降で、バージョンが1.0.1となっています。
+
+是非、この機会にAndroid搭載デバイスで遊んでみてはいかがでしょうか。
+
+記事執筆：memn0ck
+アプリ名：FINAL FANTASY III
+価格：¥1,400
+カテゴリ：ゲーム ＞ アーケード＆アクション
+開発者：SQUARE ENIX Co.,Ltd.
+バージョン：1.0.1
+Android 要件:2.2以上
+Google Play Store：http://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP
+
+
+
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Android版『ファイナルファンタジーⅢ』Google Playでついに配信開始！SQUARE ENIX

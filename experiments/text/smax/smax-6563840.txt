@@ -1,0 +1,63 @@
+http://news.livedoor.com/article/detail/6563840/
+2012-05-16T12:45:00+0900
+NTTドコモ、Android 4.0 ICS搭載3.7インチスマホ「ARROWS Me F-11D」を発表！1GHzCPUや防水、ワンセグに対応
+ARROWS Me F-11Dが発表！ 
+
+NTTドコモは16日、今夏に発売する予定の新モデルや新しく開始するサービスなどを発表する「2012年夏モデル 新商品・新サービス発表会」を開催し、1GHzCPUや防水、ワンセグなどに対応したAndroid 4.0（開発コード名：IceCream Sandwich；ICS ）」を採用した3.7インチの「ARROWS Me F-11D」（富士通製）を発表しています。発売時期は2012年8月を予定しています。
+
+
+■ 主なスペック
+
+機種名 ARROWS me F-11D 
+発売時期 2012年8月 
+サイズ(約mm） 120×60×10.9 
+重量（約） 125g 
+連続通話 3G（約　分） 300 
+GSM（約　分） 330 
+連続待受 LTE（約　時間） - 
+3G（約　時間） 430 
+GSM（約　時間） 270 
+ディスプレイ サイズ（インチ） 3.7 
+種類 TFT液晶 
+解像度 WVGA 
+発色数（色） 1677万 
+アウトカメラ 5M 
+インカメラ - 
+チップセット MSM8255 
+CPU クロック数 1.0GHz 
+コア数 Single 
+RAM 1GB 
+ROM 4GB 
+外部メモリー microSDHC 
+バッテリー
+（容量 mAh） 1520 
+急速充電 - 
+OS Android 4.0 
+指紋センサー - 
+防水 IPX5、8 
+防塵 - 
+おサイフケータイ ◯ 
+ワンセグ ◯ 
+GSM ◯ 
+LTE（Xi） - 
+赤外線 ◯ 
+GPS ◯ 
+DLNA ◯ 
+MHL - 
+おくだけ充電 - 
+Bluetooth 3.0 
+テザリング
+（最大同時接続数） ◯（8台） 
+NOTTV
+（連続視聴時間約 分） - 
+SIMカード microSIM 
+本体色 White
+Black 
+
+
+記事執筆：S-MAX編集部
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・ARROWS Me F-11D | 製品 | NTTドコモ

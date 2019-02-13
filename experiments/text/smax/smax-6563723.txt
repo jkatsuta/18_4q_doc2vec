@@ -1,0 +1,65 @@
+http://news.livedoor.com/article/detail/6563723/
+2012-05-16T12:14:00+0900
+NTTドコモ、Android 4.0 ICS搭載4.5インチスマホ「AQUOS PHONE sv SH-10D」を発表！1.5GHzデュアルコアCPUや防水、ワンセグ、NOTTV
+AQUOS PHONE sv SH-10Dが発表！ 
+
+NTTドコモは16日、今夏に発売する予定の新モデルや新しく開始するサービスなどを発表する「2012年夏モデル 新商品・新サービス発表会」を開催し、1.5GHzデュアルコアCPUや防水、ワンセグ、NOTTVなどに対応したAndroid 4.0（開発コード名：IceCream Sandwich；ICS ）」を採用した4.5インチ大画面の「AQUOS PHONE sv SH-10D」（シャープ製）を発表しています。発売時期は2012年8月を予定しています。
+
+
+■ 主なスペック
+
+機種名 AQUOS sv SH-10D 
+発売時期 2012年8月 
+サイズ(約mm） 126×64×9.9 
+重量（約） 138g 
+連続通話 3G（約　分） 未定 
+GSM（約　分） 未定 
+連続待受 LTE（約　時間） 未定 
+3G（約　時間） 未定 
+GSM（約　時間） 未定 
+ディスプレイ サイズ（インチ） 4.5 
+種類 Super CG
+Silicon液晶 
+解像度 HD 
+発色数（色） 1677万 
+アウトカメラ 12M 
+インカメラ 0.3M 
+チップセット MSM8960 
+CPU クロック数 1.5GHz 
+コア数 Dual 
+RAM 1GB 
+ROM 8GB 
+外部メモリー microSD×C 
+バッテリー
+（容量 mAh） 1900 
+急速充電 - 
+OS Android 4.0 
+指紋センサー - 
+防水 IPX5、7 
+防塵 IP5X 
+おサイフケータイ ◯ 
+ワンセグ ◯ 
+GSM ◯ 
+LTE（Xi） ◯ 
+赤外線 ◯ 
+GPS ◯ 
+DLNA ◯ 
+MHL ◯ 
+おくだけ充電 - 
+Bluetooth 3.0 
+テザリング
+（最大同時接続数） ◯（5台） 
+NOTTV
+（連続視聴時間約 分） ◯ 
+SIMカード microSIM 
+本体色 ORANGE
+WHITE
+BLACK 
+
+
+記事執筆：S-MAX編集部
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・AQUOS PHONE sv SH-10D | 製品 | NTTドコモ

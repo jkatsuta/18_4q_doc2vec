@@ -1,0 +1,65 @@
+http://news.livedoor.com/article/detail/6563777/
+2012-05-16T12:30:00+0900
+NTTドコモ、Android 4.0 ICS搭載3.4インチスマホ「AQUOS PHONE st SH-07D」を発表！1GHzCPUや防水、防塵、ワンセグに対応
+AQUOS PHONE st SH-07Dが発表！ 
+
+NTTドコモは16日、今夏に発売する予定の新モデルや新しく開始するサービスなどを発表する「2012年夏モデル 新商品・新サービス発表会」を開催し、1GHzCPUや防水、ワンセグなどに対応したAndroid 4.0（開発コード名：IceCream Sandwich；ICS ）」を採用した3.4インチの「AQUOS PHONE st SH-07D」（シャープ製）を発表しています。発売時期は2012年6月を予定しています。
+
+
+■ 主なスペック
+
+機種名 AQUOS st SH-07D 
+発売時期 2012年6月 
+サイズ(約mm） 107×54×11.9 
+重量（約） 108g 
+連続通話 3G（約　分） 340 
+GSM（約　分） 390 
+連続待受 LTE（約　時間） - 
+3G（約　時間） 460 
+GSM（約　時間） 330 
+ディスプレイ サイズ（インチ） 3.4 
+種類 Newモバイル
+ASV液晶 
+解像度 FWVGA 
+発色数（色） 26万 
+アウトカメラ 8.0M 
+インカメラ - 
+チップセット MSM8255 
+CPU クロック数 1.0GHz 
+コア数 Single 
+RAM 1GB 
+ROM 4GB 
+外部メモリー microSDHC 
+バッテリー
+（容量 mAh） 1520 
+急速充電 - 
+OS Android 4.0 
+指紋センサー - 
+防水 IPX5、7 
+防塵 IP5X 
+おサイフケータイ ◯ 
+ワンセグ ◯ 
+GSM ◯ 
+LTE（Xi） - 
+赤外線 ◯ 
+GPS ◯ 
+DLNA ◯ 
+MHL ◯ 
+おくだけ充電 ◯ 
+Bluetooth 3.0 
+テザリング
+（最大同時接続数） ◯（5台） 
+NOTTV
+（連続視聴時間約 分） - 
+SIMカード microSIM 
+本体色 LIME
+RED
+BLACK 
+
+
+記事執筆：S-MAX編集部
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・AQUOS PHONE sv SH-10D | 製品 | NTTドコモ

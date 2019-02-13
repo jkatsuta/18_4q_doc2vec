@@ -1,0 +1,31 @@
+http://news.livedoor.com/article/detail/6756923/
+2012-07-14T07:55:00+0900
+本日7月14日発売！WSL JAPAN、Android 4.0搭載7インチタブレット「Xvision-an47」を発表
+ゼロから始めるスマートフォン 
+
+WSL JAPANがAndroid 4.0（開発コード名：IceCream Sandwich；ICS）搭載の7インチタブレット「Xvision-an47」シリーズを発表しました。
+
+無線LAN（Wi-Fi）モデルの「Xvision-an470」が2012年7月14日（土）に発売開始され、3G＋Wi-Fiモデルの「Xvision-an471」が2012年9月末に発売が予定されています。販売チャネルは家電量販店です。
+
+店頭想定価格は、Wi-FiモデルのXvision-an470が24,800円、Wi-Fi＋3GモデルのXvision-an471が34,800円となっています。
+
+Xvision-an47は、OSにAndroid 4.0 ICSを採用したタブレット端末です。タブレットとしては小型に類する7インチディスプレイを採用し、外寸は196×120×10.9mm、重さは375g（3Gモデルは391g）と、持ち運びに便利なサイズとなっています。
+
+本シリーズには、通信機能としてWi-Fiに対応したモデル「Xvision-an470」と、Wi-Fiに加え3G通信にも対応した「Xvision-an471」が用意されています。後者はSIMロックフリーとなっており、W-CDMAでは2100/1900/850（900）MHz、GSMでは1900/1800/900/850MHzに対応します。ドコモやソフトバンクなど、これに対応したキャリアのSIMカードを挿入することで、モバイル通信を行うことができます。また後者はGPSにも対応します。
+
+そのほかの仕様は共通で、Amlogic 8726-M3　1GHzシングルコアCPU、1GB RAM、4GBストレージ、背面200万画素/前面30万画素カメラという内容。無線LANはWiFi IEEE802.11b/g/n準拠、Bluetoothは2.1+EDR。インターフェースはmicroUSB、AC-inジャック・ヘッドホン出力、microSD、miniHDMI、miniUSB（ホスト機能）を備えます。バッテリー容量は3,330mAhで、最大駆動時間はスタンバイ約216時間、音楽再生約7.2時間、動画再生約4.58時間。
+
+ソフトウェアは、Officeビューアー、Media Player、日本語IME「simeji」、Tapnowマーケットがプリインストールされます。Google Playには非対応です。
+
+両モデルとも、開発者向けにrootモードの利用が可能となっており、公式にroot化手順（pdf）が案内されています。root化後は自己責任での利用となります。
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■WSL JAPAN、Android4.0搭載7インチタブレット「Xvision-an47」を7月14日（土）発売 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Android 4.0(Ice Cream Sandwich)搭載7インチタブレット「Xvision-an47」を販売 [PDF] | WSL JAPAN
+・WSL JAPAN　｜　TOP

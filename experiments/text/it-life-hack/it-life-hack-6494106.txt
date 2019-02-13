@@ -1,0 +1,31 @@
+http://news.livedoor.com/article/detail/6494106/
+2012-04-23T10:00:00+0900
+グラフィックスの頂上対決！GeForce GTX680 vs Radeon HD7970
+「Kepler搭載製品が登場！MSIやZOTACよりNVIDIA GeForce GTX 680カード」で紹介したように、KeplerことNVIDIA GeForce GTX 680を搭載するグラフィックスカードが各社から一斉に発売された。
+
+インテルのTurboBoostのGPU版とも言える自動クロックアップ機能「GPU Boost」に加え、前モデルとなるFermiことGeForce GTX 580は消費電力が高かったがKeplerは消費電力が大きく減っている。新アンチエイリアス機能によって画像のなめらかさが大幅に向上しているなど高性能かつ高機能となっているのが特長だ。
+
+GeForce GTX 680のグラフィックス性能は、どれくらいの実力があるのか。PCユーザーの中には、そのパフォーマンスが気になる人もいるだろう。VSPECに協力していただき、グラフィックス性能を検証することができたので、さっそく紹介しよう。
+
+■頂上対決の軍配は！GeForce GTX680 vs Radeon HD7970
+AMDは2011年12月22日、デスクトップPC向けのGPUとしては最高峰となるGPU「Radeon HD 7970」を発表した。GeForce GTX 580に奪われたGPU頂点の座を見事に奪回したのは記憶に新しいところだ。
+
+そうしたAMDに対して、NVIDIAも反撃に出た。GTX 580の後継となる待望の新型GPU「GeForce GTX 680」を発表した。AMD Radeon HD 7970との頂上対決の軍配は、どちらにあがるだろうか気になるところだ。
+
+テストに使用したパソコンのスペックは下記の通り。
+
+ 
+CPU-Zの結果 
+
+今回は、GPUの性能を計測する定番ソフト「3Dmark11※」を使用して、GeForce GTX 680とRadeon HD 7970のパフォーマンスを測定した。参考値として、GeForce GTX 580の数値も載せている。
+※3Dmark11(1.0.3)Performance
+
+ 
+3Dmark11の結果 
+
+3Dmark11の結果を見ると、GeForce GTX 680は9000を超え、10,000に迫る値となった。これまでシングルGPUで最強をうたっていたRadeon HD 7970を上まわったうえに、GeForce GTX 580と比較して約30％もパフォーマンスが向上している。この性能ならGPUの頂点に立つ“最強のGPU”と言っても過言ではないだろう。
+
+・続きは、こちら
+
+■VSPEC
+■メディアバンク

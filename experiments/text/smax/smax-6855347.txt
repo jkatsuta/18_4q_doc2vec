@@ -1,0 +1,36 @@
+http://news.livedoor.com/article/detail/6855347/
+2012-08-14T20:55:00+0900
+NTTドコモ、8月15日以降のAndroid向けFlash Playerの新規インストールができなくなることを案内
+Flash PlayerのGoogle Playでの配信が終了へ 
+
+NTTドコモは14日、Adobe Systemsがモバイル向け「Flash Player」の提供を中止することに当たり、Androidスマートフォン「GALAXY NEXUS SC-04D」（サムスン電子製）では2012年8月15日（水）以降にアプリ配信マーケット「Google Play」からの新規インストールができなくなることをお知らせしています。
+
+なお、現在、Adobe Systemsでは同社Webサポートページ「Archived Flash Player versions」にてAndroid版のインストールファイル（apkファイル）がダウンロードできるようになっていますので、引き続き利用したい人は、ダウンロードして保存しておくと良いかと思います。
+
+
+1.Adobe Systems社のアナウンス内容
+・Flash Playerがプリインストールされていない端末については2012年8月15日（水曜）以降Google Playからの新規インストールは実施できない。
+・Flash Playerを引き続き使用する場合には8月15日までにGoogle Playからインストールをするか、Flash Playerがプリインストールされている端末を利用する事を推奨する。
+・Android4.1以降の端末向けにFlash Playerの開発は行わないため、Android4.1へOSアップデートした場合にはFlash Playerのアンインストールを推奨する。
+
+Flash PlayerとAndroidに関する最新情報(Adobe Systems社ホームページ）へ 
+
+2.対象機種
+【docomo NEXT series】
+Galaxy Nexus SC-04D
+
+3.その他注意事項
+2012年8月15日（水曜）までにFlash　PlayerをGoogle Playからインストールしている場合にはFlash Playerを引き続きご利用頂けますが、以下の場合にはFlash Playerが削除され、Google Playからのインストールができなくなりますのでご注意下さい。
+
+（1）端末を初期化した場合
+（2）Flash Playerのアンインストールを行った場合
+（3）端末を故障修理に出した場合
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・ドコモからのお知らせ : Adobe Systems社のFlash Playerアプリ提供終了について | お知らせ | NTTドコモ
+・Adobe - Flash PlayerとAndroidに関する最新情報
+・Archived Flash Player versions

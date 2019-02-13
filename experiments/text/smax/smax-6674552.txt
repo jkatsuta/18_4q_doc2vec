@@ -1,0 +1,56 @@
+http://news.livedoor.com/article/detail/6674552/
+2012-06-20T05:55:00+0900
+ソニーモバイル、Xperia ionのLTE非対応版「Xperia ion HSPA」を発表
+ゼロから始めるスマートフォン 
+
+ソニーモバイルコミュニケーションズは、同社初のLTE対応スマートフォン「Xperia ion」のLTE非対応版となる「Xperia ion HSPA（型番：LT28h）」を発表しています。
+
+今年1月に発表されたモデルは米国の通信キャリアAT＆T向けの製品「Xperia ion（型番：LT28at）」でしたが、この度発表されたものはグローバル市場向けのモデル。
+
+グローバルモデルにはLTE対応版の「Xperia ion LTE（型番：LT28i）」が存在し、すでに一部地域にて発売されていますが、それに対してこの度発表されたXperia ion HSPA（型番：LT28h）はLTEに対応しないW-CDMA／GSMモデルとなります。LTEがまだ普及していない地域を対象として投入されます。
+
+
+
+
+ネットワーク以外のスペックは共通で、4.6インチHD（1280×720）液晶、1.5GHzデュアルコアCPU（Snapdragon S3）、1GB RAM、16GB ROM、Android 4.0（開発コード名： IceCream Sandwich；ICS）という内容。
+
+カメラは1200万画素の裏面照射型CMOS「Exmor R for Mobile」を採用しています。その他、NFCやDLNAに対応し、HDMI出力端子を備えます。バッテリー容量は1,900mAh。
+
+端末サイズは132×68×10.5mm、重さは144g。カラーはブラックのほかレッドも用意されます。
+
+
+
+
+■スペック
+サイズ：133×68×10.8mm
+重量：144g
+ディスプレイ：4.6インチ　HD（1280×720）　液晶
+OS：Android4.0 Ice Cream Sandwich
+CPU：Qualcomm Snapdragon S3 MSM8260 1.5GHzデュアルコア
+RAM：1GB
+内蔵ストレージ：16GB
+外部ストレージ：microSD/microSDHC（最大32GB）
+カメラ：1200万画素　裏面照射型CMOS「Exmor R for Mobile」　1080pフルHD動画撮影
+フロントカメラ：130万画素　720pHD動画撮影
+無線LAN：IEEE802.11 b/g/n
+Bluetooth：2.1+EDR
+通信方式：W-CDMA/GSM
+対応周波数：UMTS HSPA+ 850 (Band V), 900 (Band VIII), 1700 (Band IV), 1900 (Band II), 2100 (Band I)、GSM EDGE 850, 900, 1800, 1900
+センサー：A-GPS、重力センサー、電子コンパス、接近センサー、照度センサー
+外部端子：microUSB、3.5mmオーディオジャック、microHDMI
+バッテリー容量：1,900mAh
+カラー：ブラック、レッド
+その他：NFC、DLNA
+
+
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■ソニー、Xperia ionのLTE非対応版「Xperia ion HSPA」を発表 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Xperia™ ion HSPA | Android smartphone - Sony Smartphones (Global UK English)
+・

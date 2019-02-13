@@ -1,0 +1,29 @@
+http://news.livedoor.com/article/detail/6713502/
+2012-07-02T11:38:00+0900
+NTTドコモ、Xperia PLAYやXperia ray、Xperia acro、Xperia arc、F-12CにおいてAndroid 4.0 ICSへのOSバージョンアップを断念
+2011年のXperiaシリーズやF-12CのAndroid 4.0は見送り 
+
+NTTドコモは2日、現在販売中のAndroidスマートフォン「Xperia PLAY SO-01D」および「Xperia ray SO-03D」、「Xperia acro SO-02C」、「Xperia arc SO-01C」（ともにソニー・エリクソンモバイルコミュニケーションズ製）、「F-12C」（富士通製）の5機種についてより新しいプラットフォーム「Android 4.0（開発コード名：IceCream Sandwich；ICS）」へのOSバージョンアップの提供を見送ることをお知らせしています。
+
+NTTドコモではすでに今年3月に上記5機種についてAndroid 4.0へのOSバージョンアップを検討中であることを案内していましたが、今回、Android 4.0へバージョンアップすると、メモリ不足となる場合があり、その際に十分な性能が確保できない可能性があるためバージョンアップを断念したということです。
+
+
+
+■AndroidTM4.0へのバージョンアップ検討中の製品について
+　以下の製品については、AndroidTM4.0へのバージョンアップの際、メモリ不足となる場合があり、その際十分な性能が確保できない可能性があるため、AndroidTM4.0 へのバージョンアップは見送らせていただきます。
+
+・「F-12C」
+・「XperiaTM PLAY SO-01D」
+・「XperiaTM ray SO-03C」
+・「XperiaTM acro SO-02C」
+・「XperiaTM arc SO-01C」
+
+なお、ドコモではすでに3月に案内したスマートフォンでは「REGZA Phone T-01D」、「AQUOS PHONE SH-01D」、「LUMIX Phone P-02D」、「PRADA phone by LG L-02D」、「MEDIAS ES N-05D」、「Xperia acro HD SO-03D」、「GALAXY S II SC-02C」、「GALAXY S II LTE SC-03D」、「Optimus LTE L-01D」、「ARROWS X LTE F-05D」、「MEDIAS LTE N-04D」、「Xperia NX SO-02D」、「P-04D」、「AQUOS PHONE SH-06D/SH-06D NERV」、タブレットでは「GALAXY Tab 10.1 LTE SC-01D」、「ARROWS Tab LTE F-01D」、「GALAXY Tab 7.0 Plus SC-02D」、「MEDIAS TAB N-06D」の合計18機種について2012年7月以降に順次Android 4.0へのOSバージョンアップを提供することに加え、これまで検討中としていた「Disney Mobile on docomo F-08D」および「Disney Mobile on docomo P-05D」の2機種、さらにその後に発売開始された「GALAXY Note SC-05D」について2012年8月以降に順次Android 4.0へのOSバージョンアップを提供することも案内しています。
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・ドコモからのお知らせ : 【3機種追加のお知らせ】「docomo with series」「docomo NEXT series」の AndroidTM4.0へのバージョンアップについて | お知らせ | NTTドコモ
+・NTTドコモ、スマートフォンやタブレット18機種にAndroid 4.0 ICSへのバージョンアップを2012年7月以降順次提供 - S-MAX - ライブドアブログ

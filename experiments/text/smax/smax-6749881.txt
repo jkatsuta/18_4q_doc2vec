@@ -1,0 +1,22 @@
+http://news.livedoor.com/article/detail/6749881/
+2012-07-12T11:25:00+0900
+Google、Android 4.1 JellyBeanのソースコードを公開！Nexu 7とGALAXY Nexus用バイナリーも配布開始
+Android 4.1 JellyBeanのソースコードが公開！ 
+
+Googleは10日（現地時間）、スマートフォンやタブレットなどのモバイル向けプラットフォーム「Android」の最新バージョン「Android 4.1（開発コード名：Jelly Bean）」のソースコードを公開したことをお知らせしています。
+
+発表したのは、Android Open Source Project（AOSP）のテクニカルリーダーであるJean-Baptiste Queru氏で、同時にGoogle独自ブランドのタブレット「Nexus 7」およびスマートフォン「GALAXY Nexus」用のバイナリーファイルも公開されています。
+
+Android 4.1は6月27日に発表されたばかりのAndroid OSの最新バージョンです。すでに発表会場となったイベント「Google I/O 2012」に参加した人には、Android 4.1が搭載されたタブレット「Nexus 7」が配られていましたが、その他では7月中旬以降に「GALAXY Nexus」や「Nexus S」、「Motorola XOOM」といったデバイスにOTA（ソフトウェア更新）が提供される予定となっています。
+
+今回公開されたAndroid 4.1のソースコードは、AOSPのリポジトリから取得できるようになっています。取得方法については、AOSPにて紹介されています。なお、公開されたAndroid 4.1のリリースタグは「android-4.1.1_r1」で、ブランチは「jb-dev」となっています。
+
+これによって、自前でビルドしてAndroid 4.1を導入することが可能になるほか、Android 4.1ベースのカスタムROMの作成もできるようになります。
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Welcome to Android | Android Open Source
+・Android 4.1 in AOSP - Google グループ

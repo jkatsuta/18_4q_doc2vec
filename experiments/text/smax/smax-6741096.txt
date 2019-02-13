@@ -1,0 +1,45 @@
+http://news.livedoor.com/article/detail/6741096/
+2012-07-10T06:55:00+0900
+Motorola、防水・防塵対応の前面QWERTYキーボード搭載Androidスマートフォン「DEFY PRO」を発表
+防水・防塵のフルキーボードスマホが登場！ 
+
+Motorola Mobiliry（モトローラ・モビリティ）は5日（現地時間）、ディスプレイの下にパソコンと同じQWERTY配列のフルキーボードを搭載した防水・防塵対応のAndroidスマートフォン「MOTOROLA DEFY PRO」を発表ています。
+
+ブラジルで2012年7月15日（日）に発売予定です。
+
+
+
+
+MOTOROLA DEFY PROはモトローラの防水・防塵スマートフォン“DEFYシリーズ”にラインナップされた、IP67準拠の防水・防塵性能を有したAndroidスマートフォンです。PROと名付けられているように、ディスプレイの下にパソコンと同じようなQWERTY配列のフルキーボードが搭載されています。キートップはいわゆる“Berry（ベリー）”タイプの小さなもの。
+
+前面QERTYキーボード搭載ながら防水・防塵に対応しているモデルはかなり珍しいかと思います。
+
+ディスプレイはタッチパネル対応の2.68インチHVGA（320×480ドット）液晶で、傷や衝撃に強いコーニング製「Gorilla Galass」が採用されています。その他のスペックとしては、内蔵ストレージは2GB、外部メモリーはmicroSDカード（最大32GBまで）、背面に500万画素CMOSカメラ、前面にビデオチャットなどができる約30万画素CMOSインカメラ、無線LAN（Wi-Fi）、DLNA、Bluetooth、microUSBなどとなっています。OSはAndroid 2.3（開発コード名：Gigngerbread）を採用。
+
+■主なスペック
+製品名：MOTOROLA DEFY PRO
+大きさ：約110.8×66×12.3mm
+質量：約116g
+OS：Android 2.3.7 Gingerbread
+CPU：不明
+RAM：512MB
+ROM：2GB
+ディスプレイ：2.68インチHVGA（320×480ドット）液晶（Gorilla Galass）
+ネットワーク：GSM 850／900／1800／1900、W-CDMA 800／1900／2100、HSDPA 7.2Mbps、EDGE、GPRS
+無線LAN（Wi-Fi）：IEEE802.11b／g／n準拠
+Bluetooth：2.1＋EDR
+メインカメラ：500万画素（LEDフラッシュ付）
+インカメラ：30万画素
+センサー：a-GPS
+外部メモリー：microSD（最大32GBまで)
+外部端子：microUSB
+バッテリー容量：1650mAh
+その他：防水／防塵（IP67準拠）、QWERTYキーボード
+
+記事執筆：memn0ck
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Motorola Mobility Launches Motorola DEFY™ PRO in Brazil - Press Releases - Motorola Mobility, Inc.
+・MOTOROLA DEFY PRO - ESPECIFICACOES - Motorola Industrial Ltda. Brasil

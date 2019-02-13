@@ -1,0 +1,25 @@
+http://news.livedoor.com/article/detail/6817348/
+2012-08-02T17:00:00+0900
+ロープロ対応で省スペースPCに喝！　手ごろなRadeon HD 7750搭載グラボ登場！
+アスクは、AMDの最新アーキテクチャを採用したGPU“Radeon HD 7750”を搭載するSapphire製グラフィックスボード「HD7750 1G GDDR5 PCI-E MICRO HDMI / DVI-I / MINI DP LP」を8月9日に発売する。Radeon HD 7750は、512ユニットのストリームプロセッサを備えるAMDの最新GPUで28nmプロセス技術と「Graphics Core Next Architecture」、「PCI Express 3.0インターフェイス」を採用する。“AMD PowerTune Technology”と“AMD ZeroCore Power Technology”により、パフォーマンスあたりの電力効率を飛躍的に向上したため、最大消費電力55Wと消費電力が低いのも特徴だ。
+
+ロープロファイルに準拠しており、小型PCや省スペースPCなどでも組み込みやすい。最近のGPUは、PCI Expressからの給電では足りずに別途補助電源を必要とするグラフィックスカードが多いが、この製品はPCI Expressからの給電だけで動作する。また、ロープロファイルブラケット利用時もDVI-I、microHDMI、Mini DisplayPortを1スロットで利用でき、最大3画面の出力が可能だ。冷却ファンは、熱やホコリに強い2ボールベアリングタイプを採用しているので連続的な長時間運用にも耐える仕様となっている。
+
+Sandy BridgeやIvy Bridegeの内蔵グラフィックスでは、動作しなかったゲームでも、このカードを増設することでサクサクと動作するようになる。いままでゲームが動かないと悩んでいた人にもオススメしたい。
+
+◆製品情報
+メーカー：Sapphire Technology
+製品名：HD7750 1G GDDR5 PCI-E MICRO HDMI / DVI-I / MINI DP LP
+型番：SAHD775-1GD5LP/11202-10-20G
+発売時期：8月9日
+予想市場価格：1万4千000円前後
+
+■HD7750 1G GDDR5 PCI-E MICRO HDMI / DVI-I / MINI DP LP
+■アスク
+
+
+
+
+
+SAPPHIRE Radeon ビデオカード ULTIMATE HD7750 1G GDDR5 PCI-E  日本正規代理店品 SAUL-HD775-1GD5R0
+クチコミを見る

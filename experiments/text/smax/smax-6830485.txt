@@ -1,0 +1,51 @@
+http://news.livedoor.com/article/detail/6830485/
+2012-08-07T06:55:00+0900
+Samsung、Sペン対応10インチタブレット「Galaxy Note 10.1」の発売時期および投入地域などの詳細を発表[Galaxy_Report]
+ゼロから始めるスマートフォン 
+
+Samsung Electronicsは6日（現地時間）、10.1インチサイズのAndroid搭載タブレット「Galaxy Note 10.1」についての発売時期などの詳細を発表しています。
+
+発売時期は8月で、まずは韓国・米国・英国・ドイツで発売されます。その後、全世界へ展開する計画です。製品にはWi-Fiのみのモデル、Wi-Fi＋3Gモデル、Wi-Fi＋LTEモデルの3タイプが用意されます。Wi-Fi＋LTEモデルについては今年後半に発売されます。
+
+
+
+Galaxy Note 10.1は、今年2月に発表された10.1インチの大型ディスプレイを搭載するAndroidタブレットです。S-Penと呼ばれる専用のスタイラスペンが付属しており、これによる高度な手書き入力、イラスト入力が特徴です。
+
+10.1インチの大きなスクリーンを活かした「マルチスクリーン機能」も特徴的で、画面を2分割して、一方にはWebページや動画を表示し、もう一方でメモをとるといった使い方ができます。
+
+OSはAndroid 4.0（開発コード名：IceCream Sandwich；ICS）です。CPUは1.4GHzクアッドコア（Samsung Exynos 4412）。メモリーはRAMが2GBで、ROMが16／32／64GB（3モデル）。カメラは背面500万画素、前面190万画素です。
+
+ 
+ 
+
+
+
+
+■スペック
+端末サイズ：262×180×8.9mm
+重さ：600g（3Gモデル）、597g（Wi-Fiモデル）
+ディスプレイ：10.1インチ　WXGA（1280×800）　PLSパネル
+OS：Android4.0.3 Ice Cream Sandwich
+CPU：1.4GHzクアッドコア（Samsung Exynos4412）
+RAM：2GB
+ROM：16GB
+外部メモリー：microSDHC（最大32GB）
+カメラ：500万画素（1080pフルHD動画撮影サポート、フラッシュ付き）、前面190万画素
+ネットワーク：HSPA + 21 Mbps（HSDPA 21Mbps / HSUPA 5.76Mbps）、GSM/GPRS/EDGE（850/900/1900/2100 MHz）
+無線LAN：IEEE802.11 a/b/g/n
+Bluetooth：ver4.0
+センサー：加速度計、デジタルコンパス、ライト、ジャイロ
+バッテリー：7,000mAh
+カラー：ブラック、ホワイト
+その他：S-pen付属、GPS/Gronass
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■サムスン、「Galaxy Note 10.1」の発売時期・投入地域などの詳細を発表 | ゼロから始めるスマートフォン
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・Samsung Mobile Press
+・Samsung Mobile Press

@@ -1,0 +1,85 @@
+http://news.livedoor.com/article/detail/6512217/
+2012-04-27T17:55:00+0900
+MVPen、超低価格なAndroid4.0搭載タブレット3製品を発売！いまなら7インチモデルが11,800円
+ゼロから始めるスマートフォン 
+
+MVPenテクノロジーズが1万円台で購入できるAndroid4.0搭載タブレット3製品を発表し、すでに一部販売が開始されています。
+
+ラインアップは、7インチの「nextbook PREMIUM7」、8インチの「nextbook PREMIUM8」、そして9.7インチの「nextbook PREMIUM10」。PREMIUM8は4月19日より既に販売が開始されており、PREMIUM7は5月15日、PREMIUM10は5月上旬〜中旬の発売が予定されています。
+
+価格はPREMIUM7が16,800円、PREMIUM8が19,800円、PREMIUM10が24,800円です。現在、発売記念キャンペーンが実施されており、さらに3,000〜5,000円が値引きされます。PREMIUM7なら11,800円で購入可能。
+
+いずれもAndroidの最新バージョンAndroid 4.0（開発コード名：IceCream Sandwich；ICS）が搭載されています。その他基本スペックは、Cortex-A8 1GHz CPU、512MB RAM、4〜8GBストレージ、前面200万画素カメラ、5,000mAhバッテリーという内容。Google PlayストアとFlashには非対応となっています。
+
+・E FUN 7.0インチ nextbook PREMIUM7 【送料無料】
+・E FUN 8.0インチ nextbook PREMIUM8 【送料無料】
+・E FUN 9.7インチ nextbook PREMIUM10 【送料無料】
+
+PREMIUM7スペック
+本体サイズ：約190(W)×130（L) ×11.7（D)mm
+本体重量：約382g
+ディスプレイ：7インチTFT　WVGA（800×480）　静電式
+OS：Android4.0 ICS
+CPU：Cortex A8 1GHz
+RAM：512MB DDR3
+ストレージ：Nand Flash 4GB(システム領域含む)
+カメラ：前面200万画素
+無線LAN：IEEE802.11b/g/n
+Bluetooth：-
+センサー：Gセンサー
+カラー：黒色
+内蔵バッテリー：5,000mAh(リチウムバッテリー、WEB閲覧が約5時間使用可能)
+インターフェイス：MiniUSB×1/SDカード×1(16GBまで対応)/イヤホンジャック×1/HDMI×1
+付属品：充電器100〜240V×1個/USBコード×1本/化粧箱×1個/ポーチ入れ152（L)
+その他：Google Playストア非対応、Flash非対応
+ 
+
+
+PREMIUM8スペック
+本体サイズ：約220(W)×152（L) ×10（D)mm
+本体重量：約482g
+ディスプレイ：8インチTFT　SVGA（800×600）　静電式
+OS：Android4.0 ICS
+CPU：Cortex A8 1GHz
+RAM：512MB DDR3
+ストレージ：Nand Flash 4GB(システム領域含む)
+カメラ：前面200万画素
+無線LAN：IEEE802.11b/g/n
+Bluetooth：-
+センサー：Gセンサー
+カラー：黒色
+内蔵バッテリー：5,000mAh(リチウムバッテリー、WEB閲覧が約5時間使用可能)
+インターフェイス：MiniUSB×1/SDカード×1(16GBまで対応)/イヤホンジャック×1/HDMI×1
+付属品：充電器100〜240V×1個/USBコード×1本/化粧箱×1個/ポーチ入れ152（L)
+その他：Google Playストア非対応、Flash非対応
+ 
+
+
+PREMIUM7スペック
+本体サイズ：約240(W)×187（L)×10(D) mm
+本体重量：約601g
+ディスプレイ：9.7インチTFT　XGA（1024×768）　静電式
+OS：Android4.0 ICS
+CPU：Cortex A8 1GHz
+RAM：512MB DDR3
+ストレージ：Nand Flash 8GB(システム領域含む)
+カメラ：前面200万画素
+無線LAN：IEEE802.11b/g/n
+Bluetooth：-
+センサー：Gセンサー
+カラー：黒色
+内蔵バッテリー：5,000mAh(リチウムバッテリー、WEB閲覧が約5時間使用可能)
+インターフェイス：MiniUSB×1/SDカード×1(16GBまで対応)/イヤホンジャック×1/HDMI×1
+付属品：充電器100〜240V×1個/USBコード×1本/化粧箱×1個/ポーチ入れ152（L)
+その他：Google Playストア非対応、Flash非対応
+ 
+
+記事執筆：ゼロから始めるスマートフォン
+
+■ゼロから始めるスマートフォン
+■
+
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX） smaxjp on Twitter
+・MVPenテクノロジーズ | 手書き、ペンタブレット（pentablet）ならMVペン
