@@ -2,7 +2,7 @@
 
 ### Blog link
 下記の構成を参考にnotebookを見れば理解できるようにしているが、  
-リンク先のblog[XXX]では、このrepositoryの内容をまとめて説明している。
+リンク先の[blog](https://recruit.gmo.jp/engineer/jisedai/blog/doc2vec-evaluation/)では、このrepositoryの内容をまとめて説明している。
 
 ### 対象読者
 「Doc2Vecやってみた」から次の一歩を踏み出す人達に役立つ内容かなぁ、と思ってます。
